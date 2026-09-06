@@ -1,0 +1,10 @@
+{
+  "documentos_original": 91749,
+  "documentos_unicos": 91585,
+  "duplicados_exactos": 123,
+  "duplicados_normalizados": 164,
+  "palabras": 35642951,
+  "promedio_palabras": 389.1789157613146,
+  "tokens_split": 37334918,
+  "marcadores_maquetacion": 408
+}

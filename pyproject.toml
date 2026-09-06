@@ -1,0 +1,29 @@
+[project]
+name = "proyecto-pln"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "es-core-news-sm",
+    "ipykernel>=7.3.0",
+    "matplotlib>=3.11.1",
+    "nltk>=3.10.3",
+    "pandas>=3.0.5",
+    "pyarrow>=25.0.1",
+    "spacy>=3.8.16",
+    "wordcloud>=1.9.6",
+]
+
+[dependency-groups]
+dev = [
+    "nbstripout>=0.9.1",
+    "ruff>=0.16.6",
+]
+
+[tool.uv.sources]
+es-core-news-sm = { url = "https://github.com/explosion/spacy-models/releases/download/es_core_news_sm-3.8.0/es_core_news_sm-3.8.0-py3-none-any.whl" }
+
+[tool.ruff]
+target-version = "py312"
+extend-include = ["*.ipynb"]
