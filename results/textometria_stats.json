@@ -1,0 +1,24 @@
+{
+  "documentos": 91585,
+  "tokens": 32663056,
+  "tipos": 305904,
+  "promedio": 356.6419828574548,
+  "mediana": 253.0,
+  "desviacion": 376.43115097626224,
+  "minimo": 12,
+  "p25": 83.0,
+  "p75": 503.0,
+  "maximo": 11591,
+  "stopwords_nltk": 313,
+  "stopwords_spacy": 521,
+  "eliminado_nltk": 0.4646802797631673,
+  "eliminado_spacy": 0.5316141269818722,
+  "fragmento_000_antes": 31529,
+  "fragmento_000_despues": 176,
+  "docs_con_url": 1342,
+  "cortes_bloques": [
+    1996,
+    2002,
+    2007
+  ]
+}

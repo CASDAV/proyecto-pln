@@ -2,6 +2,7 @@
 
 import hashlib
 import io
+import re
 import urllib.request
 from pathlib import Path
 
@@ -90,3 +91,21 @@ def results_dir() -> Path:
     d = (Path("/content") if in_colab() else repo_root()) / "results"
     d.mkdir(parents=True, exist_ok=True)
     return d
+
+
+RE_MILES = re.compile(r"(?<!\d)(\d{1,3})(?: ['’] | \. )(?=\d{3}(?!\d))")
+RE_DEC_COMA = re.compile(r"(?<=\d) , (?=\d{1,2}(?!\d))")
+RE_DEC_PUNTO = re.compile(r"(?<=\d) \. (?=\d{1,2}(?!\d)(?! *:))")
+RE_AMPM = re.compile(r"(?<=\d)\s+([ap])\s*\.?\s+m\b")
+RE_CTRL = re.compile(r"[\x80-\x9f]")
+
+
+def normalizar_texto(s: pd.Series) -> pd.Series:
+    """Reune cifras y horas que la tokenización de origen partió con espacios."""
+    return (
+        s.str.replace(RE_CTRL, " ", regex=True)
+        .str.replace(RE_MILES, r"\1", regex=True)
+        .str.replace(RE_DEC_COMA, ",", regex=True)
+        .str.replace(RE_DEC_PUNTO, ".", regex=True)
+        .str.replace(RE_AMPM, r" \1m", regex=True)
+    )
