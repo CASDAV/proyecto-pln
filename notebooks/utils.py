@@ -83,3 +83,10 @@ def load_corpus(verify: bool = True) -> pd.DataFrame:
         raise RuntimeError(f"esperaba {N_DOCS_UNICOS} documentos, hay {len(df)}")
 
     return df
+
+
+def results_dir() -> Path:
+    """Carpeta de resultados: /content/results en Colab, results/ del repo en local."""
+    d = (Path("/content") if in_colab() else repo_root()) / "results"
+    d.mkdir(parents=True, exist_ok=True)
+    return d
