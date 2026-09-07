@@ -60,10 +60,6 @@ source .venv/bin/activate        # Windows: .venv\Scripts\activate
 pip install pandas pyarrow spacy nltk matplotlib wordcloud ipykernel
 ```
 
-Las dependencias se listan una por una en lugar de usar `pip install -e .`
-porque `pyproject.toml` declara además el modelo `es_core_news_sm` mediante
-`[tool.uv.sources]`, una sección que solo uv interpreta. Pip buscaría ese
-paquete en PyPI y fallaría.
 
 Si no tienes Python 3.12 disponible, instálalo con
 [pyenv](https://github.com/pyenv/pyenv) o desde python.org antes de crear el
