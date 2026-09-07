@@ -37,6 +37,32 @@ def _sha256(path: Path) -> str:
     return h.hexdigest()
 
 
+def setup(verbose: bool = True) -> None:
+    """Prepara el entorno de ejecución.
+
+    En Colab instala las dependencias que no vienen preinstaladas. En local
+    no instala nada (eso lo resuelve uv o pip). En ambos casos descarga el
+    corpus de stopwords de NLTK si falta.
+    """
+    if in_colab():
+        import subprocess
+        import sys
+
+        paquetes = ["spacy>=3.8", "nltk", "wordcloud", "pyarrow"]
+        if verbose:
+            print("Instalando dependencias en Colab...")
+        subprocess.run(
+            [sys.executable, "-m", "pip", "install", "-q", *paquetes], check=True
+        )
+
+    import nltk
+
+    try:
+        nltk.data.find("corpora/stopwords")
+    except LookupError:
+        nltk.download("stopwords", quiet=not verbose)
+
+
 def load_corpus_raw(verify: bool = True) -> pd.DataFrame:
     """Carga el corpus crudo, sin deduplicación ni limpieza.
 
