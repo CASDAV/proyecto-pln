@@ -68,8 +68,7 @@ entorno.
 ### Modelo de spaCy
 
 La tokenización usa `spacy.blank("es")`, que aplica reglas y no carga ningún
-modelo estadístico. El paquete `es_core_news_sm` figura entre las
-dependencias de `pyproject.toml`, pero el código no lo utiliza.
+modelo estadístico.
 
 ### Datos de NLTK
 
