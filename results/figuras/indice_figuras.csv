@@ -1,0 +1,18 @@
+id,archivo,mensaje,fuentes_datos,seccion_informe
+F01,f01_seleccion_k.pdf,"K = 18 es el K más chico a 1 EE del mejor NPMI held-out con estabilidad ≥ 0,80.",08/metricas_K.csv; 08/resumen_08.json,Método
+F02,f02_bigramas.pdf,Los bigramas automáticos no suben la coherencia y casi no entran al top-10; solo la lista blanca suma.,08/comparacion_bigramas.csv; 08/resumen_08.json,Apéndice
+F03,f03_topicos.pdf,"18 tópicos: 17 interpretables y uno residual (T10, registro de opinión dependiente de la longitud).",08/topicos.csv; 08/nombres_topicos.csv; figuras/macrocategorias.csv,Método
+F04,f04_macrocategorias.pdf,Los 17 tópicos de agenda se agrupan en macrotemas; la co-ocurrencia en θ respalda la agrupación a mano.,08/theta_documentos.parquet; figuras/macrocategorias.csv,Apéndice
+F05,f05_prevalencia_topicos.pdf,Los cambios de agenda de El Tiempo se concentran en pocos tópicos y en 1995 y 2006.,08/prevalencias_ic.csv; 08/robustez_cambios.csv; 08/resumen_08.json,Agenda
+F06,f06_prevalencia_macro.pdf,La misma lectura en 7 macrotemas: agenda estable con saltos en 1995 y 2006.,08/theta_documentos.parquet; 08/meses_validos.csv; figuras/macrocategorias.csv,Agenda
+F07,f07_estabilidad.pdf,"El cambio anual excede al ruido en ≈ 5–6 % de la distancia ET–Semana; el decaimiento se aplana: regímenes, no deriva.",08/transiciones.csv; 08/js_entre_fuentes.csv; 08/decaimiento_rezago.csv,Agenda
+F08,f08_prueba_artefacto.pdf,2000 coincide con cambios de formato y de codificación; 2006 coincide con todos: la ü lo corrobora de forma independiente.,08/cambios_detectados.csv; 08/formato_fuente_año.csv; 09/diagnostico_codificacion.csv,Robustez
+F09,f09_robustez.pdf,"1995 es robusto, 1998 queda en el límite, 2000/2002 son artefacto de formato y 2006 está confundido con el archivo.",08/robustez_cambios.csv,Robustez
+F10,f10_linea_tiempo.pdf,Los cambios de agenda no se alinean con eventos más que el azar; los cruces léxicos tienen su propio calendario.,08/robustez_cambios.csv; 08/resumen_08.json; 09/cruces_variantes.csv,Robustez
+F11,f11_piso_zipf.pdf,"La banda rara no se puede medir fuera de El Tiempo (piso Zipf ≥ 3) y el denominador desplaza el Zipf ≈ 0,4.",09/pmw_zipf.parquet; data/corpus_procesado.parquet (re-derivación verificada),Cronolecto
+F12,f12_ic_poisson_bootstrap.pdf,"Bajo unas 20 apariciones la tasa no es fiable, y Poisson subestima el error real (ráfagas por documento).",data/corpus_procesado.parquet (re-derivación verificada contra 09/resumen_09.json),Cronolecto
+F13,f13_zipf_frecuencia_documental.pdf,"A igual Zipf, la frecuencia documental varía hasta decenas de veces; la DP se satura.",09/dispersion.csv,Cronolecto
+F14,f14_cuotas_variantes.pdf,Los reemplazos tienen fechas propias; solo tercera edad → adulto mayor cae cerca de 2006.,09/variantes_cuotas.csv; 09/cruces_variantes.csv; 09/tildes_pmw.csv,Cronolecto
+F15,f15_paz_lexica.pdf,"El léxico de paz tiene picos distintos: paz 1999–2001, desmovilización 2003–06, acuerdo humanitario 2007.",09/paz_lexica.csv,Cronolecto
+F16,f16_vecinos_estables.pdf,El cambio semántico se ve en los vecinos estables (celular: occel → blackberry; banda: pandilla → bacrim).,09/vecinos_por_periodo_bootstrap.csv,Cronolecto
+F17,f17_neologismos.pdf,Entra la tecnología y el léxico del conflicto; sale la economía de los 90 y la actualidad internacional.,09/categorias_lexico.csv,Cronolecto

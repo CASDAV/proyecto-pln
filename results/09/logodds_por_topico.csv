@@ -1,0 +1,2041 @@
+topico,nombre,par,lado,rango,termino,z,n_i,n_j
+TODOS,sin condicionar,P1-P4,P1,1,liberal,19.292517680342847,958,862
+TODOS,sin condicionar,P1-P4,P1,2,inflación,19.105615245586304,619,407
+TODOS,sin condicionar,P1-P4,P1,3,apertura,18.18718064200428,635,466
+TODOS,sin condicionar,P1-P4,P1,4,económico,17.772927081667955,2052,2717
+TODOS,sin condicionar,P1-P4,P1,5,soviético,17.192977328264075,308,74
+TODOS,sin condicionar,P1-P4,P1,6,importación,17.186037872494296,437,248
+TODOS,sin condicionar,P1-P4,P1,7,corporación,16.6996450787567,473,311
+TODOS,sin condicionar,P1-P4,P1,8,artículo,16.62072450690521,883,893
+TODOS,sin condicionar,P1-P4,P1,9,industrial,16.402520335267084,644,554
+TODOS,sin condicionar,P1-P4,P1,10,exportación,16.37809774018116,530,398
+TODOS,sin condicionar,P1-P4,P1,11,serbio,16.01966494805556,320,141
+TODOS,sin condicionar,P1-P4,P1,12,república,15.856033253630661,273,84
+TODOS,sin condicionar,P1-P4,P1,13,nacional,15.239618757141889,2348,3480
+TODOS,sin condicionar,P1-P4,P1,14,dirigente,15.0648815992762,735,748
+TODOS,sin condicionar,P1-P4,P1,15,precio,15.057747148987863,1565,2108
+TODOS,sin condicionar,P1-P4,P4,1,evento,-19.59164120070852,238,2026
+TODOS,sin condicionar,P1-P4,P4,2,persona,-18.28524852966495,2987,9728
+TODOS,sin condicionar,P1-P4,P4,3,víctima,-17.352087891103185,521,2660
+TODOS,sin condicionar,P1-P4,P4,4,mujer,-17.248767528058586,1207,4682
+TODOS,sin condicionar,P1-P4,P4,5,paramilitar,-16.417576900305388,70,1173
+TODOS,sin condicionar,P1-P4,P4,6,banda,-14.255231610342184,269,1535
+TODOS,sin condicionar,P1-P4,P4,7,carro,-14.125450434516614,439,2052
+TODOS,sin condicionar,P1-P4,P4,8,alia,-14.103026250326126,22,1019
+TODOS,sin condicionar,P1-P4,P4,9,entrada,-13.878118535809733,383,1856
+TODOS,sin condicionar,P1-P4,P4,10,niño,-13.761660834797306,1366,4639
+TODOS,sin condicionar,P1-P4,P4,11,homicidio,-13.740598843445264,129,1035
+TODOS,sin condicionar,P1-P4,P4,12,artista,-13.496719296862233,430,1962
+TODOS,sin condicionar,P1-P4,P4,13,ilegal,-13.157392992069079,228,1304
+TODOS,sin condicionar,P1-P4,P4,14,joven,-12.976203565414808,979,3481
+TODOS,sin condicionar,P1-P4,P4,15,mandatario,-12.49862887197528,332,1571
+T00,Educación,P1-P4,P1,1,físico,8.205225479502117,55,39
+T00,Educación,P1-P4,P1,2,militar,6.435687743121899,28,5
+T00,Educación,P1-P4,P1,3,educación,5.632759630267057,184,456
+T00,Educación,P1-P4,P1,4,tradicional,4.961650192998166,18,10
+T00,Educación,P1-P4,P1,5,centro,4.9187988530358355,54,93
+T00,Educación,P1-P4,P1,6,ministro,4.656548423986988,15,7
+T00,Educación,P1-P4,P1,7,padre,4.653909703279156,40,62
+T00,Educación,P1-P4,P1,8,cosa,4.652815922489195,19,15
+T00,Educación,P1-P4,P1,9,forma,4.559744756533769,39,61
+T00,Educación,P1-P4,P1,10,médico,4.549923409814687,21,20
+T00,Educación,P1-P4,P1,11,adolescente,4.543866498636846,14,6
+T00,Educación,P1-P4,P1,12,necesidad,4.49788523574743,37,57
+T00,Educación,P1-P4,P1,13,plan,4.465397990132134,31,43
+T00,Educación,P1-P4,P1,14,primario,4.442424595219766,19,17
+T00,Educación,P1-P4,P1,15,sector,4.403364011729484,51,95
+T00,Educación,P1-P4,P4,1,informe,-5.114648428136883,2,194
+T00,Educación,P1-P4,P4,2,inscripción,-4.825438581870796,11,201
+T00,Educación,P1-P4,P4,3,abierto,-4.356126695672227,4,140
+T00,Educación,P1-P4,P4,4,proyecto,-4.181917146730528,29,271
+T00,Educación,P1-P4,P4,5,teléfono,-4.127831325014337,2,124
+T00,Educación,P1-P4,P4,6,docente,-4.079600151097851,35,299
+T00,Educación,P1-P4,P4,7,ext,-3.8900110665556977,0,128
+T00,Educación,P1-P4,P4,8,evento,-3.8289971693622733,3,108
+T00,Educación,P1-P4,P4,9,sede,-3.7399888416021074,8,129
+T00,Educación,P1-P4,P4,10,niño,-3.533175998397989,30,245
+T00,Educación,P1-P4,P4,11,electrónico,-3.3884992226822512,5,97
+T00,Educación,P1-P4,P4,12,correo,-3.22402409728317,0,88
+T00,Educación,P1-P4,P4,13,convocatoria,-3.1481051776194042,2,73
+T00,Educación,P1-P4,P4,14,cabo,-3.0214009321467152,5,83
+T00,Educación,P1-P4,P4,15,convenio,-2.8808723715856837,17,147
+T01,Empresas y comercio exterior,P1-P4,P1,1,apertura,6.009699672632678,58,15
+T01,Empresas y comercio exterior,P1-P4,P1,2,nacional,5.662769645603575,117,75
+T01,Empresas y comercio exterior,P1-P4,P1,3,precio,4.743171877539979,157,134
+T01,Empresas y comercio exterior,P1-P4,P1,4,importación,4.697024750384176,68,39
+T01,Empresas y comercio exterior,P1-P4,P1,5,fruta,4.578720375592603,33,8
+T01,Empresas y comercio exterior,P1-P4,P1,6,computador,4.187491097880547,26,5
+T01,Empresas y comercio exterior,P1-P4,P1,7,industria,4.105834321590041,98,78
+T01,Empresas y comercio exterior,P1-P4,P1,8,importador,4.08012899844357,28,8
+T01,Empresas y comercio exterior,P1-P4,P1,9,importado,3.927134102250643,30,11
+T01,Empresas y comercio exterior,P1-P4,P1,10,exportación,3.9017107996860454,98,81
+T01,Empresas y comercio exterior,P1-P4,P1,11,mercancía,3.870267326882133,22,4
+T01,Empresas y comercio exterior,P1-P4,P1,12,fábrica,3.8441964963192303,27,9
+T01,Empresas y comercio exterior,P1-P4,P1,13,privado,3.7433730623889674,25,8
+T01,Empresas y comercio exterior,P1-P4,P1,14,ropa,3.6955873613248094,28,11
+T01,Empresas y comercio exterior,P1-P4,P1,15,fabricante,3.6806939571693458,29,12
+T01,Empresas y comercio exterior,P1-P4,P4,1,negocio,-7.265739065045097,37,205
+T01,Empresas y comercio exterior,P1-P4,P4,2,empresa,-4.571787182342393,148,348
+T01,Empresas y comercio exterior,P1-P4,P4,3,tienda,-4.360489400743366,14,76
+T01,Empresas y comercio exterior,P1-P4,P4,4,socio,-3.9599208026129284,3,45
+T01,Empresas y comercio exterior,P1-P4,P4,5,venta,-3.4716451086195073,108,243
+T01,Empresas y comercio exterior,P1-P4,P4,6,inversionista,-3.4480872006200376,5,39
+T01,Empresas y comercio exterior,P1-P4,P4,7,marca,-3.3302483061902315,31,94
+T01,Empresas y comercio exterior,P1-P4,P4,8,unidad,-3.1784033585848968,17,62
+T01,Empresas y comercio exterior,P1-P4,P4,9,compra,-3.1355056376585897,22,72
+T01,Empresas y comercio exterior,P1-P4,P4,10,billón,-3.1125847780022506,1,28
+T01,Empresas y comercio exterior,P1-P4,P4,11,oferta,-3.086955494321526,20,67
+T01,Empresas y comercio exterior,P1-P4,P4,12,cámara_comercio,-2.989069076309786,2,26
+T01,Empresas y comercio exterior,P1-P4,P4,13,departamento,-2.9790353924242736,5,32
+T01,Empresas y comercio exterior,P1-P4,P4,14,promoción,-2.9555741456930793,6,34
+T01,Empresas y comercio exterior,P1-P4,P4,15,alianza,-2.9554282214739143,0,31
+T02,Conflicto armado: combates,P1-P4,P1,1,delincuente,9.704444831131502,96,45
+T02,Conflicto armado: combates,P1-P4,P1,2,agente,9.689685094310436,123,85
+T02,Conflicto armado: combates,P1-P4,P1,3,jurisdicción,9.66669653894899,86,30
+T02,Conflicto armado: combates,P1-P4,P1,4,fuerzas_armada,7.025565690144518,63,42
+T02,Conflicto armado: combates,P1-P4,P1,5,acción,6.952076089209248,145,182
+T02,Conflicto armado: combates,P1-P4,P1,6,vocero,6.531665856443174,42,18
+T02,Conflicto armado: combates,P1-P4,P1,7,subversivo,5.992364150459995,99,119
+T02,Conflicto armado: combates,P1-P4,P1,8,kilómetro,5.822763041098934,52,42
+T02,Conflicto armado: combates,P1-P4,P1,9,asalto,5.61713544269832,37,22
+T02,Conflicto armado: combates,P1-P4,P1,10,miembro,5.34794755879805,121,175
+T02,Conflicto armado: combates,P1-P4,P1,11,dinamita,5.26489485070663,31,2
+T02,Conflicto armado: combates,P1-P4,P1,12,sitio,5.179416340761054,86,111
+T02,Conflicto armado: combates,P1-P4,P1,13,cuartel,4.913489387015555,25,12
+T02,Conflicto armado: combates,P1-P4,P1,14,dirigente,4.8956939525823255,29,18
+T02,Conflicto armado: combates,P1-P4,P1,15,secuestrador,4.746617749510484,28,18
+T02,Conflicto armado: combates,P1-P4,P4,1,alia,-8.052829666234357,9,336
+T02,Conflicto armado: combates,P1-P4,P4,2,banda,-5.072559248661641,16,166
+T02,Conflicto armado: combates,P1-P4,P4,3,explosivo,-5.052472808514303,24,197
+T02,Conflicto armado: combates,P1-P4,P4,4,jefe,-4.898767803542591,65,346
+T02,Conflicto armado: combates,P1-P4,P4,5,captura,-4.794065924164211,21,175
+T02,Conflicto armado: combates,P1-P4,P4,6,homicidio,-4.708981517988059,9,125
+T02,Conflicto armado: combates,P1-P4,P4,7,caso,-4.494049699479575,31,203
+T02,Conflicto armado: combates,P1-P4,P4,8,paramilitar,-4.3982541551050645,10,117
+T02,Conflicto armado: combates,P1-P4,P4,9,desmovilizado,-4.118358980467453,2,90
+T02,Conflicto armado: combates,P1-P4,P4,10,bloque,-4.117347485742916,3,87
+T02,Conflicto armado: combates,P1-P4,P4,11,humanitario,-4.046935278848347,3,84
+T02,Conflicto armado: combates,P1-P4,P4,12,secuestrado,-3.9605422074130043,35,199
+T02,Conflicto armado: combates,P1-P4,P4,13,investigación,-3.8168478338632834,23,149
+T02,Conflicto armado: combates,P1-P4,P4,14,uniformado,-3.665959939790332,32,178
+T02,Conflicto armado: combates,P1-P4,P4,15,ilegal,-3.5496942090899797,0,101
+T03,Tecnología y telecomunicaciones,P1-P4,P1,1,sistema,9.349043896239433,305,251
+T03,Tecnología y telecomunicaciones,P1-P4,P1,2,disco,9.125329874576833,102,20
+T03,Tecnología y telecomunicaciones,P1-P4,P1,3,computador,8.631738884126055,229,175
+T03,Tecnología y telecomunicaciones,P1-P4,P1,4,máquina,7.6574559999336795,73,16
+T03,Tecnología y telecomunicaciones,P1-P4,P1,5,característica,6.10650507600898,53,18
+T03,Tecnología y telecomunicaciones,P1-P4,P1,6,procesador,6.086084860052395,67,33
+T03,Tecnología y telecomunicaciones,P1-P4,P1,7,versión,5.772382228981407,91,64
+T03,Tecnología y telecomunicaciones,P1-P4,P1,8,servidor,5.641429132480347,44,14
+T03,Tecnología y telecomunicaciones,P1-P4,P1,9,software,5.5998296616943035,103,81
+T03,Tecnología y telecomunicaciones,P1-P4,P1,10,duro,5.5767730717489234,48,19
+T03,Tecnología y telecomunicaciones,P1-P4,P1,11,mercado,5.563621869035968,117,99
+T03,Tecnología y telecomunicaciones,P1-P4,P1,12,unidad,5.42998218871462,55,28
+T03,Tecnología y telecomunicaciones,P1-P4,P1,13,conjunto,5.410308727618494,36,7
+T03,Tecnología y telecomunicaciones,P1-P4,P1,14,memoria,5.287745389460349,45,19
+T03,Tecnología y telecomunicaciones,P1-P4,P1,15,nivel,5.146298900259852,53,29
+T03,Tecnología y telecomunicaciones,P1-P4,P4,1,sitio,-7.011836993957403,13,174
+T03,Tecnología y telecomunicaciones,P1-P4,P4,2,operador,-6.011273304455423,6,125
+T03,Tecnología y telecomunicaciones,P1-P4,P4,3,móvil,-5.6914568824307405,14,127
+T03,Tecnología y telecomunicaciones,P1-P4,P4,4,televisión,-5.613359200991162,10,115
+T03,Tecnología y telecomunicaciones,P1-P4,P4,5,video,-5.547970095452441,22,144
+T03,Tecnología y telecomunicaciones,P1-P4,P4,6,empresa,-5.54177115666354,95,331
+T03,Tecnología y telecomunicaciones,P1-P4,P4,7,contenido,-5.480862551618394,5,104
+T03,Tecnología y telecomunicaciones,P1-P4,P4,8,celular,-5.171188036501477,69,255
+T03,Tecnología y telecomunicaciones,P1-P4,P4,9,persona,-5.0055023153584735,39,174
+T03,Tecnología y telecomunicaciones,P1-P4,P4,10,correo,-4.881554476624656,19,117
+T03,Tecnología y telecomunicaciones,P1-P4,P4,11,social,-4.865063366499993,4,82
+T03,Tecnología y telecomunicaciones,P1-P4,P4,12,peso,-4.454998094473447,29,133
+T03,Tecnología y telecomunicaciones,P1-P4,P4,13,web,-4.238656294659421,0,89
+T03,Tecnología y telecomunicaciones,P1-P4,P4,14,seguridad,-4.132609709778833,21,104
+T03,Tecnología y telecomunicaciones,P1-P4,P4,15,país,-4.075399366119055,70,224
+T05,Deporte: torneos individuales,P1-P4,P1,1,ligero,7.38868270249966,68,14
+T05,Deporte: torneos individuales,P1-P4,P1,2,kilómetro,6.839852640001443,316,333
+T05,Deporte: torneos individuales,P1-P4,P1,3,combate,5.937911722644296,82,51
+T05,Deporte: torneos individuales,P1-P4,P1,4,corredor,5.773853856581379,135,117
+T05,Deporte: torneos individuales,P1-P4,P1,5,soviético,5.747222811506111,48,3
+T05,Deporte: torneos individuales,P1-P4,P1,6,montaña,5.67612935466697,97,72
+T05,Deporte: torneos individuales,P1-P4,P1,7,reloj,5.499079309213393,53,25
+T05,Deporte: torneos individuales,P1-P4,P1,8,parada,5.386626953267362,48,21
+T05,Deporte: torneos individuales,P1-P4,P1,9,tramo,5.209018295212316,50,25
+T05,Deporte: torneos individuales,P1-P4,P1,10,intermedio,5.135686946354937,33,7
+T05,Deporte: torneos individuales,P1-P4,P1,11,condición,5.135320775153026,82,62
+T05,Deporte: torneos individuales,P1-P4,P1,12,suramericano,5.093174783802836,46,22
+T05,Deporte: torneos individuales,P1-P4,P1,13,retador,5.092309146211203,32,5
+T05,Deporte: torneos individuales,P1-P4,P1,14,puerto,4.948163294136558,36,13
+T05,Deporte: torneos individuales,P1-P4,P1,15,partida,4.859156150534709,73,55
+T05,Deporte: torneos individuales,P1-P4,P4,1,mundo,-6.767034580362075,112,415
+T05,Deporte: torneos individuales,P1-P4,P4,2,hoyo,-6.470697012030825,33,201
+T05,Deporte: torneos individuales,P1-P4,P4,3,ronda,-5.948865125395517,135,437
+T05,Deporte: torneos individuales,P1-P4,P4,4,evento,-5.604395392003429,12,118
+T05,Deporte: torneos individuales,P1-P4,P4,5,temporada,-5.5479872410500075,105,351
+T05,Deporte: torneos individuales,P1-P4,P4,6,piloto,-5.478850878432154,58,234
+T05,Deporte: torneos individuales,P1-P4,P4,7,bogey,-5.43809425681815,8,105
+T05,Deporte: torneos individuales,P1-P4,P4,8,español,-5.075904392428201,124,378
+T05,Deporte: torneos individuales,P1-P4,P4,9,carrera,-5.033361803930556,306,773
+T05,Deporte: torneos individuales,P1-P4,P4,10,tarjeta,-4.8463065910349705,6,83
+T05,Deporte: torneos individuales,P1-P4,P4,11,golfista,-4.762246096366962,9,86
+T05,Deporte: torneos individuales,P1-P4,P4,12,jonrón,-4.7036463286651164,4,78
+T05,Deporte: torneos individuales,P1-P4,P4,13,serbio,-4.6844895232486685,3,80
+T05,Deporte: torneos individuales,P1-P4,P4,14,dominicano,-4.524585149470938,13,90
+T05,Deporte: torneos individuales,P1-P4,P4,15,récord,-4.495179049589641,38,155
+T06,Macroeconomía,P1-P4,P1,1,inflación,6.837015473571761,362,227
+T06,Macroeconomía,P1-P4,P1,2,cambio,6.074871431052047,175,88
+T06,Macroeconomía,P1-P4,P1,3,manejo,5.733686701973778,63,10
+T06,Macroeconomía,P1-P4,P1,4,devaluación,5.605360782138269,97,36
+T06,Macroeconomía,P1-P4,P1,5,reajuste,5.378592876806339,62,14
+T06,Macroeconomía,P1-P4,P1,6,apertura,5.270153273032801,55,10
+T06,Macroeconomía,P1-P4,P1,7,vida,5.2696333395369646,66,18
+T06,Macroeconomía,P1-P4,P1,8,café,5.2696333395369646,66,18
+T06,Macroeconomía,P1-P4,P1,9,costo,5.02147767138324,151,85
+T06,Macroeconomía,P1-P4,P1,10,servicio,4.9844618927708035,94,41
+T06,Macroeconomía,P1-P4,P1,11,acumulado,4.966354120097416,49,9
+T06,Macroeconomía,P1-P4,P1,12,política,4.730693356387817,159,96
+T06,Macroeconomía,P1-P4,P1,13,ahorro,4.622420648814699,44,9
+T06,Macroeconomía,P1-P4,P1,14,monetario,4.569446897329604,132,76
+T06,Macroeconomía,P1-P4,P1,15,cambiario,4.5665319241024624,66,25
+T06,Macroeconomía,P1-P4,P4,1,deuda,-7.586669079445913,17,133
+T06,Macroeconomía,P1-P4,P4,2,crisis,-7.367736489964709,38,161
+T06,Macroeconomía,P1-P4,P4,3,desempleo,-7.199495288452905,41,162
+T06,Macroeconomía,P1-P4,P4,4,economía,-7.195170152845894,204,420
+T06,Macroeconomía,P1-P4,P4,5,dato,-6.80569471049838,10,104
+T06,Macroeconomía,P1-P4,P4,6,recesión,-6.80075580861824,18,113
+T06,Macroeconomía,P1-P4,P4,7,trimestre,-6.216945068837142,66,181
+T06,Macroeconomía,P1-P4,P4,8,caída,-5.80499649071492,42,132
+T06,Macroeconomía,P1-P4,P4,9,analista,-5.444979775116961,31,106
+T06,Macroeconomía,P1-P4,P4,10,crecimiento,-5.267940837968723,186,336
+T06,Macroeconomía,P1-P4,P4,11,alimento,-5.26637284055883,22,87
+T06,Macroeconomía,P1-P4,P4,12,cifra,-5.262254188866229,56,144
+T06,Macroeconomía,P1-P4,P4,13,hogar,-5.125794214877239,5,59
+T06,Macroeconomía,P1-P4,P4,14,país,-4.860163453158371,234,390
+T06,Macroeconomía,P1-P4,P4,15,mundo,-4.795840470377327,21,77
+T07,Familia salud y vida cotidiana,P1-P4,P1,1,diente,8.407490314807706,67,67
+T07,Familia salud y vida cotidiana,P1-P4,P1,2,córnea,7.126740883444801,33,6
+T07,Familia salud y vida cotidiana,P1-P4,P1,3,problema,7.009009447929833,212,514
+T07,Familia salud y vida cotidiana,P1-P4,P1,4,abuelo,6.105136024922824,59,91
+T07,Familia salud y vida cotidiana,P1-P4,P1,5,alcohólico,5.846839586294589,26,19
+T07,Familia salud y vida cotidiana,P1-P4,P1,6,cosa,5.81458380179509,142,341
+T07,Familia salud y vida cotidiana,P1-P4,P1,7,sicológico,5.786657249651454,30,28
+T07,Familia salud y vida cotidiana,P1-P4,P1,8,oído,5.5864807961949445,26,22
+T07,Familia salud y vida cotidiana,P1-P4,P1,9,suicidio,5.450040366964393,42,60
+T07,Familia salud y vida cotidiana,P1-P4,P1,10,moderno,5.395582031436829,31,35
+T07,Familia salud y vida cotidiana,P1-P4,P1,11,simple,5.395582031436829,31,35
+T07,Familia salud y vida cotidiana,P1-P4,P1,12,rey,5.297359219123342,30,34
+T07,Familia salud y vida cotidiana,P1-P4,P1,13,hueco,5.186985296745767,20,14
+T07,Familia salud y vida cotidiana,P1-P4,P1,14,novio,5.117514972667215,45,73
+T07,Familia salud y vida cotidiana,P1-P4,P1,15,boda,5.107269779983231,32,41
+T07,Familia salud y vida cotidiana,P1-P4,P4,1,cáncer,-6.317573308786649,18,356
+T07,Familia salud y vida cotidiana,P1-P4,P4,2,mujer,-5.314510865699331,307,1829
+T07,Familia salud y vida cotidiana,P1-P4,P4,3,niña,-4.372393076508647,77,564
+T07,Familia salud y vida cotidiana,P1-P4,P4,4,salud,-4.29550581128995,66,499
+T07,Familia salud y vida cotidiana,P1-P4,P4,5,cuerpo,-4.230078801830388,78,560
+T07,Familia salud y vida cotidiana,P1-P4,P4,6,joven,-4.094805169326119,106,699
+T07,Familia salud y vida cotidiana,P1-P4,P4,7,zona,-3.9654014428749886,21,224
+T07,Familia salud y vida cotidiana,P1-P4,P4,8,célula,-3.899568670427017,10,154
+T07,Familia salud y vida cotidiana,P1-P4,P4,9,proyecto,-3.813892469963447,11,156
+T07,Familia salud y vida cotidiana,P1-P4,P4,10,procedimiento,-3.5290030661478826,8,125
+T07,Familia salud y vida cotidiana,P1-P4,P4,11,violencia,-3.516841543940053,20,197
+T07,Familia salud y vida cotidiana,P1-P4,P4,12,sueño,-3.5150728121388224,33,272
+T07,Familia salud y vida cotidiana,P1-P4,P4,13,celular,-3.491581525195617,2,100
+T07,Familia salud y vida cotidiana,P1-P4,P4,14,víctima,-3.4261069536215496,47,345
+T07,Familia salud y vida cotidiana,P1-P4,P4,15,piel,-3.422651928613413,18,181
+T08,Relaciones internacionales,P1-P4,P1,1,iraquí,8.181513740311113,73,12
+T08,Relaciones internacionales,P1-P4,P1,2,fuerza,7.737807676128689,89,44
+T08,Relaciones internacionales,P1-P4,P1,3,árabe,7.239024273332236,64,22
+T08,Relaciones internacionales,P1-P4,P1,4,soviético,6.733677196243288,50,7
+T08,Relaciones internacionales,P1-P4,P1,5,serbio,6.243865877990629,79,1
+T08,Relaciones internacionales,P1-P4,P1,6,tropa,6.047770292484016,63,37
+T08,Relaciones internacionales,P1-P4,P1,7,conversación,5.56056028532921,66,47
+T08,Relaciones internacionales,P1-P4,P1,8,resolución,5.526899416019105,40,16
+T08,Relaciones internacionales,P1-P4,P1,9,embargo,5.404474541366794,32,5
+T08,Relaciones internacionales,P1-P4,P1,10,libre,5.39117290781642,43,21
+T08,Relaciones internacionales,P1-P4,P1,11,estados_unidos,5.174582567684063,264,362
+T08,Relaciones internacionales,P1-P4,P1,12,unión_soviética,5.089547313275837,31,10
+T08,Relaciones internacionales,P1-P4,P1,13,integración,5.053839796884129,45,27
+T08,Relaciones internacionales,P1-P4,P1,14,musulmán,5.031928400458884,29,8
+T08,Relaciones internacionales,P1-P4,P1,15,agrícola,4.970300058655229,27,5
+T08,Relaciones internacionales,P1-P4,P4,1,venezolano,-7.628362467189923,43,311
+T08,Relaciones internacionales,P1-P4,P4,2,colombiano,-7.4296823141464206,104,484
+T08,Relaciones internacionales,P1-P4,P4,3,tema,-6.668606219699183,38,254
+T08,Relaciones internacionales,P1-P4,P4,4,mandatario,-6.629242667821519,47,280
+T08,Relaciones internacionales,P1-P4,P4,5,relación,-6.0586864501149105,92,388
+T08,Relaciones internacionales,P1-P4,P4,6,presidente,-5.942319270213314,317,964
+T08,Relaciones internacionales,P1-P4,P4,7,ecuatoriano,-5.748064730915985,13,143
+T08,Relaciones internacionales,P1-P4,P4,8,encuentro,-5.007343451043706,32,176
+T08,Relaciones internacionales,P1-P4,P4,9,base,-4.714216180187265,15,115
+T08,Relaciones internacionales,P1-P4,P4,10,president,-4.074882923441037,18,107
+T08,Relaciones internacionales,P1-P4,P4,11,vecino,-3.986453707687381,9,77
+T08,Relaciones internacionales,P1-P4,P4,12,tensión,-3.854435443516464,4,60
+T08,Relaciones internacionales,P1-P4,P4,13,diálogo,-3.8390300977234495,15,92
+T08,Relaciones internacionales,P1-P4,P4,14,cita,-3.725934710092766,5,59
+T08,Relaciones internacionales,P1-P4,P4,15,agenda,-3.7178336603466184,13,83
+T09,Justicia y procesos judiciales,P1-P4,P1,1,auto,8.590160796240546,58,12
+T09,Justicia y procesos judiciales,P1-P4,P1,2,corporación,8.261147151087584,54,17
+T09,Justicia y procesos judiciales,P1-P4,P1,3,decreto,8.213828392642213,59,28
+T09,Justicia y procesos judiciales,P1-P4,P1,4,artículo,8.164933947980893,67,42
+T09,Justicia y procesos judiciales,P1-P4,P1,5,consejo_estado,7.409130888135016,89,93
+T09,Justicia y procesos judiciales,P1-P4,P1,6,consejero,6.856061757726529,37,11
+T09,Justicia y procesos judiciales,P1-P4,P1,7,norma,6.6741695463295345,72,75
+T09,Justicia y procesos judiciales,P1-P4,P1,8,rostro,6.492852986504109,33,9
+T09,Justicia y procesos judiciales,P1-P4,P1,9,disposición,6.437255295033425,41,25
+T09,Justicia y procesos judiciales,P1-P4,P1,10,fuga,6.121812455075677,41,29
+T09,Justicia y procesos judiciales,P1-P4,P1,11,fundamental,5.9130072217382645,37,25
+T09,Justicia y procesos judiciales,P1-P4,P1,12,derecho,5.876319500375517,142,240
+T09,Justicia y procesos judiciales,P1-P4,P1,13,auxilio,5.728132221689182,60,1
+T09,Justicia y procesos judiciales,P1-P4,P1,14,sometimiento,5.725162216459345,27,4
+T09,Justicia y procesos judiciales,P1-P4,P1,15,investidura,5.6894915374790855,26,9
+T09,Justicia y procesos judiciales,P1-P4,P4,1,corte_suprema,-6.986606157410455,58,485
+T09,Justicia y procesos judiciales,P1-P4,P4,2,caso,-6.919441126299573,198,1066
+T09,Justicia y procesos judiciales,P1-P4,P4,3,congresista,-6.069804806537988,8,218
+T09,Justicia y procesos judiciales,P1-P4,P4,4,paramilitar,-5.960295977082582,7,210
+T09,Justicia y procesos judiciales,P1-P4,P4,5,alia,-5.723031865471787,8,195
+T09,Justicia y procesos judiciales,P1-P4,P4,6,captura,-5.425059836437059,29,266
+T09,Justicia y procesos judiciales,P1-P4,P4,7,escándalo,-5.296277580028332,10,176
+T09,Justicia y procesos judiciales,P1-P4,P4,8,grupo,-5.271398943967864,28,254
+T09,Justicia y procesos judiciales,P1-P4,P4,9,político,-5.165063308091552,34,276
+T09,Justicia y procesos judiciales,P1-P4,P4,10,audiencia,-5.090580782705915,33,268
+T09,Justicia y procesos judiciales,P1-P4,P4,11,agravado,-4.835705213525622,3,143
+T09,Justicia y procesos judiciales,P1-P4,P4,12,decisión,-4.683788698089231,106,551
+T09,Justicia y procesos judiciales,P1-P4,P4,13,homicidio,-4.619165254086119,27,220
+T09,Justicia y procesos judiciales,P1-P4,P4,14,víctima,-4.524193096063036,23,198
+T09,Justicia y procesos judiciales,P1-P4,P4,15,tema,-4.460795058854879,15,159
+T11,Cultura y espectáculos,P1-P4,P1,1,cuadro,7.387894622209624,100,105
+T11,Cultura y espectáculos,P1-P4,P1,2,certamen,7.210309435417981,89,89
+T11,Cultura y espectáculos,P1-P4,P1,3,pintor,6.437125141675124,102,128
+T11,Cultura y espectáculos,P1-P4,P1,4,teatro,6.139385087102872,299,570
+T11,Cultura y espectáculos,P1-P4,P1,5,europeo,5.801828422244181,59,60
+T11,Cultura y espectáculos,P1-P4,P1,6,viejo,5.789695094967164,91,120
+T11,Cultura y espectáculos,P1-P4,P1,7,francés,5.50303012658676,112,169
+T11,Cultura y espectáculos,P1-P4,P1,8,profesional,5.165352950109111,66,83
+T11,Cultura y espectáculos,P1-P4,P1,9,falda,5.068995616358845,25,13
+T11,Cultura y espectáculos,P1-P4,P1,10,ambiente,5.053859495376858,55,64
+T11,Cultura y espectáculos,P1-P4,P1,11,línea,5.021446733054193,59,72
+T11,Cultura y espectáculos,P1-P4,P1,12,bordado,4.9212651528154625,21,8
+T11,Cultura y espectáculos,P1-P4,P1,13,afición,4.880129474775103,27,18
+T11,Cultura y espectáculos,P1-P4,P1,14,aficionado,4.876735442352091,38,36
+T11,Cultura y espectáculos,P1-P4,P1,15,belleza,4.870960301289605,68,92
+T11,Cultura y espectáculos,P1-P4,P4,1,entrada,-12.085746693664245,22,854
+T11,Cultura y espectáculos,P1-P4,P4,2,libre,-10.526352155443824,36,642
+T11,Cultura y espectáculos,P1-P4,P4,3,evento,-9.160842936826443,55,591
+T11,Cultura y espectáculos,P1-P4,P4,4,lugar,-7.610398702231529,197,1050
+T11,Cultura y espectáculos,P1-P4,P4,5,público,-7.280392275227337,232,1156
+T11,Cultura y espectáculos,P1-P4,P4,6,artista,-6.694727347394018,377,1630
+T11,Cultura y espectáculos,P1-P4,P4,7,éxito,-6.646177840568797,114,661
+T11,Cultura y espectáculos,P1-P4,P4,8,álbum,-6.266215292416775,26,278
+T11,Cultura y espectáculos,P1-P4,P4,9,gratuito,-6.140467588834808,9,213
+T11,Cultura y espectáculos,P1-P4,P4,10,aventura,-6.0620275352227715,25,263
+T11,Cultura y espectáculos,P1-P4,P4,11,peso,-5.98800326448522,71,451
+T11,Cultura y espectáculos,P1-P4,P4,12,banco_república,-5.940045440897216,6,203
+T11,Cultura y espectáculos,P1-P4,P4,13,canal,-5.43931834610708,13,183
+T11,Cultura y espectáculos,P1-P4,P4,14,versión,-5.238576312778475,63,380
+T11,Cultura y espectáculos,P1-P4,P4,15,reconocido,-5.094926955018187,21,200
+T12,Movilidad urbana,P1-P4,P1,1,carrera,13.353422050922113,380,534
+T12,Movilidad urbana,P1-P4,P1,2,calle,10.583222793555969,504,977
+T12,Movilidad urbana,P1-P4,P1,3,sur,7.95102712307064,135,186
+T12,Movilidad urbana,P1-P4,P1,4,puente,7.074915681770959,106,145
+T12,Movilidad urbana,P1-P4,P1,5,transversal,6.662249333258331,33,7
+T12,Movilidad urbana,P1-P4,P1,6,barrio,6.194597009536817,109,173
+T12,Movilidad urbana,P1-P4,P1,7,diagonal,5.87405377520286,28,13
+T12,Movilidad urbana,P1-P4,P1,8,construcción,5.585911930413266,46,49
+T12,Movilidad urbana,P1-P4,P1,9,agente,5.525304525655032,44,46
+T12,Movilidad urbana,P1-P4,P1,10,basura,5.200486702856349,20,5
+T12,Movilidad urbana,P1-P4,P1,11,metro,5.176332117437662,58,80
+T12,Movilidad urbana,P1-P4,P1,12,ejecutivo,4.871346490582156,21,12
+T12,Movilidad urbana,P1-P4,P1,13,oriental,4.786206337537063,24,18
+T12,Movilidad urbana,P1-P4,P1,14,pintura,4.650710881382212,16,4
+T12,Movilidad urbana,P1-P4,P1,15,delincuente,4.625396950825582,27,25
+T12,Movilidad urbana,P1-P4,P4,1,carro,-5.9552679578082355,68,505
+T12,Movilidad urbana,P1-P4,P4,2,moto,-4.935397710331806,8,162
+T12,Movilidad urbana,P1-P4,P4,3,movilidad,-4.188442824111829,1,117
+T12,Movilidad urbana,P1-P4,P4,4,restricción,-3.587262381511403,2,80
+T12,Movilidad urbana,P1-P4,P4,5,velocidad,-3.5384921588925526,17,146
+T12,Movilidad urbana,P1-P4,P4,6,medida,-3.4934627178218007,19,154
+T12,Movilidad urbana,P1-P4,P4,7,comparendo,-3.485084512941753,4,81
+T12,Movilidad urbana,P1-P4,P4,8,estación,-3.3320718554471402,5,80
+T12,Movilidad urbana,P1-P4,P4,9,comercial,-3.302512722234373,2,68
+T12,Movilidad urbana,P1-P4,P4,10,motocicleta,-3.2515117281176513,2,66
+T12,Movilidad urbana,P1-P4,P4,11,motociclista,-3.1910124027271647,0,79
+T12,Movilidad urbana,P1-P4,P4,12,bahía,-3.1297445321848696,0,76
+T12,Movilidad urbana,P1-P4,P4,13,gas,-3.0911319261729298,2,60
+T12,Movilidad urbana,P1-P4,P4,14,pico,-2.853294330244506,9,85
+T12,Movilidad urbana,P1-P4,P4,15,corredor,-2.8480214927945138,5,65
+T13,Elecciones y partidos,P1-P4,P1,1,liberal,11.680795063108645,382,330
+T13,Elecciones y partidos,P1-P4,P1,2,liberalismo,5.976021765889177,123,117
+T13,Elecciones y partidos,P1-P4,P1,3,lista,5.094566692891143,138,157
+T13,Elecciones y partidos,P1-P4,P1,4,convención,4.9108408262757175,38,20
+T13,Elecciones y partidos,P1-P4,P1,5,tarjetón,4.8850760353799965,61,49
+T13,Elecciones y partidos,P1-P4,P1,6,popular,4.859663823961025,84,81
+T13,Elecciones y partidos,P1-P4,P1,7,dirigente,4.468005025352855,70,67
+T13,Elecciones y partidos,P1-P4,P1,8,vicepresidencia,4.4424374930978745,24,8
+T13,Elecciones y partidos,P1-P4,P1,9,nulo,4.432135494055925,29,14
+T13,Elecciones y partidos,P1-P4,P1,10,abstención,4.378600391847062,32,18
+T13,Elecciones y partidos,P1-P4,P1,11,delegado,4.376970669754393,51,42
+T13,Elecciones y partidos,P1-P4,P1,12,manifestación,4.145718945581911,19,4
+T13,Elecciones y partidos,P1-P4,P1,13,sistema,4.047369892256809,36,26
+T13,Elecciones y partidos,P1-P4,P1,14,movimiento,3.975367575866098,96,114
+T13,Elecciones y partidos,P1-P4,P1,15,artículo,3.856613794366588,33,24
+T13,Elecciones y partidos,P1-P4,P4,1,partido,-5.851584587171704,291,890
+T13,Elecciones y partidos,P1-P4,P4,2,referendo,-5.190102573654837,5,106
+T13,Elecciones y partidos,P1-P4,P4,3,uribista,-4.759983341244305,0,142
+T13,Elecciones y partidos,P1-P4,P4,4,oposición,-4.594964086986497,19,123
+T13,Elecciones y partidos,P1-P4,P4,5,bancada,-4.3855149438060685,5,77
+T13,Elecciones y partidos,P1-P4,P4,6,alcalde,-4.269319571429513,50,204
+T13,Elecciones y partidos,P1-P4,P4,7,verde,-4.114334479250731,2,69
+T13,Elecciones y partidos,P1-P4,P4,8,colectividad,-4.042389813560194,37,161
+T13,Elecciones y partidos,P1-P4,P4,9,reelección,-3.906669704741478,21,111
+T13,Elecciones y partidos,P1-P4,P4,10,mandatario,-3.7425822535487066,15,89
+T13,Elecciones y partidos,P1-P4,P4,11,candidata,-3.718028554964656,7,64
+T13,Elecciones y partidos,P1-P4,P4,12,curul,-3.6838916003153273,34,143
+T13,Elecciones y partidos,P1-P4,P4,13,senadora,-3.5847824070578893,3,51
+T13,Elecciones y partidos,P1-P4,P4,14,político,-3.5152059063291263,198,548
+T13,Elecciones y partidos,P1-P4,P4,15,senador,-3.3899141083442417,112,336
+T14,Sistema financiero,P1-P4,P1,1,garantía,4.049890440707293,34,4
+T14,Sistema financiero,P1-P4,P1,2,corporación,3.903782069374323,35,6
+T14,Sistema financiero,P1-P4,P1,3,junta,3.849348701400692,30,3
+T14,Sistema financiero,P1-P4,P1,4,directivo,3.6082168454519796,33,7
+T14,Sistema financiero,P1-P4,P1,5,venta,3.5358763833917815,53,20
+T14,Sistema financiero,P1-P4,P1,6,trabajador,3.5238441992034724,37,10
+T14,Sistema financiero,P1-P4,P1,7,externo,3.492414061197038,30,6
+T14,Sistema financiero,P1-P4,P1,8,nacional,3.1400301346470876,20,2
+T14,Sistema financiero,P1-P4,P1,9,operación,3.1219703215816237,42,16
+T14,Sistema financiero,P1-P4,P1,10,acción,3.1040578789310738,110,66
+T14,Sistema financiero,P1-P4,P1,11,cafetero,3.103277372791202,19,1
+T14,Sistema financiero,P1-P4,P1,12,bono,3.0558909040949476,27,7
+T14,Sistema financiero,P1-P4,P1,13,activo,2.9872893259858757,45,19
+T14,Sistema financiero,P1-P4,P1,14,recuperación,2.9532347516824835,21,4
+T14,Sistema financiero,P1-P4,P1,15,sociedad,2.913547229689565,19,3
+T14,Sistema financiero,P1-P4,P4,1,billón,-7.7949340573140296,21,130
+T14,Sistema financiero,P1-P4,P4,2,cliente,-4.523637603907388,10,49
+T14,Sistema financiero,P1-P4,P4,3,subsidio,-4.439413066941131,2,38
+T14,Sistema financiero,P1-P4,P4,4,hipotecario,-3.4601678840309593,6,29
+T14,Sistema financiero,P1-P4,P4,5,tasa,-3.3856033234697684,29,63
+T14,Sistema financiero,P1-P4,P4,6,ganancia,-3.3685529257629985,6,28
+T14,Sistema financiero,P1-P4,P4,7,piso,-3.214340809399995,1,20
+T14,Sistema financiero,P1-P4,P4,8,pago,-3.0132409557234134,50,86
+T14,Sistema financiero,P1-P4,P4,9,crédito,-2.862301253844607,140,191
+T14,Sistema financiero,P1-P4,P4,10,ingreso,-2.718929194954333,12,31
+T14,Sistema financiero,P1-P4,P4,11,cooperativa,-2.5956524471908105,5,19
+T14,Sistema financiero,P1-P4,P4,12,dividendo,-2.5956524471908105,5,19
+T14,Sistema financiero,P1-P4,P4,13,banca,-2.5615531457084164,13,31
+T14,Sistema financiero,P1-P4,P4,14,cifra,-2.3437917013456477,18,36
+T14,Sistema financiero,P1-P4,P4,15,negocio,-2.321563050267918,9,23
+T15,Fútbol,P1-P4,P1,1,cuadro,8.360407512713337,127,135
+T15,Fútbol,P1-P4,P1,2,arbitro,7.454796158793919,71,3
+T15,Fútbol,P1-P4,P1,3,período,7.357939253022167,44,10
+T15,Fútbol,P1-P4,P1,4,nacional,6.707764733676057,83,89
+T15,Fútbol,P1-P4,P1,5,pena,6.555004587163677,48,32
+T15,Fútbol,P1-P4,P1,6,compromiso,6.256673092408322,101,132
+T15,Fútbol,P1-P4,P1,7,diario,6.167696140893887,54,47
+T15,Fútbol,P1-P4,P1,8,condición,5.908787494953178,81,100
+T15,Fútbol,P1-P4,P1,9,sistema,5.511670124139063,31,18
+T15,Fútbol,P1-P4,P1,10,estados_unidos,5.454830091630681,61,70
+T15,Fútbol,P1-P4,P1,11,duda,5.21137490635602,60,72
+T15,Fútbol,P1-P4,P1,12,seleccionado,5.120628311552717,37,32
+T15,Fútbol,P1-P4,P1,13,invicto,5.034709210364693,58,71
+T15,Fútbol,P1-P4,P1,14,estadounidense,5.009878415077189,32,25
+T15,Fútbol,P1-P4,P1,15,aficionado,4.781225497760787,66,91
+T15,Fútbol,P1-P4,P4,1,equipo,-7.64990527944914,564,2403
+T15,Fútbol,P1-P4,P4,2,partido,-7.429435406282852,491,2124
+T15,Fútbol,P1-P4,P4,3,penalti,-5.62029096167771,11,188
+T15,Fútbol,P1-P4,P4,4,delantero,-5.127313749200042,67,397
+T15,Fútbol,P1-P4,P4,5,volante,-5.08737053562533,63,379
+T15,Fútbol,P1-P4,P4,6,titular,-4.58475890234942,36,246
+T15,Fútbol,P1-P4,P4,7,árbitro,-4.557157082991937,48,294
+T15,Fútbol,P1-P4,P4,8,español,-4.137466019195669,20,161
+T15,Fútbol,P1-P4,P4,9,unidad,-4.033320606838945,13,127
+T15,Fútbol,P1-P4,P4,10,estadio,-3.945808953039456,130,573
+T15,Fútbol,P1-P4,P4,11,argentino,-3.9359777522838475,97,453
+T15,Fútbol,P1-P4,P4,12,brasileño,-3.8942818770067484,51,278
+T15,Fútbol,P1-P4,P4,13,semestre,-3.8355171869452085,2,86
+T15,Fútbol,P1-P4,P4,14,eliminatoria,-3.635605510277426,39,221
+T15,Fútbol,P1-P4,P4,15,torneo,-3.6025272973128764,156,646
+T16,Legislación y reformas,P1-P4,P1,1,comisión,5.570817658871892,148,64
+T16,Legislación y reformas,P1-P4,P1,2,artículo,5.177136117293606,153,73
+T16,Legislación y reformas,P1-P4,P1,3,seguridad,5.080733892073508,73,20
+T16,Legislación y reformas,P1-P4,P1,4,social,4.627664779008931,89,35
+T16,Legislación y reformas,P1-P4,P1,5,entidad,4.539726865918677,52,12
+T16,Legislación y reformas,P1-P4,P1,6,articulado,3.7804729174811333,31,5
+T16,Legislación y reformas,P1-P4,P1,7,privado,3.6732266793796584,47,16
+T16,Legislación y reformas,P1-P4,P1,8,empleado,3.579319257872359,26,3
+T16,Legislación y reformas,P1-P4,P1,9,organismo,3.3360707486169554,23,3
+T16,Legislación y reformas,P1-P4,P1,10,transitorio,3.308439200007057,24,4
+T16,Legislación y reformas,P1-P4,P1,11,permanente,3.301225825402463,27,6
+T16,Legislación y reformas,P1-P4,P1,12,trabajador,3.0514888772721473,72,39
+T16,Legislación y reformas,P1-P4,P1,13,subcomisión,2.9831649146338624,18,2
+T16,Legislación y reformas,P1-P4,P1,14,desarrollo,2.8952617179119517,23,6
+T16,Legislación y reformas,P1-P4,P1,15,disposición,2.874358092338082,26,8
+T16,Legislación y reformas,P1-P4,P4,1,referendo,-6.523789203968716,1,105
+T16,Legislación y reformas,P1-P4,P4,2,iniciativa,-5.654842877065101,77,170
+T16,Legislación y reformas,P1-P4,P4,3,reelección,-4.80938836566388,5,47
+T16,Legislación y reformas,P1-P4,P4,4,regalía,-4.54684543666649,1,47
+T16,Legislación y reformas,P1-P4,P4,5,bancada,-4.443051452823887,6,42
+T16,Legislación y reformas,P1-P4,P4,6,uribista,-4.168356567324467,0,48
+T16,Legislación y reformas,P1-P4,P4,7,partido,-4.155433115165985,20,60
+T16,Legislación y reformas,P1-P4,P4,8,coalición,-4.143375087553832,2,35
+T16,Legislación y reformas,P1-P4,P4,9,idea,-3.726553547068128,2,28
+T16,Legislación y reformas,P1-P4,P4,10,político,-3.703656337159296,42,86
+T16,Legislación y reformas,P1-P4,P4,11,billón,-3.703518895972182,4,29
+T16,Legislación y reformas,P1-P4,P4,12,congresista,-3.5534589527508778,63,112
+T16,Legislación y reformas,P1-P4,P4,13,agenda,-3.415448695070404,10,35
+T16,Legislación y reformas,P1-P4,P4,14,periodo,-3.3786415210603624,2,23
+T16,Legislación y reformas,P1-P4,P4,15,debate,-3.3404003336415147,112,170
+T17,Agua tierra e infraestructura,P1-P4,P1,1,programa,6.79524806061127,97,94
+T17,Agua tierra e infraestructura,P1-P4,P1,2,contaminación,6.756334357500801,82,71
+T17,Agua tierra e infraestructura,P1-P4,P1,3,petróleo,5.618209561617055,46,33
+T17,Agua tierra e infraestructura,P1-P4,P1,4,piscina,5.287839990759292,35,21
+T17,Agua tierra e infraestructura,P1-P4,P1,5,buque,5.122978753252896,24,6
+T17,Agua tierra e infraestructura,P1-P4,P1,6,ventana,5.028561997362798,26,11
+T17,Agua tierra e infraestructura,P1-P4,P1,7,desarrollo,4.924983113949244,71,83
+T17,Agua tierra e infraestructura,P1-P4,P1,8,ecológico,4.890266801562247,59,63
+T17,Agua tierra e infraestructura,P1-P4,P1,9,industrial,4.523397141563385,42,40
+T17,Agua tierra e infraestructura,P1-P4,P1,10,utilización,4.4142839030032555,18,5
+T17,Agua tierra e infraestructura,P1-P4,P1,11,amplio,4.4037141359635585,26,17
+T17,Agua tierra e infraestructura,P1-P4,P1,12,bello,4.2847903573437875,21,11
+T17,Agua tierra e infraestructura,P1-P4,P1,13,flora,4.266294505176075,37,35
+T17,Agua tierra e infraestructura,P1-P4,P1,14,madera,4.232622129479164,54,64
+T17,Agua tierra e infraestructura,P1-P4,P1,15,circuito,4.182356940163972,16,4
+T17,Agua tierra e infraestructura,P1-P4,P4,1,afectado,-7.5197681480219485,58,433
+T17,Agua tierra e infraestructura,P1-P4,P4,2,lluvia,-6.189614471476499,59,367
+T17,Agua tierra e infraestructura,P1-P4,P4,3,emergencia,-6.007263526292441,40,288
+T17,Agua tierra e infraestructura,P1-P4,P4,4,inundación,-5.410584467380094,43,273
+T17,Agua tierra e infraestructura,P1-P4,P4,5,familia,-4.862414785041676,81,383
+T17,Agua tierra e infraestructura,P1-P4,P4,6,riesgo,-4.5156421888882345,37,216
+T17,Agua tierra e infraestructura,P1-P4,P4,7,temporada,-4.398740850078271,9,108
+T17,Agua tierra e infraestructura,P1-P4,P4,8,fuerte,-4.132522813676829,31,181
+T17,Agua tierra e infraestructura,P1-P4,P4,9,alerta,-4.118993901969164,16,125
+T17,Agua tierra e infraestructura,P1-P4,P4,10,damnificado,-4.114366604533627,32,184
+T17,Agua tierra e infraestructura,P1-P4,P4,11,persona,-4.047349513443625,108,435
+T17,Agua tierra e infraestructura,P1-P4,P4,12,invierno,-4.000804644177688,37,198
+T17,Agua tierra e infraestructura,P1-P4,P4,13,predio,-3.828380051909883,17,120
+T17,Agua tierra e infraestructura,P1-P4,P4,14,hielo,-3.7321502165500053,3,69
+T17,Agua tierra e infraestructura,P1-P4,P4,15,climático,-3.6599492266879716,4,68
+TODOS,sin condicionar,P1-P2,P1,1,soviético,14.887506528891286,308,59
+TODOS,sin condicionar,P1-P2,P1,2,liberal,14.326334054733552,958,759
+TODOS,sin condicionar,P1-P2,P1,3,serbio,13.451347715597324,320,121
+TODOS,sin condicionar,P1-P2,P1,4,república,12.709721188502842,273,96
+TODOS,sin condicionar,P1-P2,P1,5,juez,12.259941877644536,763,626
+TODOS,sin condicionar,P1-P2,P1,6,militar,11.34569345169867,1441,1508
+TODOS,sin condicionar,P1-P2,P1,7,apertura,10.94381572165558,635,530
+TODOS,sin condicionar,P1-P2,P1,8,política,10.901310865314533,1935,2189
+TODOS,sin condicionar,P1-P2,P1,9,liberalismo,10.488435632903897,281,157
+TODOS,sin condicionar,P1-P2,P1,10,iraquí,10.356604339871835,190,72
+TODOS,sin condicionar,P1-P2,P1,11,fuerza,10.13870989220199,1264,1351
+TODOS,sin condicionar,P1-P2,P1,12,racionamiento,10.030100895015329,229,116
+TODOS,sin condicionar,P1-P2,P1,13,país,9.872984576012403,7292,9961
+TODOS,sin condicionar,P1-P2,P1,14,auxilio,9.842093667566859,229,120
+TODOS,sin condicionar,P1-P2,P1,15,senador,9.706388836251662,666,615
+TODOS,sin condicionar,P1-P2,P2,1,empresa,-16.392925498699167,2432,5738
+TODOS,sin condicionar,P1-P2,P2,2,municipio,-16.349838922624144,1220,3346
+TODOS,sin condicionar,P1-P2,P2,3,evento,-16.149814471233093,238,1190
+TODOS,sin condicionar,P1-P2,P2,4,peso,-15.079334945966947,3635,7807
+TODOS,sin condicionar,P1-P2,P2,5,compañía,-14.738120454949314,767,2255
+TODOS,sin condicionar,P1-P2,P2,6,mercado,-11.24143968519225,1787,3911
+TODOS,sin condicionar,P1-P2,P2,7,contrato,-11.161260986470504,486,1390
+TODOS,sin condicionar,P1-P2,P2,8,alcalde,-10.623972311012771,1066,2497
+TODOS,sin condicionar,P1-P2,P2,9,municipal,-9.972798505287827,320,967
+TODOS,sin condicionar,P1-P2,P2,10,colegio,-9.966798013054445,382,1097
+TODOS,sin condicionar,P1-P2,P2,11,negocio,-9.885934198614402,605,1544
+TODOS,sin condicionar,P1-P2,P2,12,financiero,-9.601671668001032,896,2088
+TODOS,sin condicionar,P1-P2,P2,13,deuda,-9.33929030705948,357,1008
+TODOS,sin condicionar,P1-P2,P2,14,ubicado,-9.289250681271657,341,972
+TODOS,sin condicionar,P1-P2,P2,15,fusión,-9.077753216457305,37,287
+T00,Educación,P1-P2,P1,1,militar,4.779650332546383,28,4
+T00,Educación,P1-P2,P1,2,físico,4.358066113487411,55,39
+T00,Educación,P1-P2,P1,3,reforma,4.256207798641911,23,5
+T00,Educación,P1-P2,P1,4,colombiano,3.8499407719692282,46,34
+T00,Educación,P1-P2,P1,5,rendimiento,3.628568481438217,17,4
+T00,Educación,P1-P2,P1,6,tradicional,3.2246081472510157,18,8
+T00,Educación,P1-P2,P1,7,joven,3.105115965175438,69,73
+T00,Educación,P1-P2,P1,8,enseñanza,3.0627943228814924,27,19
+T00,Educación,P1-P2,P1,9,oficial,2.983938910006363,29,22
+T00,Educación,P1-P2,P1,10,trabajo,2.911154748961381,62,66
+T00,Educación,P1-P2,P1,11,sistema,2.902374772156886,48,47
+T00,Educación,P1-P2,P1,12,forma,2.823377417760436,39,36
+T00,Educación,P1-P2,P1,13,médico,2.810302354293912,21,14
+T00,Educación,P1-P2,P1,14,libre,2.7061021913700243,14,7
+T00,Educación,P1-P2,P1,15,especialización,2.644901095378444,20,14
+T00,Educación,P1-P2,P2,1,colegio,-4.261114974818152,90,274
+T00,Educación,P1-P2,P2,2,municipio,-3.9619589376004702,7,62
+T00,Educación,P1-P2,P2,3,empresa,-3.28846336229806,16,73
+T00,Educación,P1-P2,P2,4,evento,-2.939682473045319,3,32
+T00,Educación,P1-P2,P2,5,departamento,-2.8376161898881938,11,52
+T00,Educación,P1-P2,P2,6,docente,-2.7479252738361795,35,109
+T00,Educación,P1-P2,P2,7,competencia,-2.732296872818957,1,25
+T00,Educación,P1-P2,P2,8,promoción,-2.7247137327369115,5,34
+T00,Educación,P1-P2,P2,9,énfasis,-2.7140802473889836,2,26
+T00,Educación,P1-P2,P2,10,acreditación,-2.676892722366874,1,24
+T00,Educación,P1-P2,P2,11,municipal,-2.6199004648318565,1,23
+T00,Educación,P1-P2,P2,12,español,-2.5174407617043695,2,23
+T00,Educación,P1-P2,P2,13,región,-2.4441230855387497,11,46
+T00,Educación,P1-P2,P2,14,inglés,-2.414359654769007,10,43
+T00,Educación,P1-P2,P2,15,laboratorio,-2.4020739406843434,3,24
+T01,Empresas y comercio exterior,P1-P2,P1,1,apertura,6.280672225051312,58,31
+T01,Empresas y comercio exterior,P1-P2,P1,2,precio,5.481531118408042,157,191
+T01,Empresas y comercio exterior,P1-P2,P1,3,feria,5.140076060902266,35,16
+T01,Empresas y comercio exterior,P1-P2,P1,4,nacional,4.778301832058642,117,141
+T01,Empresas y comercio exterior,P1-P2,P1,5,computador,4.736498744143594,26,2
+T01,Empresas y comercio exterior,P1-P2,P1,6,textil,4.691847245099256,33,18
+T01,Empresas y comercio exterior,P1-P2,P1,7,fruta,4.482113797690515,33,20
+T01,Empresas y comercio exterior,P1-P2,P1,8,exportación,4.318060746811528,98,119
+T01,Empresas y comercio exterior,P1-P2,P1,9,café,4.268126823782289,42,34
+T01,Empresas y comercio exterior,P1-P2,P1,10,cuero,4.196236690425605,19,5
+T01,Empresas y comercio exterior,P1-P2,P1,11,utilidad,4.094799140678349,27,16
+T01,Empresas y comercio exterior,P1-P2,P1,12,registro,4.062031417030074,18,5
+T01,Empresas y comercio exterior,P1-P2,P1,13,mecanismo,4.052192702456752,21,9
+T01,Empresas y comercio exterior,P1-P2,P1,14,importador,4.009387132282248,28,18
+T01,Empresas y comercio exterior,P1-P2,P1,15,industria,3.955293563498413,98,126
+T01,Empresas y comercio exterior,P1-P2,P2,1,compañía,-6.190183006652502,93,419
+T01,Empresas y comercio exterior,P1-P2,P2,2,empresa,-5.008411417208501,148,521
+T01,Empresas y comercio exterior,P1-P2,P2,3,venta,-4.245250476613915,108,380
+T01,Empresas y comercio exterior,P1-P2,P2,4,negocio,-4.04568214397808,37,172
+T01,Empresas y comercio exterior,P1-P2,P2,5,grupo,-3.798532703519703,22,119
+T01,Empresas y comercio exterior,P1-P2,P2,6,ejecutivo,-3.632001571643567,5,60
+T01,Empresas y comercio exterior,P1-P2,P2,7,participación,-3.6215777605607107,29,136
+T01,Empresas y comercio exterior,P1-P2,P2,8,estadounidense,-3.523929280882508,8,67
+T01,Empresas y comercio exterior,P1-P2,P2,9,filial,-3.1523742998985664,2,41
+T01,Empresas y comercio exterior,P1-P2,P2,10,planta,-3.112610513454521,31,129
+T01,Empresas y comercio exterior,P1-P2,P2,11,fusión,-3.0573204304960946,3,41
+T01,Empresas y comercio exterior,P1-P2,P2,12,inversionista,-3.0514294425772714,5,47
+T01,Empresas y comercio exterior,P1-P2,P2,13,alianza,-3.04072552490531,0,47
+T01,Empresas y comercio exterior,P1-P2,P2,14,firma,-2.9850032081103723,30,123
+T01,Empresas y comercio exterior,P1-P2,P2,15,oferta,-2.8731448477725445,20,91
+T02,Conflicto armado: combates,P1-P2,P1,1,delincuente,5.716600470042422,96,36
+T02,Conflicto armado: combates,P1-P2,P1,2,jurisdicción,5.073436121489329,86,36
+T02,Conflicto armado: combates,P1-P2,P1,3,fuerzas_armada,4.5851135405777,63,24
+T02,Conflicto armado: combates,P1-P2,P1,4,israelí,4.080923542961015,36,9
+T02,Conflicto armado: combates,P1-P2,P1,5,norte,3.9419377669607827,55,24
+T02,Conflicto armado: combates,P1-P2,P1,6,estadounidense,3.84175210987331,27,4
+T02,Conflicto armado: combates,P1-P2,P1,7,barrio,3.8043137439782,56,26
+T02,Conflicto armado: combates,P1-P2,P1,8,agente,3.624747393108829,123,85
+T02,Conflicto armado: combates,P1-P2,P1,9,insurgente,3.4763872364060706,51,25
+T02,Conflicto armado: combates,P1-P2,P1,10,acción,3.443098554442702,145,108
+T02,Conflicto armado: combates,P1-P2,P1,11,integrante,3.4189521832472187,40,17
+T02,Conflicto armado: combates,P1-P2,P1,12,república,3.2835698552804864,21,1
+T02,Conflicto armado: combates,P1-P2,P1,13,dirigente,3.2654119998814313,29,10
+T02,Conflicto armado: combates,P1-P2,P1,14,federal,3.2598873842478118,19,2
+T02,Conflicto armado: combates,P1-P2,P1,15,unidad,3.120133059756332,64,39
+T02,Conflicto armado: combates,P1-P2,P2,1,paramilitar,-6.601588057998825,10,101
+T02,Conflicto armado: combates,P1-P2,P2,2,comandante,-4.975998768671167,103,217
+T02,Conflicto armado: combates,P1-P2,P2,3,venezolano,-4.4439944215057725,20,72
+T02,Conflicto armado: combates,P1-P2,P2,4,cruz_roja,-4.416560312511544,6,47
+T02,Conflicto armado: combates,P1-P2,P2,5,guerrilla,-4.0625643747701385,116,215
+T02,Conflicto armado: combates,P1-P2,P2,6,alcalde,-3.5461751193706568,31,77
+T02,Conflicto armado: combates,P1-P2,P2,7,autodefensa,-3.241342566780224,11,39
+T02,Conflicto armado: combates,P1-P2,P2,8,población,-3.1563028310469314,70,130
+T02,Conflicto armado: combates,P1-P2,P2,9,incursión,-3.1320606979699877,14,43
+T02,Conflicto armado: combates,P1-P2,P2,10,actual,-3.0802058414851374,3,23
+T02,Conflicto armado: combates,P1-P2,P2,11,coronel,-2.997213677841373,52,101
+T02,Conflicto armado: combates,P1-P2,P2,12,civil,-2.953678614340715,60,112
+T02,Conflicto armado: combates,P1-P2,P2,13,gobernador,-2.771588847762131,10,32
+T02,Conflicto armado: combates,P1-P2,P2,14,secuestro,-2.756788837682167,56,103
+T02,Conflicto armado: combates,P1-P2,P2,15,campesino,-2.723427442379046,44,85
+T03,Tecnología y telecomunicaciones,P1-P2,P1,1,disco,6.372577191070041,102,112
+T03,Tecnología y telecomunicaciones,P1-P2,P1,2,ícono,5.6760907309354,29,6
+T03,Tecnología y telecomunicaciones,P1-P2,P1,3,computador,5.672660635987189,229,377
+T03,Tecnología y telecomunicaciones,P1-P2,P1,4,virus,5.562616182519227,28,7
+T03,Tecnología y telecomunicaciones,P1-P2,P1,5,máquina,4.916723749384581,73,88
+T03,Tecnología y telecomunicaciones,P1-P2,P1,6,firma,4.6943484056228195,55,60
+T03,Tecnología y telecomunicaciones,P1-P2,P1,7,mantenimiento,4.279514363464627,33,29
+T03,Tecnología y telecomunicaciones,P1-P2,P1,8,conjunto,4.257095663936626,36,34
+T03,Tecnología y telecomunicaciones,P1-P2,P1,9,duro,4.188889117557559,48,55
+T03,Tecnología y telecomunicaciones,P1-P2,P1,10,archivo,4.138389448201791,62,81
+T03,Tecnología y telecomunicaciones,P1-P2,P1,11,título,3.982999788883095,15,5
+T03,Tecnología y telecomunicaciones,P1-P2,P1,12,ambiente,3.946338799319774,27,23
+T03,Tecnología y telecomunicaciones,P1-P2,P1,13,familia,3.9397839616642973,25,20
+T03,Tecnología y telecomunicaciones,P1-P2,P1,14,característica,3.906720484739532,53,68
+T03,Tecnología y telecomunicaciones,P1-P2,P1,15,estación,3.7696518852224847,38,43
+T03,Tecnología y telecomunicaciones,P1-P2,P2,1,empresa,-7.479860419544472,95,577
+T03,Tecnología y telecomunicaciones,P1-P2,P2,2,peso,-4.954303312763353,29,207
+T03,Tecnología y telecomunicaciones,P1-P2,P2,3,impresora,-4.496145419706039,8,110
+T03,Tecnología y telecomunicaciones,P1-P2,P2,4,correo,-4.1731002612432135,19,141
+T03,Tecnología y telecomunicaciones,P1-P2,P2,5,distancia,-4.109838049496365,11,108
+T03,Tecnología y telecomunicaciones,P1-P2,P2,6,sitio,-3.9565539578113516,13,111
+T03,Tecnología y telecomunicaciones,P1-P2,P2,7,impresión,-3.8125197371929294,3,72
+T03,Tecnología y telecomunicaciones,P1-P2,P2,8,operador,-3.432197326479299,6,69
+T03,Tecnología y telecomunicaciones,P1-P2,P2,9,mensaje,-3.3578331656154696,24,135
+T03,Tecnología y telecomunicaciones,P1-P2,P2,10,acuerdo,-3.252963064373592,3,54
+T03,Tecnología y telecomunicaciones,P1-P2,P2,11,informático,-3.166660907918411,7,66
+T03,Tecnología y telecomunicaciones,P1-P2,P2,12,tarifa,-3.058467744252217,15,94
+T03,Tecnología y telecomunicaciones,P1-P2,P2,13,acceso,-3.0400843133860556,39,178
+T03,Tecnología y telecomunicaciones,P1-P2,P2,14,proveedor,-2.9893237997364412,16,96
+T03,Tecnología y telecomunicaciones,P1-P2,P2,15,línea,-2.974262384105831,75,293
+T05,Deporte: torneos individuales,P1-P2,P1,1,kilómetro,6.925134675857415,316,186
+T05,Deporte: torneos individuales,P1-P2,P1,2,montaña,5.70064721529775,97,35
+T05,Deporte: torneos individuales,P1-P2,P1,3,etapa,5.6595767554884215,254,160
+T05,Deporte: torneos individuales,P1-P2,P1,4,soviético,5.04034182552391,48,4
+T05,Deporte: torneos individuales,P1-P2,P1,5,tramo,4.952573773595862,50,10
+T05,Deporte: torneos individuales,P1-P2,P1,6,minuto,4.792158288304911,172,106
+T05,Deporte: torneos individuales,P1-P2,P1,7,partida,4.482432162719468,73,31
+T05,Deporte: torneos individuales,P1-P2,P1,8,líder,4.364065658653066,144,89
+T05,Deporte: torneos individuales,P1-P2,P1,9,reloj,4.223998692578228,53,19
+T05,Deporte: torneos individuales,P1-P2,P1,10,corredor,4.115230099030814,135,85
+T05,Deporte: torneos individuales,P1-P2,P1,11,ascenso,3.961267605386543,37,10
+T05,Deporte: torneos individuales,P1-P2,P1,12,puerto,3.872628866928749,36,10
+T05,Deporte: torneos individuales,P1-P2,P1,13,corona,3.782977871962571,45,17
+T05,Deporte: torneos individuales,P1-P2,P1,14,ventaja,3.750948083219031,122,79
+T05,Deporte: torneos individuales,P1-P2,P1,15,intermedio,3.729916657437096,33,9
+T05,Deporte: torneos individuales,P1-P2,P2,1,base,-6.093341541206572,30,117
+T05,Deporte: torneos individuales,P1-P2,P2,2,hit,-4.8055923038982495,13,63
+T05,Deporte: torneos individuales,P1-P2,P2,3,lanzador,-4.787947855176587,12,61
+T05,Deporte: torneos individuales,P1-P2,P2,4,dama,-4.644324756048589,55,130
+T05,Deporte: torneos individuales,P1-P2,P2,5,bola,-4.6183399857596745,24,79
+T05,Deporte: torneos individuales,P1-P2,P2,6,evento,-4.607208438598544,12,58
+T05,Deporte: torneos individuales,P1-P2,P2,7,error,-3.74306671605546,26,69
+T05,Deporte: torneos individuales,P1-P2,P2,8,cuadrangular,-3.735271198410568,6,35
+T05,Deporte: torneos individuales,P1-P2,P2,9,béisbol,-3.7121096514502763,12,45
+T05,Deporte: torneos individuales,P1-P2,P2,10,lanzamiento,-3.688532516932382,18,55
+T05,Deporte: torneos individuales,P1-P2,P2,11,carro,-3.6609021579425276,6,34
+T05,Deporte: torneos individuales,P1-P2,P2,12,turno,-3.65673275753407,28,71
+T05,Deporte: torneos individuales,P1-P2,P2,13,kilogramo,-3.632262407351735,8,37
+T05,Deporte: torneos individuales,P1-P2,P2,14,pierna,-3.627675501166213,5,32
+T05,Deporte: torneos individuales,P1-P2,P2,15,entrada,-3.600888588637659,26,67
+T06,Macroeconomía,P1-P2,P1,1,precio,6.378149103686856,403,460
+T06,Macroeconomía,P1-P2,P1,2,inflación,6.314116368800284,362,404
+T06,Macroeconomía,P1-P2,P1,3,reajuste,6.016587382371819,62,27
+T06,Macroeconomía,P1-P2,P1,4,apertura,5.835406079116946,55,22
+T06,Macroeconomía,P1-P2,P1,5,política,5.744415901154449,159,144
+T06,Macroeconomía,P1-P2,P1,6,costo,5.5837955757935225,151,137
+T06,Macroeconomía,P1-P2,P1,7,café,5.445007032085888,66,38
+T06,Macroeconomía,P1-P2,P1,8,certificado,5.365894576842672,37,8
+T06,Macroeconomía,P1-P2,P1,9,servicio,5.27206575135096,94,72
+T06,Macroeconomía,P1-P2,P1,10,bien,5.2503442320324085,80,56
+T06,Macroeconomía,P1-P2,P1,11,vida,5.112563638541487,66,42
+T06,Macroeconomía,P1-P2,P1,12,carne,4.799354762335211,29,5
+T06,Macroeconomía,P1-P2,P1,13,ritmo,4.25308325360262,51,35
+T06,Macroeconomía,P1-P2,P1,14,índice,4.223411319686677,71,59
+T06,Macroeconomía,P1-P2,P1,15,salario,4.093710308190329,80,72
+T06,Macroeconomía,P1-P2,P2,1,mercado,-6.870720385167265,181,571
+T06,Macroeconomía,P1-P2,P2,2,deuda,-6.609431970647306,17,161
+T06,Macroeconomía,P1-P2,P2,3,banda,-6.304934666464333,6,137
+T06,Macroeconomía,P1-P2,P2,4,crisis,-6.199407831847037,38,201
+T06,Macroeconomía,P1-P2,P2,5,bono,-5.686779010124419,12,118
+T06,Macroeconomía,P1-P2,P2,6,interés,-5.114478905249377,195,526
+T06,Macroeconomía,P1-P2,P2,7,analista,-4.838424647025037,31,143
+T06,Macroeconomía,P1-P2,P2,8,economista,-4.681310043569886,9,82
+T06,Macroeconomía,P1-P2,P2,9,liquidez,-4.640980373087499,13,91
+T06,Macroeconomía,P1-P2,P2,10,fondo,-4.6242965669438,12,88
+T06,Macroeconomía,P1-P2,P2,11,economía,-4.528840752609515,204,521
+T06,Macroeconomía,P1-P2,P2,12,inversionista,-4.223537653663744,24,110
+T06,Macroeconomía,P1-P2,P2,13,recesión,-4.158791223779428,18,93
+T06,Macroeconomía,P1-P2,P2,14,cambiario,-4.069863350087881,66,207
+T06,Macroeconomía,P1-P2,P2,15,caída,-3.90690950929058,42,147
+T07,Familia salud y vida cotidiana,P1-P2,P1,1,diente,7.56155968507707,67,24
+T07,Familia salud y vida cotidiana,P1-P2,P1,2,abuela,5.752807003726386,47,24
+T07,Familia salud y vida cotidiana,P1-P2,P1,3,rey,5.121299846701758,30,10
+T07,Familia salud y vida cotidiana,P1-P2,P1,4,abuelo,4.803855939271225,59,51
+T07,Familia salud y vida cotidiana,P1-P2,P1,5,boda,4.78122702319773,32,16
+T07,Familia salud y vida cotidiana,P1-P2,P1,6,horario,4.639421010766277,26,10
+T07,Familia salud y vida cotidiana,P1-P2,P1,7,extranjero,4.4165251458705495,22,7
+T07,Familia salud y vida cotidiana,P1-P2,P1,8,córnea,4.3836667003753,33,1
+T07,Familia salud y vida cotidiana,P1-P2,P1,9,plato,4.28421853326512,25,12
+T07,Familia salud y vida cotidiana,P1-P2,P1,10,afrodisíaco,4.241516045916821,19,4
+T07,Familia salud y vida cotidiana,P1-P2,P1,11,matrimonio,4.15967256407083,75,84
+T07,Familia salud y vida cotidiana,P1-P2,P1,12,azúcar,4.063249595169767,33,24
+T07,Familia salud y vida cotidiana,P1-P2,P1,13,zurdo,4.061307399834047,18,5
+T07,Familia salud y vida cotidiana,P1-P2,P1,14,adopción,4.060711331532245,21,9
+T07,Familia salud y vida cotidiana,P1-P2,P1,15,trasplante,4.045546990803234,29,19
+T07,Familia salud y vida cotidiana,P1-P2,P2,1,soldado,-4.128872761539702,3,72
+T07,Familia salud y vida cotidiana,P1-P2,P2,2,perro,-3.833733877557524,21,114
+T07,Familia salud y vida cotidiana,P1-P2,P2,3,barrio,-3.7694521921591027,65,240
+T07,Familia salud y vida cotidiana,P1-P2,P2,4,base,-3.640436115294511,6,62
+T07,Familia salud y vida cotidiana,P1-P2,P2,5,salud,-3.4912591647971505,66,234
+T07,Familia salud y vida cotidiana,P1-P2,P2,6,colesterol,-3.2701943563810967,2,45
+T07,Familia salud y vida cotidiana,P1-P2,P2,7,cuerpo,-3.262863745006681,78,259
+T07,Familia salud y vida cotidiana,P1-P2,P2,8,desconocido,-3.1488655731916175,6,51
+T07,Familia salud y vida cotidiana,P1-P2,P2,9,diabetes,-3.1263890108367,2,41
+T07,Familia salud y vida cotidiana,P1-P2,P2,10,ejercicio,-3.1125066514155946,20,94
+T07,Familia salud y vida cotidiana,P1-P2,P2,11,niña,-3.093301924610337,77,251
+T07,Familia salud y vida cotidiana,P1-P2,P2,12,vivo,-3.050769946042768,11,65
+T07,Familia salud y vida cotidiana,P1-P2,P2,13,desaparición,-3.033692786384901,3,40
+T07,Familia salud y vida cotidiana,P1-P2,P2,14,cerebral,-3.0181283050855927,9,58
+T07,Familia salud y vida cotidiana,P1-P2,P2,15,destino,-3.0099607994559414,2,38
+T08,Relaciones internacionales,P1-P2,P1,1,serbio,5.107988721479536,79,6
+T08,Relaciones internacionales,P1-P2,P1,2,militar,4.735302073261757,121,28
+T08,Relaciones internacionales,P1-P2,P1,3,tropa,4.543769916819671,63,5
+T08,Relaciones internacionales,P1-P2,P1,4,soviético,4.036307460868954,50,1
+T08,Relaciones internacionales,P1-P2,P1,5,fuerza,4.004963438983503,89,21
+T08,Relaciones internacionales,P1-P2,P1,6,iraquí,3.781707196831837,73,16
+T08,Relaciones internacionales,P1-P2,P1,7,haitiano,3.253210898012036,37,0
+T08,Relaciones internacionales,P1-P2,P1,8,unión_soviética,3.2235907673698394,31,1
+T08,Relaciones internacionales,P1-P2,P1,9,agrícola,3.0165901293903086,27,1
+T08,Relaciones internacionales,P1-P2,P1,10,árabe,2.985603232813564,64,18
+T08,Relaciones internacionales,P1-P2,P1,11,golpe,2.9240900100692135,28,3
+T08,Relaciones internacionales,P1-P2,P1,12,musulmán,2.83133701651405,29,4
+T08,Relaciones internacionales,P1-P2,P1,13,periodista,2.6292716676713948,36,8
+T08,Relaciones internacionales,P1-P2,P1,14,occidental,2.5722574563941336,21,2
+T08,Relaciones internacionales,P1-P2,P1,15,ocupado,2.5638904528563033,23,0
+T08,Relaciones internacionales,P1-P2,P2,1,droga,-4.961847266496258,11,39
+T08,Relaciones internacionales,P1-P2,P2,2,oficial,-4.70561807759573,55,81
+T08,Relaciones internacionales,P1-P2,P2,3,narcotráfico,-4.409443874188156,19,42
+T08,Relaciones internacionales,P1-P2,P2,4,política,-4.209662322183976,42,63
+T08,Relaciones internacionales,P1-P2,P2,5,ley,-4.171494747734655,10,30
+T08,Relaciones internacionales,P1-P2,P2,6,cubano,-3.9842839221046384,34,53
+T08,Relaciones internacionales,P1-P2,P2,7,lucha,-3.969574873160397,24,43
+T08,Relaciones internacionales,P1-P2,P2,8,mecanismo,-3.8640661940970147,5,22
+T08,Relaciones internacionales,P1-P2,P2,9,antidroga,-3.625828535525293,6,21
+T08,Relaciones internacionales,P1-P2,P2,10,oportunidad,-3.6247791888025094,4,19
+T08,Relaciones internacionales,P1-P2,P2,11,diálogo,-3.411718798823783,15,29
+T08,Relaciones internacionales,P1-P2,P2,12,unión_europea,-3.316940605400355,10,23
+T08,Relaciones internacionales,P1-P2,P2,13,gobierno,-3.314736698620889,116,115
+T08,Relaciones internacionales,P1-P2,P2,14,presidencial,-3.1485596615553995,17,29
+T08,Relaciones internacionales,P1-P2,P2,15,incidente,-3.0969308308264867,5,16
+T09,Justicia y procesos judiciales,P1-P2,P1,1,juez,8.248256438240139,331,222
+T09,Justicia y procesos judiciales,P1-P2,P1,2,auxilio,6.172663274401423,60,10
+T09,Justicia y procesos judiciales,P1-P2,P1,3,consejo_estado,5.568248179556179,89,43
+T09,Justicia y procesos judiciales,P1-P2,P1,4,decreto,5.452641067923571,59,19
+T09,Justicia y procesos judiciales,P1-P2,P1,5,auto,4.792588919890331,58,25
+T09,Justicia y procesos judiciales,P1-P2,P1,6,negociación,4.550473199867034,35,8
+T09,Justicia y procesos judiciales,P1-P2,P1,7,artículo,4.488623693852021,67,36
+T09,Justicia y procesos judiciales,P1-P2,P1,8,judicial,4.350634022874246,175,147
+T09,Justicia y procesos judiciales,P1-P2,P1,9,fuente,4.327681424694054,55,27
+T09,Justicia y procesos judiciales,P1-P2,P1,10,sentencia,4.248942503866434,131,102
+T09,Justicia y procesos judiciales,P1-P2,P1,11,confesión,4.1861046012351455,31,8
+T09,Justicia y procesos judiciales,P1-P2,P1,12,concejal,4.118958085391669,47,22
+T09,Justicia y procesos judiciales,P1-P2,P1,13,procedimiento,4.0763664703473745,50,25
+T09,Justicia y procesos judiciales,P1-P2,P1,14,fundamental,4.066016984630443,37,14
+T09,Justicia y procesos judiciales,P1-P2,P1,15,arma,4.006548254519408,34,12
+T09,Justicia y procesos judiciales,P1-P2,P2,1,campaña,-6.298966096546931,7,107
+T09,Justicia y procesos judiciales,P1-P2,P2,2,congresista,-6.273238324730803,8,106
+T09,Justicia y procesos judiciales,P1-P2,P2,3,ilícito,-5.950575674757504,40,158
+T09,Justicia y procesos judiciales,P1-P2,P2,4,enriquecimiento,-5.84521943277599,24,122
+T09,Justicia y procesos judiciales,P1-P2,P2,5,representante,-5.062391093883148,22,100
+T09,Justicia y procesos judiciales,P1-P2,P2,6,investigación,-4.7860181276875196,218,443
+T09,Justicia y procesos judiciales,P1-P2,P2,7,político,-4.596140956566838,34,115
+T09,Justicia y procesos judiciales,P1-P2,P2,8,documento,-4.496741285104745,31,107
+T09,Justicia y procesos judiciales,P1-P2,P2,9,proyecto,-4.3599927556575455,10,61
+T09,Justicia y procesos judiciales,P1-P2,P2,10,cartel,-4.261014199167556,40,120
+T09,Justicia y procesos judiciales,P1-P2,P2,11,parlamentario,-4.197697276859744,8,54
+T09,Justicia y procesos judiciales,P1-P2,P2,12,corte_suprema,-4.12822472351978,58,151
+T09,Justicia y procesos judiciales,P1-P2,P2,13,juicio,-3.677145774148201,91,199
+T09,Justicia y procesos judiciales,P1-P2,P2,14,decisión,-3.621282259803639,106,223
+T09,Justicia y procesos judiciales,P1-P2,P2,15,presunto,-3.5896640970162603,77,173
+T11,Cultura y espectáculos,P1-P2,P1,1,toro,5.98243559336314,90,52
+T11,Cultura y espectáculos,P1-P2,P1,2,pintura,5.727393450016919,164,139
+T11,Cultura y espectáculos,P1-P2,P1,3,vestido,5.025404792038654,89,64
+T11,Cultura y espectáculos,P1-P2,P1,4,corrida,4.869569476245751,39,14
+T11,Cultura y espectáculos,P1-P2,P1,5,torero,4.6688632706245405,32,9
+T11,Cultura y espectáculos,P1-P2,P1,6,libertad,4.650890243077603,42,19
+T11,Cultura y espectáculos,P1-P2,P1,7,gaita,4.570817531136123,32,10
+T11,Cultura y espectáculos,P1-P2,P1,8,abuela,4.246496961206689,29,10
+T11,Cultura y espectáculos,P1-P2,P1,9,certamen,4.17553837245377,89,76
+T11,Cultura y espectáculos,P1-P2,P1,10,afición,4.134043264070385,27,9
+T11,Cultura y espectáculos,P1-P2,P1,11,falda,4.017858006573177,25,8
+T11,Cultura y espectáculos,P1-P2,P1,12,alumno,3.9918915262659755,34,17
+T11,Cultura y espectáculos,P1-P2,P1,13,taurino,3.879292661078956,29,13
+T11,Cultura y espectáculos,P1-P2,P1,14,oreja,3.875989810735338,21,5
+T11,Cultura y espectáculos,P1-P2,P1,15,bordado,3.864895073894865,21,2
+T11,Cultura y espectáculos,P1-P2,P2,1,evento,-9.099845993595205,55,339
+T11,Cultura y espectáculos,P1-P2,P2,2,peso,-4.499850000449633,71,216
+T11,Cultura y espectáculos,P1-P2,P2,3,amor,-4.495404175187356,151,382
+T11,Cultura y espectáculos,P1-P2,P2,4,paz,-4.488014970103979,18,94
+T11,Cultura y espectáculos,P1-P2,P2,5,entrada,-4.360151626427712,22,101
+T11,Cultura y espectáculos,P1-P2,P2,6,ciudad,-4.14182749701311,228,520
+T11,Cultura y espectáculos,P1-P2,P2,7,espacio,-3.976258124451541,96,254
+T11,Cultura y espectáculos,P1-P2,P2,8,concierto,-3.8885508250852636,126,312
+T11,Cultura y espectáculos,P1-P2,P2,9,programación,-3.8141568932150802,32,113
+T11,Cultura y espectáculos,P1-P2,P2,10,poema,-3.6466328051423367,43,134
+T11,Cultura y espectáculos,P1-P2,P2,11,lindo,-3.5986912535887745,4,43
+T11,Cultura y espectáculos,P1-P2,P2,12,álbum,-3.552441283319563,26,94
+T11,Cultura y espectáculos,P1-P2,P2,13,situación,-3.5224732503615708,28,98
+T11,Cultura y espectáculos,P1-P2,P2,14,cabo,-3.4969157755411664,34,111
+T11,Cultura y espectáculos,P1-P2,P2,15,tango,-3.461540349756905,14,64
+T12,Movilidad urbana,P1-P2,P1,1,calle,5.6118784065154825,504,700
+T12,Movilidad urbana,P1-P2,P1,2,barrio,5.331652370364647,109,98
+T12,Movilidad urbana,P1-P2,P1,3,sur,5.098129979946134,135,138
+T12,Movilidad urbana,P1-P2,P1,4,carrera,4.455107701741206,380,541
+T12,Movilidad urbana,P1-P2,P1,5,oriental,4.218951996415569,24,8
+T12,Movilidad urbana,P1-P2,P1,6,metro,3.7253054456048647,58,54
+T12,Movilidad urbana,P1-P2,P1,7,basura,3.677265090978187,20,8
+T12,Movilidad urbana,P1-P2,P1,8,transversal,3.6364650374143954,33,23
+T12,Movilidad urbana,P1-P2,P1,9,revisión,3.57283177538785,30,20
+T12,Movilidad urbana,P1-P2,P1,10,costo,3.4153871494435872,33,25
+T12,Movilidad urbana,P1-P2,P1,11,longitud,3.371654037009093,18,8
+T12,Movilidad urbana,P1-P2,P1,12,dirección,3.347997842960482,16,6
+T12,Movilidad urbana,P1-P2,P1,13,general,3.269255244934422,21,12
+T12,Movilidad urbana,P1-P2,P1,14,contratista,3.252314164473871,20,11
+T12,Movilidad urbana,P1-P2,P1,15,paradero,3.217443130854965,25,17
+T12,Movilidad urbana,P1-P2,P2,1,paso,-4.561625221395722,25,131
+T12,Movilidad urbana,P1-P2,P2,2,tel,-4.205176519458031,0,79
+T12,Movilidad urbana,P1-P2,P2,3,restricción,-3.8510516194839806,2,53
+T12,Movilidad urbana,P1-P2,P2,4,medida,-3.5858370703406024,19,91
+T12,Movilidad urbana,P1-P2,P2,5,peaje,-3.3769247837449274,0,51
+T12,Movilidad urbana,P1-P2,P2,6,cierre,-3.2647991875213234,12,65
+T12,Movilidad urbana,P1-P2,P2,7,protesta,-3.066095298602787,2,34
+T12,Movilidad urbana,P1-P2,P2,8,carro,-3.0378164219390666,68,200
+T12,Movilidad urbana,P1-P2,P2,9,vehicular,-2.77376244644364,13,59
+T12,Movilidad urbana,P1-P2,P2,10,número,-2.77376244644364,13,59
+T12,Movilidad urbana,P1-P2,P2,11,comercial,-2.6297911007752424,2,26
+T12,Movilidad urbana,P1-P2,P2,12,problema,-2.61934967675368,35,112
+T12,Movilidad urbana,P1-P2,P2,13,retorno,-2.5957422981514755,3,28
+T12,Movilidad urbana,P1-P2,P2,14,azul,-2.4697501289511807,4,29
+T12,Movilidad urbana,P1-P2,P2,15,gasolina,-2.4598841692749436,3,26
+T13,Elecciones y partidos,P1-P2,P1,1,lista,5.347347878146969,138,29
+T13,Elecciones y partidos,P1-P2,P1,2,tarjetón,4.1678187399914055,61,8
+T13,Elecciones y partidos,P1-P2,P1,3,demócrata,3.804082229599988,54,8
+T13,Elecciones y partidos,P1-P2,P1,4,liberal,3.5791621798800004,382,175
+T13,Elecciones y partidos,P1-P2,P1,5,liberalismo,3.4133333520511844,123,42
+T13,Elecciones y partidos,P1-P2,P1,6,popular,3.2655545180220718,84,25
+T13,Elecciones y partidos,P1-P2,P1,7,consulta,3.2497827375293227,152,58
+T13,Elecciones y partidos,P1-P2,P1,8,aspirante,3.0609603888403316,124,46
+T13,Elecciones y partidos,P1-P2,P1,9,inscrito,2.9140927023941763,26,2
+T13,Elecciones y partidos,P1-P2,P1,10,nulo,2.654224165367203,29,5
+T13,Elecciones y partidos,P1-P2,P1,11,doctor,2.6108647848424957,38,9
+T13,Elecciones y partidos,P1-P2,P1,12,republicano,2.5438608131922864,44,12
+T13,Elecciones y partidos,P1-P2,P1,13,magistrado,2.5401979405504727,30,6
+T13,Elecciones y partidos,P1-P2,P1,14,abstención,2.5082861132390355,32,7
+T13,Elecciones y partidos,P1-P2,P1,15,artículo,2.396717850463377,33,8
+T13,Elecciones y partidos,P1-P2,P2,1,municipio,-5.312032390298617,29,62
+T13,Elecciones y partidos,P1-P2,P2,2,representante,-4.402963594878354,55,77
+T13,Elecciones y partidos,P1-P2,P2,3,independiente,-3.896818497350876,30,48
+T13,Elecciones y partidos,P1-P2,P2,4,político,-3.402955951046352,198,179
+T13,Elecciones y partidos,P1-P2,P2,5,habitante,-3.3723217066679516,7,20
+T13,Elecciones y partidos,P1-P2,P2,6,irregularidad,-3.2556623852098476,5,17
+T13,Elecciones y partidos,P1-P2,P2,7,derrota,-3.2089729080480867,9,21
+T13,Elecciones y partidos,P1-P2,P2,8,control,-3.1127385887456946,5,16
+T13,Elecciones y partidos,P1-P2,P2,9,elección,-3.0616394893529826,348,282
+T13,Elecciones y partidos,P1-P2,P2,10,alcalde,-2.962410713445772,50,57
+T13,Elecciones y partidos,P1-P2,P2,11,oposición,-2.9106915688868717,19,29
+T13,Elecciones y partidos,P1-P2,P2,12,intención,-2.7739062274019943,19,28
+T13,Elecciones y partidos,P1-P2,P2,13,organismo,-2.5979494126492866,8,16
+T13,Elecciones y partidos,P1-P2,P2,14,paz,-2.5909861963991516,13,21
+T13,Elecciones y partidos,P1-P2,P2,15,población,-2.5882649296828872,12,20
+T14,Sistema financiero,P1-P2,P1,1,acción,6.661342305612238,110,104
+T14,Sistema financiero,P1-P2,P1,2,externo,5.388155356275551,30,9
+T14,Sistema financiero,P1-P2,P1,3,oferta,4.90076326505376,32,17
+T14,Sistema financiero,P1-P2,P1,4,precio,4.491721197800364,32,21
+T14,Sistema financiero,P1-P2,P1,5,paquete,4.267884219088298,18,4
+T14,Sistema financiero,P1-P2,P1,6,junta,4.208977851828183,30,21
+T14,Sistema financiero,P1-P2,P1,7,venta,4.082350838041145,53,57
+T14,Sistema financiero,P1-P2,P1,8,garantía,4.068451083779122,34,28
+T14,Sistema financiero,P1-P2,P1,9,cafetero,4.03712714366588,19,8
+T14,Sistema financiero,P1-P2,P1,10,mínimo,3.6350792928751967,33,31
+T14,Sistema financiero,P1-P2,P1,11,recuperación,3.4802956918154626,21,15
+T14,Sistema financiero,P1-P2,P1,12,papel,3.4331019796796696,20,14
+T14,Sistema financiero,P1-P2,P1,13,bolsa,3.2910221696470265,17,11
+T14,Sistema financiero,P1-P2,P1,14,título,3.0731074923080706,36,42
+T14,Sistema financiero,P1-P2,P1,15,compra,2.992113357840522,30,33
+T14,Sistema financiero,P1-P2,P2,1,cooperativa,-4.2510678212550665,5,83
+T14,Sistema financiero,P1-P2,P2,2,vivienda,-3.815418891905985,29,153
+T14,Sistema financiero,P1-P2,P2,3,pago,-3.5002229985187103,50,210
+T14,Sistema financiero,P1-P2,P2,4,upac,-3.312343830577295,2,48
+T14,Sistema financiero,P1-P2,P2,5,gobierno,-3.0755754240464235,4,48
+T14,Sistema financiero,P1-P2,P2,6,inmueble,-3.0755754240464235,4,48
+T14,Sistema financiero,P1-P2,P2,7,deudor,-3.012556381536758,12,75
+T14,Sistema financiero,P1-P2,P2,8,bien,-2.929922218811926,6,52
+T14,Sistema financiero,P1-P2,P2,9,interés,-2.805229299938385,47,180
+T14,Sistema financiero,P1-P2,P2,10,hipotecario,-2.780991039598961,6,49
+T14,Sistema financiero,P1-P2,P2,11,liquidez,-2.751206143468934,7,52
+T14,Sistema financiero,P1-P2,P2,12,alivio,-2.4919120031350377,1,27
+T14,Sistema financiero,P1-P2,P2,13,acuerdo,-2.490865137404341,5,40
+T14,Sistema financiero,P1-P2,P2,14,dación,-2.454817157504435,0,29
+T14,Sistema financiero,P1-P2,P2,15,seguro,-2.433506342023254,5,39
+T15,Fútbol,P1-P2,P1,1,cuadro,6.443663620628157,127,81
+T15,Fútbol,P1-P2,P1,2,italiano,6.128314405542929,61,20
+T15,Fútbol,P1-P2,P1,3,fecha,5.7229640343872505,172,144
+T15,Fútbol,P1-P2,P1,4,período,4.745211990828407,44,19
+T15,Fútbol,P1-P2,P1,5,arbitro,4.584685202209722,71,48
+T15,Fútbol,P1-P2,P1,6,escuadra,4.473561701634775,35,13
+T15,Fútbol,P1-P2,P1,7,penalty,4.3284179221491375,28,2
+T15,Fútbol,P1-P2,P1,8,anotación,4.2171181981676025,66,47
+T15,Fútbol,P1-P2,P1,9,espectador,4.048584684081561,66,49
+T15,Fútbol,P1-P2,P1,10,diario,3.855623014283519,54,38
+T15,Fútbol,P1-P2,P1,11,reclasificación,3.6918590864494605,24,9
+T15,Fútbol,P1-P2,P1,12,alemán,3.6551503942783987,30,15
+T15,Fútbol,P1-P2,P1,13,posibilidad,3.539342976721564,65,54
+T15,Fútbol,P1-P2,P1,14,calidad,3.4001511974121663,32,19
+T15,Fútbol,P1-P2,P1,15,nacional,3.2887678897953214,83,79
+T15,Fútbol,P1-P2,P2,1,penalti,-5.708376784789341,11,107
+T15,Fútbol,P1-P2,P2,2,equipo,-4.434346809211063,564,1130
+T15,Fútbol,P1-P2,P2,3,partido,-4.203757298988556,491,988
+T15,Fútbol,P1-P2,P2,4,hincha,-3.9049910993946813,26,99
+T15,Fútbol,P1-P2,P2,5,balón,-3.6770306613308357,99,246
+T15,Fútbol,P1-P2,P2,6,banco,-3.4990246024760525,5,42
+T15,Fútbol,P1-P2,P2,7,grito,-3.443961072922305,4,39
+T15,Fútbol,P1-P2,P2,8,bola,-3.401865457880964,12,57
+T15,Fútbol,P1-P2,P2,9,titular,-3.3418246045879796,36,110
+T15,Fútbol,P1-P2,P2,10,periodista,-2.9612936551206253,23,75
+T15,Fútbol,P1-P2,P2,11,tablero,-2.960786670118319,4,31
+T15,Fútbol,P1-P2,P2,12,juego,-2.928898275721224,254,509
+T15,Fútbol,P1-P2,P2,13,blanco,-2.9103801921720986,6,35
+T15,Fútbol,P1-P2,P2,14,barranquillero,-2.9095930499394096,14,54
+T15,Fútbol,P1-P2,P2,15,práctica,-2.9095930499394096,14,54
+T16,Legislación y reformas,P1-P2,P1,1,seguridad,5.837964443376142,73,17
+T16,Legislación y reformas,P1-P2,P1,2,comisión,5.163360255502317,148,82
+T16,Legislación y reformas,P1-P2,P1,3,social,4.979713563559952,89,38
+T16,Legislación y reformas,P1-P2,P1,4,pensión,4.897458061741491,70,25
+T16,Legislación y reformas,P1-P2,P1,5,reunión,3.756923791460713,36,11
+T16,Legislación y reformas,P1-P2,P1,6,trabajo,3.6625381530386223,35,11
+T16,Legislación y reformas,P1-P2,P1,7,transitorio,3.5438400936671104,24,4
+T16,Legislación y reformas,P1-P2,P1,8,sistema,3.3297970710777514,69,40
+T16,Legislación y reformas,P1-P2,P1,9,permanente,3.290187775779592,27,8
+T16,Legislación y reformas,P1-P2,P1,10,conmoción,3.1466680220192744,20,4
+T16,Legislación y reformas,P1-P2,P1,11,articulado,3.1120331788059863,31,12
+T16,Legislación y reformas,P1-P2,P1,12,corporación,3.0366767963804597,51,28
+T16,Legislación y reformas,P1-P2,P1,13,mandato,2.9216946002283084,18,4
+T16,Legislación y reformas,P1-P2,P1,14,elección,2.8353158354235526,23,8
+T16,Legislación y reformas,P1-P2,P1,15,estado,2.8010308757900853,17,4
+T16,Legislación y reformas,P1-P2,P2,1,tributario,-6.499791139191862,47,159
+T16,Legislación y reformas,P1-P2,P2,2,extradición,-5.674281324206706,2,79
+T16,Legislación y reformas,P1-P2,P2,3,pena,-4.182484163421557,5,41
+T16,Legislación y reformas,P1-P2,P2,4,pago,-3.969449761559412,11,48
+T16,Legislación y reformas,P1-P2,P2,5,gobierno,-3.88615651212281,15,54
+T16,Legislación y reformas,P1-P2,P2,6,billón,-3.7531767123186235,4,33
+T16,Legislación y reformas,P1-P2,P2,7,exención,-3.5929154512622095,2,29
+T16,Legislación y reformas,P1-P2,P2,8,extinción,-3.4675102323294134,2,27
+T16,Legislación y reformas,P1-P2,P2,9,patrimonio,-3.4021123766648484,2,26
+T16,Legislación y reformas,P1-P2,P2,10,delito,-3.2279869805073713,4,26
+T16,Legislación y reformas,P1-P2,P2,11,contribuyente,-3.1323627148620834,8,32
+T16,Legislación y reformas,P1-P2,P2,12,gasto,-3.083145047355172,20,52
+T16,Legislación y reformas,P1-P2,P2,13,beneficio,-3.052290643731425,16,45
+T16,Legislación y reformas,P1-P2,P2,14,peso,-2.945036685020757,57,106
+T16,Legislación y reformas,P1-P2,P2,15,dominio,-2.9341818464904756,3,21
+T17,Agua tierra e infraestructura,P1-P2,P1,1,piscina,5.136596166357477,35,11
+T17,Agua tierra e infraestructura,P1-P2,P1,2,madera,4.938080467386804,54,34
+T17,Agua tierra e infraestructura,P1-P2,P1,3,petróleo,4.843591477279892,46,26
+T17,Agua tierra e infraestructura,P1-P2,P1,4,modelo,4.457068664805638,24,5
+T17,Agua tierra e infraestructura,P1-P2,P1,5,ventana,4.225842909418326,26,10
+T17,Agua tierra e infraestructura,P1-P2,P1,6,contaminación,4.110938017263677,82,80
+T17,Agua tierra e infraestructura,P1-P2,P1,7,bello,4.04179209953216,21,6
+T17,Agua tierra e infraestructura,P1-P2,P1,8,isla,4.020237069178179,48,37
+T17,Agua tierra e infraestructura,P1-P2,P1,9,edificación,3.973784201771811,25,11
+T17,Agua tierra e infraestructura,P1-P2,P1,10,política,3.9551392919716037,23,9
+T17,Agua tierra e infraestructura,P1-P2,P1,11,ceniza,3.7955091261733886,20,7
+T17,Agua tierra e infraestructura,P1-P2,P1,12,páramo,3.731894555309837,39,29
+T17,Agua tierra e infraestructura,P1-P2,P1,13,programa,3.6811193333989927,97,108
+T17,Agua tierra e infraestructura,P1-P2,P1,14,amplio,3.60038364689806,26,15
+T17,Agua tierra e infraestructura,P1-P2,P1,15,ladrillo,3.5878678028270534,16,4
+T17,Agua tierra e infraestructura,P1-P2,P2,1,emergencia,-4.616200234661802,40,169
+T17,Agua tierra e infraestructura,P1-P2,P2,2,afectado,-4.404016915159504,58,209
+T17,Agua tierra e infraestructura,P1-P2,P2,3,familia,-4.040948372766837,81,254
+T17,Agua tierra e infraestructura,P1-P2,P2,4,municipal,-3.8950815676803328,15,84
+T17,Agua tierra e infraestructura,P1-P2,P2,5,municipio,-3.8906984621461675,143,391
+T17,Agua tierra e infraestructura,P1-P2,P2,6,lluvia,-3.818692617722872,59,195
+T17,Agua tierra e infraestructura,P1-P2,P2,7,túnel,-3.75458637623512,15,81
+T17,Agua tierra e infraestructura,P1-P2,P2,8,alerta,-3.718486964010174,16,83
+T17,Agua tierra e infraestructura,P1-P2,P2,9,trabajo,-3.586285148555268,65,203
+T17,Agua tierra e infraestructura,P1-P2,P2,10,zona,-3.570142319368355,275,663
+T17,Agua tierra e infraestructura,P1-P2,P2,11,ambiental,-3.514684012049812,105,293
+T17,Agua tierra e infraestructura,P1-P2,P2,12,fenómeno,-3.4879370217837367,23,97
+T17,Agua tierra e infraestructura,P1-P2,P2,13,corregimiento,-3.3685502239114298,19,84
+T17,Agua tierra e infraestructura,P1-P2,P2,14,alcalde,-3.2925534317776326,48,155
+T17,Agua tierra e infraestructura,P1-P2,P2,15,localidad,-3.253514913886648,21,87
+TODOS,sin condicionar,P2-P3,P2,1,cartel,11.504982314060445,547,198
+TODOS,sin condicionar,P2-P3,P2,2,carrera,11.107859206525312,2423,1592
+TODOS,sin condicionar,P2-P3,P2,3,calle,10.649326272254708,2489,1671
+TODOS,sin condicionar,P2-P3,P2,4,corporación,10.13570252223851,636,292
+TODOS,sin condicionar,P2-P3,P2,5,agua,9.869165881316906,2264,1536
+TODOS,sin condicionar,P2-P3,P2,6,caleño,9.667499151091427,307,91
+TODOS,sin condicionar,P2-P3,P2,7,municipio,9.518805839085255,3346,2442
+TODOS,sin condicionar,P2-P3,P2,8,municipal,9.178544521286655,967,558
+TODOS,sin condicionar,P2-P3,P2,9,ciudad,9.02981492284454,5093,3955
+TODOS,sin condicionar,P2-P3,P2,10,metro,8.933531921084949,1792,1208
+TODOS,sin condicionar,P2-P3,P2,11,asalto,8.786145542132314,250,73
+TODOS,sin condicionar,P2-P3,P2,12,barranquillero,8.731445511073913,255,77
+TODOS,sin condicionar,P2-P3,P2,13,enriquecimiento,8.630171415749714,199,45
+TODOS,sin condicionar,P2-P3,P2,14,comuna,8.424646151932446,228,66
+TODOS,sin condicionar,P2-P3,P2,15,situación,8.255584292363354,3359,2542
+TODOS,sin condicionar,P2-P3,P3,1,euro,-15.57898397538488,48,477
+TODOS,sin condicionar,P2-P3,P3,2,referendo,-14.582861054088262,42,418
+TODOS,sin condicionar,P2-P3,P3,3,reelección,-14.253972203663784,53,400
+TODOS,sin condicionar,P2-P3,P3,4,terrorismo,-14.004774409005984,167,542
+TODOS,sin condicionar,P2-P3,P3,5,terrorista,-13.90501846386105,224,622
+TODOS,sin condicionar,P2-P3,P3,6,paramilitar,-13.121988395386294,340,753
+TODOS,sin condicionar,P2-P3,P3,7,billón,-12.716214896652799,401,818
+TODOS,sin condicionar,P2-P3,P3,8,país,-12.220769648756729,9961,11069
+TODOS,sin condicionar,P2-P3,P3,9,crecimiento,-11.49613485344663,1214,1752
+TODOS,sin condicionar,P2-P3,P3,10,autodefensa,-11.367244830096103,116,366
+TODOS,sin condicionar,P2-P3,P3,11,tema,-10.801739869849317,2697,3350
+TODOS,sin condicionar,P2-P3,P3,12,reforma,-10.633427206778734,1005,1460
+TODOS,sin condicionar,P2-P3,P3,13,estados_unidos,-10.444265998322397,2591,3207
+TODOS,sin condicionar,P2-P3,P3,14,trimestre,-10.340700789066934,376,686
+TODOS,sin condicionar,P2-P3,P3,15,negociador,-10.258501817048892,81,278
+T00,Educación,P2-P3,P2,1,directiva,4.272468936993804,33,7
+T00,Educación,P2-P3,P2,2,promoción,4.2553638339524085,34,8
+T00,Educación,P2-P3,P2,3,duración,3.8057725519185066,24,3
+T00,Educación,P2-P3,P2,4,bachillerato,3.6332048106855375,44,21
+T00,Educación,P2-P3,P2,5,profesor,3.520465898507466,166,140
+T00,Educación,P2-P3,P2,6,teléfono,3.334485124537519,21,5
+T00,Educación,P2-P3,P2,7,bachiller,3.310562462542654,42,22
+T00,Educación,P2-P3,P2,8,semestre,3.293870799220117,76,53
+T00,Educación,P2-P3,P2,9,actividad,3.2620053006304404,65,43
+T00,Educación,P2-P3,P2,10,postgrado,3.244167572049508,19,4
+T00,Educación,P2-P3,P2,11,municipal,3.1125493850003436,23,8
+T00,Educación,P2-P3,P2,12,calle,3.0070200110134704,17,4
+T00,Educación,P2-P3,P2,13,académico,2.9531011581027022,145,128
+T00,Educación,P2-P3,P2,14,sector,2.8680087378886565,83,65
+T00,Educación,P2-P3,P2,15,región,2.7893672655404824,46,30
+T00,Educación,P2-P3,P3,1,niño,-5.714727058280627,67,192
+T00,Educación,P2-P3,P3,2,aprendizaje,-3.5657289703438377,5,35
+T00,Educación,P2-P3,P3,3,lenguaje,-3.5427796198382207,4,33
+T00,Educación,P2-P3,P3,4,cobertura,-3.3888190393839044,14,50
+T00,Educación,P2-P3,P3,5,doctorado,-3.3714980349354224,10,42
+T00,Educación,P2-P3,P3,6,país,-3.331274823932543,114,213
+T00,Educación,P2-P3,P3,7,calidad,-3.2441866808300537,77,154
+T00,Educación,P2-P3,P3,8,acceso,-3.2009239096523894,5,30
+T00,Educación,P2-P3,P3,9,virtual,-3.1955241940821693,1,27
+T00,Educación,P2-P3,P3,10,estrato,-3.142029152427724,11,41
+T00,Educación,P2-P3,P3,11,matemática,-3.1286783675318466,7,33
+T00,Educación,P2-P3,P3,12,pequeño,-3.055797035335287,10,38
+T00,Educación,P2-P3,P3,13,salón,-3.039757461042041,5,28
+T00,Educación,P2-P3,P3,14,maestría,-3.0051849605259777,14,45
+T00,Educación,P2-P3,P3,15,cupo,-2.9817851838135288,23,61
+T01,Empresas y comercio exterior,P2-P3,P2,1,leche,5.862864225571622,85,43
+T01,Empresas y comercio exterior,P2-P3,P2,2,tonelada,5.275950887919639,136,104
+T01,Empresas y comercio exterior,P2-P3,P2,3,franco,5.132974636033221,38,4
+T01,Empresas y comercio exterior,P2-P3,P2,4,fábrica,4.731747777040638,38,12
+T01,Empresas y comercio exterior,P2-P3,P2,5,pollo,4.713516025208011,40,14
+T01,Empresas y comercio exterior,P2-P3,P2,6,moneda,4.668199017844659,31,5
+T01,Empresas y comercio exterior,P2-P3,P2,7,litro,4.527444309683438,37,13
+T01,Empresas y comercio exterior,P2-P3,P2,8,importado,4.495844294794605,56,31
+T01,Empresas y comercio exterior,P2-P3,P2,9,planta,4.459316924893432,129,110
+T01,Empresas y comercio exterior,P2-P3,P2,10,filial,4.375095647084208,41,18
+T01,Empresas y comercio exterior,P2-P3,P2,11,participación,4.237882637549748,136,122
+T01,Empresas y comercio exterior,P2-P3,P2,12,llanta,4.0543985180722615,25,6
+T01,Empresas y comercio exterior,P2-P3,P2,13,automotriz,4.03083897233073,29,10
+T01,Empresas y comercio exterior,P2-P3,P2,14,zona,4.010006414080364,51,31
+T01,Empresas y comercio exterior,P2-P3,P2,15,químico,3.995824949686906,32,13
+T01,Empresas y comercio exterior,P2-P3,P3,1,exportación,-4.755687841902338,119,304
+T01,Empresas y comercio exterior,P2-P3,P3,2,utilidad,-4.409557539171502,16,82
+T01,Empresas y comercio exterior,P2-P3,P3,3,cadena,-4.181259016456723,74,200
+T01,Empresas y comercio exterior,P2-P3,P3,4,cuero,-4.1119212235581175,5,52
+T01,Empresas y comercio exterior,P2-P3,P3,5,resultado,-4.018898510799516,54,156
+T01,Empresas y comercio exterior,P2-P3,P3,6,tradicional,-3.9085835352200706,27,97
+T01,Empresas y comercio exterior,P2-P3,P3,7,café,-3.8541254261498272,34,111
+T01,Empresas y comercio exterior,P2-P3,P3,8,trimestre,-3.8492227087428725,15,69
+T01,Empresas y comercio exterior,P2-P3,P3,9,acero,-3.7914539218600227,3,43
+T01,Empresas y comercio exterior,P2-P3,P3,10,marca,-3.7736683571493543,72,186
+T01,Empresas y comercio exterior,P2-P3,P3,11,comercial,-3.771440833530069,71,184
+T01,Empresas y comercio exterior,P2-P3,P3,12,crecimiento,-3.7455306806977093,77,195
+T01,Empresas y comercio exterior,P2-P3,P3,13,estados_unidos,-3.624805490422162,88,213
+T01,Empresas y comercio exterior,P2-P3,P3,14,oportunidad,-3.6167974946303563,24,85
+T01,Empresas y comercio exterior,P2-P3,P3,15,prenda,-3.554954026258711,3,38
+T02,Conflicto armado: combates,P2-P3,P2,1,venezolano,5.755154956298982,72,21
+T02,Conflicto armado: combates,P2-P3,P2,2,puesto,4.075827461635545,55,25
+T02,Conflicto armado: combates,P2-P3,P2,3,residencia,3.8748002650596285,32,9
+T02,Conflicto armado: combates,P2-P3,P2,4,fronterizo,3.8376664282197486,29,7
+T02,Conflicto armado: combates,P2-P3,P2,5,cruz_roja,3.573941185006282,47,23
+T02,Conflicto armado: combates,P2-P3,P2,6,dinamita,3.497475711692332,21,2
+T02,Conflicto armado: combates,P2-P3,P2,7,peruano,3.497475711692332,21,2
+T02,Conflicto armado: combates,P2-P3,P2,8,petardo,3.497475711692332,21,2
+T02,Conflicto armado: combates,P2-P3,P2,9,localidad,3.4936664362571426,51,27
+T02,Conflicto armado: combates,P2-P3,P2,10,actual,3.4898368816410636,23,5
+T02,Conflicto armado: combates,P2-P3,P2,11,subversivo,3.468199440584816,147,117
+T02,Conflicto armado: combates,P2-P3,P2,12,delincuente,3.3439555597832946,36,16
+T02,Conflicto armado: combates,P2-P3,P2,13,base,3.321542916611628,63,39
+T02,Conflicto armado: combates,P2-P3,P2,14,efectivo,3.1543698775390085,33,15
+T02,Conflicto armado: combates,P2-P3,P2,15,alcalde,3.1185403116434878,77,54
+T02,Conflicto armado: combates,P2-P3,P3,1,bloque,-5.283897987579644,8,70
+T02,Conflicto armado: combates,P2-P3,P3,2,autodefensa,-5.199157230301879,39,125
+T02,Conflicto armado: combates,P2-P3,P3,3,estadounidense,-4.239025365901772,4,44
+T02,Conflicto armado: combates,P2-P3,P3,4,policía,-4.213973668856644,80,174
+T02,Conflicto armado: combates,P2-P3,P3,5,explosivo,-4.074943155388053,29,86
+T02,Conflicto armado: combates,P2-P3,P3,6,carro,-3.926836589131831,27,80
+T02,Conflicto armado: combates,P2-P3,P3,7,jefe,-3.834445525972715,55,126
+T02,Conflicto armado: combates,P2-P3,P3,8,captura,-3.6128585460435474,23,68
+T02,Conflicto armado: combates,P2-P3,P3,9,caso,-3.540016142428465,46,106
+T02,Conflicto armado: combates,P2-P3,P3,10,ilegal,-3.523571138403069,7,37
+T02,Conflicto armado: combates,P2-P3,P3,11,concejal,-3.5129880004008602,6,35
+T02,Conflicto armado: combates,P2-P3,P3,12,fuerza_pública,-3.456284338996358,8,38
+T02,Conflicto armado: combates,P2-P3,P3,13,bomba,-3.422786405864944,46,104
+T02,Conflicto armado: combates,P2-P3,P3,14,habitante,-3.390911778466023,39,92
+T02,Conflicto armado: combates,P2-P3,P3,15,campo,-3.379244426511631,8,37
+T03,Tecnología y telecomunicaciones,P2-P3,P2,1,impresora,5.686154591043037,110,25
+T03,Tecnología y telecomunicaciones,P2-P3,P2,2,procesador,5.520499311650705,133,39
+T03,Tecnología y telecomunicaciones,P2-P3,P2,3,computador,5.364065151280288,377,188
+T03,Tecnología y telecomunicaciones,P2-P3,P2,4,máquina,5.083918653232167,88,20
+T03,Tecnología y telecomunicaciones,P2-P3,P2,5,gráfico,4.8696442536921145,82,19
+T03,Tecnología y telecomunicaciones,P2-P3,P2,6,impresión,4.636885247545041,72,16
+T03,Tecnología y telecomunicaciones,P2-P3,P2,7,bit,4.546806734330735,54,7
+T03,Tecnología y telecomunicaciones,P2-P3,P2,8,telefónico,4.316021962701779,183,83
+T03,Tecnología y telecomunicaciones,P2-P3,P2,9,línea,4.107037520845378,293,157
+T03,Tecnología y telecomunicaciones,P2-P3,P2,10,central,3.9531999704508363,72,22
+T03,Tecnología y telecomunicaciones,P2-P3,P2,11,canal,3.9210149397131717,77,25
+T03,Tecnología y telecomunicaciones,P2-P3,P2,12,satélite,3.9050036205882064,60,16
+T03,Tecnología y telecomunicaciones,P2-P3,P2,13,comunicación,3.749934596896473,177,87
+T03,Tecnología y telecomunicaciones,P2-P3,P2,14,técnico,3.740285238319208,97,38
+T03,Tecnología y telecomunicaciones,P2-P3,P2,15,nombre,3.6809027656514597,96,38
+T03,Tecnología y telecomunicaciones,P2-P3,P3,1,virus,-7.292829917392645,7,94
+T03,Tecnología y telecomunicaciones,P2-P3,P3,2,música,-6.652910038771669,10,75
+T03,Tecnología y telecomunicaciones,P2-P3,P3,3,inalámbrico,-6.316741121237855,28,89
+T03,Tecnología y telecomunicaciones,P2-P3,P3,4,computadora,-5.942118523609066,28,83
+T03,Tecnología y telecomunicaciones,P2-P3,P3,5,portátil,-5.868384214355786,22,74
+T03,Tecnología y telecomunicaciones,P2-P3,P3,6,móvil,-5.716080868392482,40,95
+T03,Tecnología y telecomunicaciones,P2-P3,P3,7,seguridad,-5.502644767098283,64,121
+T03,Tecnología y telecomunicaciones,P2-P3,P3,8,fabricante,-5.236847830056409,45,94
+T03,Tecnología y telecomunicaciones,P2-P3,P3,9,reproductor,-4.966097739117232,6,42
+T03,Tecnología y telecomunicaciones,P2-P3,P3,10,digital,-4.805310589391289,89,138
+T03,Tecnología y telecomunicaciones,P2-P3,P3,11,batería,-4.671418036033366,14,47
+T03,Tecnología y telecomunicaciones,P2-P3,P3,12,ancho,-4.576908912669531,21,55
+T03,Tecnología y telecomunicaciones,P2-P3,P3,13,tienda,-4.412725173127939,11,40
+T03,Tecnología y telecomunicaciones,P2-P3,P3,14,portal,-4.238032671719932,5,31
+T03,Tecnología y telecomunicaciones,P2-P3,P3,15,libre,-4.030948843897338,15,41
+T05,Deporte: torneos individuales,P2-P3,P2,1,base,5.82203412969508,117,12
+T05,Deporte: torneos individuales,P2-P3,P2,2,dama,5.536580447257827,130,21
+T05,Deporte: torneos individuales,P2-P3,P2,3,nacional,4.903107593324407,207,60
+T05,Deporte: torneos individuales,P2-P3,P2,4,ligero,4.828999952953886,76,4
+T05,Deporte: torneos individuales,P2-P3,P2,5,asalto,4.719868018015617,84,11
+T05,Deporte: torneos individuales,P2-P3,P2,6,varón,4.694131250961198,81,10
+T05,Deporte: torneos individuales,P2-P3,P2,7,aficionado,4.569584391089935,103,20
+T05,Deporte: torneos individuales,P2-P3,P2,8,bola,4.508588028368018,79,11
+T05,Deporte: torneos individuales,P2-P3,P2,9,hit,4.2768622931824805,63,2
+T05,Deporte: torneos individuales,P2-P3,P2,10,cubano,4.214399876452133,70,10
+T05,Deporte: torneos individuales,P2-P3,P2,11,lanzador,4.128644096619829,61,7
+T05,Deporte: torneos individuales,P2-P3,P2,12,pelea,4.0084253339735145,103,25
+T05,Deporte: torneos individuales,P2-P3,P2,13,representante,3.9885053115137308,58,7
+T05,Deporte: torneos individuales,P2-P3,P2,14,programa,3.836163665840977,49,2
+T05,Deporte: torneos individuales,P2-P3,P2,15,infantil,3.7366255529148704,73,15
+T05,Deporte: torneos individuales,P2-P3,P3,1,carro,-7.086201022458016,34,86
+T05,Deporte: torneos individuales,P2-P3,P3,2,circuito,-5.85309239491009,56,91
+T05,Deporte: torneos individuales,P2-P3,P3,3,mundo,-5.182744427016136,133,148
+T05,Deporte: torneos individuales,P2-P3,P3,4,piloto,-5.155964059151008,68,93
+T05,Deporte: torneos individuales,P2-P3,P3,5,motor,-5.007599636504695,11,37
+T05,Deporte: torneos individuales,P2-P3,P3,6,montaña,-4.825049276431411,35,59
+T05,Deporte: torneos individuales,P2-P3,P3,7,oro,-4.291087096111385,201,186
+T05,Deporte: torneos individuales,P2-P3,P3,8,título,-4.212848916317302,266,232
+T05,Deporte: torneos individuales,P2-P3,P3,9,llanta,-4.1588822641032515,13,31
+T05,Deporte: torneos individuales,P2-P3,P3,10,ronda,-4.111067262195226,133,132
+T05,Deporte: torneos individuales,P2-P3,P3,11,líder,-4.068962753434951,89,97
+T05,Deporte: torneos individuales,P2-P3,P3,12,escudería,-4.038043291777984,6,23
+T05,Deporte: torneos individuales,P2-P3,P3,13,carrera,-4.0115170984220985,407,327
+T05,Deporte: torneos individuales,P2-P3,P3,14,curva,-3.9172750530703317,13,29
+T05,Deporte: torneos individuales,P2-P3,P3,15,casa,-3.9171031425440175,18,34
+T06,Macroeconomía,P2-P3,P2,1,banda,7.71481102391295,137,42
+T06,Macroeconomía,P2-P3,P2,2,cambiario,7.279254942321253,207,103
+T06,Macroeconomía,P2-P3,P2,3,junta,5.8873804640896354,86,29
+T06,Macroeconomía,P2-P3,P2,4,crisis,5.806654990832699,201,124
+T06,Macroeconomía,P2-P3,P2,5,mexicano,5.758150766361698,58,7
+T06,Macroeconomía,P2-P3,P2,6,depósito,5.711477561381332,58,9
+T06,Macroeconomía,P2-P3,P2,7,encaje,5.490746667463104,60,3
+T06,Macroeconomía,P2-P3,P2,8,sistema,5.313730503653221,164,100
+T06,Macroeconomía,P2-P3,P2,9,control,5.143388596195466,84,36
+T06,Macroeconomía,P2-P3,P2,10,venezolano,5.0868086120523905,62,20
+T06,Macroeconomía,P2-P3,P2,11,dinero,4.862985896664687,112,62
+T06,Macroeconomía,P2-P3,P2,12,devaluación,4.851405714520315,180,122
+T06,Macroeconomía,P2-P3,P2,13,brasileño,4.718180761814022,39,5
+T06,Macroeconomía,P2-P3,P2,14,emergencia,4.549774908953182,38,7
+T06,Macroeconomía,P2-P3,P2,15,ahorro,4.422314970363718,79,40
+T06,Macroeconomía,P2-P3,P3,1,euro,-8.638997527704877,15,180
+T06,Macroeconomía,P2-P3,P3,2,estadounidense,-5.721507187896429,53,158
+T06,Macroeconomía,P2-P3,P3,3,estados_unidos,-5.5725686648881,88,214
+T06,Macroeconomía,P2-P3,P3,4,barril,-5.508159370517628,30,112
+T06,Macroeconomía,P2-P3,P3,5,índice,-5.342588951277785,59,160
+T06,Macroeconomía,P2-P3,P3,6,mundial,-5.105410325825544,48,136
+T06,Macroeconomía,P2-P3,P3,7,habitante,-4.789496162637119,7,57
+T06,Macroeconomía,P2-P3,P3,8,riesgo,-4.719525048141235,75,173
+T06,Macroeconomía,P2-P3,P3,9,hogar,-4.365628656247025,7,49
+T06,Macroeconomía,P2-P3,P3,10,recuperación,-4.343074327419269,82,176
+T06,Macroeconomía,P2-P3,P3,11,consumidor,-4.308067701217578,43,112
+T06,Macroeconomía,P2-P3,P3,12,encuesta,-4.280029630671353,26,82
+T06,Macroeconomía,P2-P3,P3,13,variación,-4.13962424754158,29,85
+T06,Macroeconomía,P2-P3,P3,14,subasta,-4.085058217170904,8,46
+T06,Macroeconomía,P2-P3,P3,15,referencia,-3.998565764135901,12,52
+T07,Familia salud y vida cotidiana,P2-P3,P2,1,familia,5.621296680747334,659,486
+T07,Familia salud y vida cotidiana,P2-P3,P2,2,padre,5.398114788747965,768,590
+T07,Familia salud y vida cotidiana,P2-P3,P2,3,madre,5.149632739582531,424,296
+T07,Familia salud y vida cotidiana,P2-P3,P2,4,niño,4.908859392837321,1128,938
+T07,Familia salud y vida cotidiana,P2-P3,P2,5,desconocido,4.87835974887121,51,9
+T07,Familia salud y vida cotidiana,P2-P3,P2,6,hogar,4.86213808253619,177,99
+T07,Familia salud y vida cotidiana,P2-P3,P2,7,sicóloga,4.335803172573654,52,15
+T07,Familia salud y vida cotidiana,P2-P3,P2,8,ataque,4.287381476150477,65,24
+T07,Familia salud y vida cotidiana,P2-P3,P2,9,cerebral,4.212421167715699,58,20
+T07,Familia salud y vida cotidiana,P2-P3,P2,10,princesa,4.11191980996695,34,4
+T07,Familia salud y vida cotidiana,P2-P3,P2,11,divorcio,3.91457595378294,31,4
+T07,Familia salud y vida cotidiana,P2-P3,P2,12,barrio,3.8420528792660815,240,168
+T07,Familia salud y vida cotidiana,P2-P3,P2,13,abdominal,3.7479164780613905,37,10
+T07,Familia salud y vida cotidiana,P2-P3,P2,14,individuo,3.559905618537743,41,14
+T07,Familia salud y vida cotidiana,P2-P3,P2,15,fiebre,3.540622127222309,68,33
+T07,Familia salud y vida cotidiana,P2-P3,P3,1,cáncer,-8.58077235022548,48,197
+T07,Familia salud y vida cotidiana,P2-P3,P3,2,psiquiatra,-4.986081095264461,10,57
+T07,Familia salud y vida cotidiana,P2-P3,P3,3,medicamento,-4.84645600183117,52,120
+T07,Familia salud y vida cotidiana,P2-P3,P3,4,trastorno,-4.7725289605002805,33,90
+T07,Familia salud y vida cotidiana,P2-P3,P3,5,vacuna,-4.755589517496056,15,61
+T07,Familia salud y vida cotidiana,P2-P3,P3,6,huevo,-4.266738386600216,29,76
+T07,Familia salud y vida cotidiana,P2-P3,P3,7,chino,-4.119369312667189,4,36
+T07,Familia salud y vida cotidiana,P2-P3,P3,8,carne,-4.06877743599892,25,67
+T07,Familia salud y vida cotidiana,P2-P3,P3,9,tienda,-3.968146643900179,12,45
+T07,Familia salud y vida cotidiana,P2-P3,P3,10,pan,-3.9490935654470456,19,56
+T07,Familia salud y vida cotidiana,P2-P3,P3,11,fármaco,-3.9397979098729254,5,34
+T07,Familia salud y vida cotidiana,P2-P3,P3,12,senador,-3.930920774096587,2,35
+T07,Familia salud y vida cotidiana,P2-P3,P3,13,ley,-3.9231873503607266,25,65
+T07,Familia salud y vida cotidiana,P2-P3,P3,14,jugo,-3.868219152811462,4,32
+T07,Familia salud y vida cotidiana,P2-P3,P3,15,telenovela,-3.8452247957479413,8,37
+T08,Relaciones internacionales,P2-P3,P2,1,oficial,4.849608979667643,81,41
+T08,Relaciones internacionales,P2-P3,P2,2,cubano,4.532863111956801,53,21
+T08,Relaciones internacionales,P2-P3,P2,3,droga,4.302016779468388,39,12
+T08,Relaciones internacionales,P2-P3,P2,4,ley,4.1624918856810895,30,6
+T08,Relaciones internacionales,P2-P3,P2,5,isla,3.989503681339869,27,5
+T08,Relaciones internacionales,P2-P3,P2,6,sanción,3.958450703465022,25,3
+T08,Relaciones internacionales,P2-P3,P2,7,política,3.774115325103166,63,37
+T08,Relaciones internacionales,P2-P3,P2,8,aéreo,3.4986247907761463,31,12
+T08,Relaciones internacionales,P2-P3,P2,9,ruso,3.2247969628889694,21,6
+T08,Relaciones internacionales,P2-P3,P2,10,antidroga,3.0646099754061744,21,7
+T08,Relaciones internacionales,P2-P3,P2,11,fuerza,3.0646099754061744,21,7
+T08,Relaciones internacionales,P2-P3,P2,12,certificación,3.0422548988096714,17,4
+T08,Relaciones internacionales,P2-P3,P2,13,incidente,2.9125931696997958,16,4
+T08,Relaciones internacionales,P2-P3,P2,14,narcotráfico,2.803284361892111,42,27
+T08,Relaciones internacionales,P2-P3,P2,15,árabe,2.656802062419349,18,7
+T08,Relaciones internacionales,P2-P3,P3,1,negociación,-4.1745109149529895,53,138
+T08,Relaciones internacionales,P2-P3,P3,2,negociador,-3.8464815758718855,2,37
+T08,Relaciones internacionales,P2-P3,P3,3,terrorismo,-3.789291611514535,4,38
+T08,Relaciones internacionales,P2-P3,P3,4,andino,-3.6572750193852728,16,60
+T08,Relaciones internacionales,P2-P3,P3,5,tema,-3.5637587968751356,41,105
+T08,Relaciones internacionales,P2-P3,P3,6,brasileño,-3.377246853269987,1,29
+T08,Relaciones internacionales,P2-P3,P3,7,mesa,-3.3310093655780273,4,31
+T08,Relaciones internacionales,P2-P3,P3,8,ronda,-3.134410495738063,2,25
+T08,Relaciones internacionales,P2-P3,P3,9,cumbre,-2.905738847097412,19,55
+T08,Relaciones internacionales,P2-P3,P3,10,colombiano,-2.7923077061220845,82,158
+T08,Relaciones internacionales,P2-P3,P3,11,mercado,-2.762521131489944,7,30
+T08,Relaciones internacionales,P2-P3,P3,12,arancel,-2.6769348540955558,6,27
+T08,Relaciones internacionales,P2-P3,P3,13,comercio,-2.663193515095601,27,66
+T08,Relaciones internacionales,P2-P3,P3,14,diplomacia,-2.599470347175763,3,20
+T08,Relaciones internacionales,P2-P3,P3,15,grupo,-2.5383091710447454,20,52
+T09,Justicia y procesos judiciales,P2-P3,P2,1,investigación,6.381552229926708,443,178
+T09,Justicia y procesos judiciales,P2-P3,P2,2,enriquecimiento,6.038576125850348,122,20
+T09,Justicia y procesos judiciales,P2-P3,P2,3,campaña,5.860008150372756,107,15
+T09,Justicia y procesos judiciales,P2-P3,P2,4,ilícito,5.004634424674386,158,49
+T09,Justicia y procesos judiciales,P2-P3,P2,5,relación,4.618351025917676,70,11
+T09,Justicia y procesos judiciales,P2-P3,P2,6,rostro,4.541707571176967,59,6
+T09,Justicia y procesos judiciales,P2-P3,P2,7,regional,4.37372141446823,61,9
+T09,Justicia y procesos judiciales,P2-P3,P2,8,carta,4.317127726213645,62,10
+T09,Justicia y procesos judiciales,P2-P3,P2,9,comisión,4.090248915838308,60,11
+T09,Justicia y procesos judiciales,P2-P3,P2,10,representante,4.082907408018654,100,30
+T09,Justicia y procesos judiciales,P2-P3,P2,11,cuenta,3.945672594125556,64,14
+T09,Justicia y procesos judiciales,P2-P3,P2,12,parlamentario,3.8668457827210734,54,10
+T09,Justicia y procesos judiciales,P2-P3,P2,13,providencia,3.856747144680716,56,11
+T09,Justicia y procesos judiciales,P2-P3,P2,14,congresista,3.6634470101480274,106,37
+T09,Justicia y procesos judiciales,P2-P3,P2,15,magistrado,3.547761796542513,172,74
+T09,Justicia y procesos judiciales,P2-P3,P3,1,extradición,-5.200589668786632,47,86
+T09,Justicia y procesos judiciales,P2-P3,P3,2,especializado,-4.951346266605099,7,38
+T09,Justicia y procesos judiciales,P2-P3,P3,3,sistema,-4.83906468415578,19,50
+T09,Justicia y procesos judiciales,P2-P3,P3,4,guerrillero,-4.588702421342169,5,32
+T09,Justicia y procesos judiciales,P2-P3,P3,5,militar,-4.53937981321646,21,49
+T09,Justicia y procesos judiciales,P2-P3,P3,6,paramilitar,-4.268628365782556,14,38
+T09,Justicia y procesos judiciales,P2-P3,P3,7,secuestro,-4.218059947858727,24,49
+T09,Justicia y procesos judiciales,P2-P3,P3,8,inhabilidad,-4.085317772368189,6,27
+T09,Justicia y procesos judiciales,P2-P3,P3,9,tribunal,-3.8414423024230073,58,80
+T09,Justicia y procesos judiciales,P2-P3,P3,10,armado,-3.816131064035018,3,22
+T09,Justicia y procesos judiciales,P2-P3,P3,11,colombiano,-3.7917323377353798,68,89
+T09,Justicia y procesos judiciales,P2-P3,P3,12,venta,-3.769815950410243,4,22
+T09,Justicia y procesos judiciales,P2-P3,P3,13,informe,-3.7493425727532887,21,41
+T09,Justicia y procesos judiciales,P2-P3,P3,14,juez,-3.5967996455296847,222,221
+T09,Justicia y procesos judiciales,P2-P3,P3,15,médico,-3.5637613428959685,5,21
+T11,Cultura y espectáculos,P2-P3,P2,1,orquesta,5.864333435520198,195,87
+T11,Cultura y espectáculos,P2-P3,P2,2,evento,5.595188976775807,339,195
+T11,Cultura y espectáculos,P2-P3,P2,3,noche,5.2158889810777875,488,319
+T11,Cultura y espectáculos,P2-P3,P2,4,candidata,5.195634613820479,102,35
+T11,Cultura y espectáculos,P2-P3,P2,5,nivel,5.175264171655022,108,39
+T11,Cultura y espectáculos,P2-P3,P2,6,grupo,4.797412518649337,645,458
+T11,Cultura y espectáculos,P2-P3,P2,7,reina,4.773190815507792,187,98
+T11,Cultura y espectáculos,P2-P3,P2,8,programación,4.324637462518003,113,52
+T11,Cultura y espectáculos,P2-P3,P2,9,tema,4.079544334924257,414,288
+T11,Cultura y espectáculos,P2-P3,P2,10,dirección,4.050142947906204,117,58
+T11,Cultura y espectáculos,P2-P3,P2,11,participación,4.041379337518344,114,56
+T11,Cultura y espectáculos,P2-P3,P2,12,época,3.979858063492207,192,114
+T11,Cultura y espectáculos,P2-P3,P2,13,composición,3.9277405298045855,86,38
+T11,Cultura y espectáculos,P2-P3,P2,14,conjunto,3.8613855099485197,73,30
+T11,Cultura y espectáculos,P2-P3,P2,15,actividad,3.8578525081874258,171,100
+T11,Cultura y espectáculos,P2-P3,P3,1,artista,-7.504793879571976,527,765
+T11,Cultura y espectáculos,P2-P3,P3,2,arte,-5.139498893117927,346,473
+T11,Cultura y espectáculos,P2-P3,P3,3,peso,-5.073910856839977,216,321
+T11,Cultura y espectáculos,P2-P3,P3,4,boleta,-5.052489350412955,49,111
+T11,Cultura y espectáculos,P2-P3,P3,5,pieza,-4.718264188843547,103,176
+T11,Cultura y espectáculos,P2-P3,P3,6,miedo,-4.6613302095454845,16,57
+T11,Cultura y espectáculos,P2-P3,P3,7,himno,-4.624337405627892,23,67
+T11,Cultura y espectáculos,P2-P3,P3,8,canal,-4.522250800567315,48,101
+T11,Cultura y espectáculos,P2-P3,P3,9,vallenato,-4.380158237499169,93,157
+T11,Cultura y espectáculos,P2-P3,P3,10,bar,-4.33983090326791,25,66
+T11,Cultura y espectáculos,P2-P3,P3,11,galería,-4.123564822847592,37,80
+T11,Cultura y espectáculos,P2-P3,P3,12,protagonista,-4.061811336148328,88,145
+T11,Cultura y espectáculos,P2-P3,P3,13,oreja,-4.037394893322241,5,33
+T11,Cultura y espectáculos,P2-P3,P3,14,premio,-3.9940092026475074,225,304
+T11,Cultura y espectáculos,P2-P3,P3,15,flamenco,-3.9521978958576205,6,33
+T12,Movilidad urbana,P2-P3,P2,1,carrera,9.812879883578727,541,169
+T12,Movilidad urbana,P2-P3,P2,2,calle,5.848646579240192,700,355
+T12,Movilidad urbana,P2-P3,P2,3,tel,4.441545010669623,79,0
+T12,Movilidad urbana,P2-P3,P2,4,agente,3.8177874201966207,84,26
+T12,Movilidad urbana,P2-P3,P2,5,problema,3.5911608236524963,112,43
+T12,Movilidad urbana,P2-P3,P2,6,tarifa,3.523531130593448,49,11
+T12,Movilidad urbana,P2-P3,P2,7,nombre,3.1674483760384,44,11
+T12,Movilidad urbana,P2-P3,P2,8,retorno,3.0554894816073848,28,4
+T12,Movilidad urbana,P2-P3,P2,9,placa,3.052347820334059,118,52
+T12,Movilidad urbana,P2-P3,P2,10,calcomanía,2.849913836912093,22,1
+T12,Movilidad urbana,P2-P3,P2,11,sector,2.840565284347706,164,82
+T12,Movilidad urbana,P2-P3,P2,12,azul,2.8018586713154066,29,6
+T12,Movilidad urbana,P2-P3,P2,13,parqueo,2.6999294590728478,32,8
+T12,Movilidad urbana,P2-P3,P2,14,ubicado,2.6166774787033273,43,14
+T12,Movilidad urbana,P2-P3,P2,15,barrio,2.5929574366699684,98,45
+T12,Movilidad urbana,P2-P3,P3,1,sistema,-4.956466977358525,39,77
+T12,Movilidad urbana,P2-P3,P3,2,troncal,-4.935626450974506,14,47
+T12,Movilidad urbana,P2-P3,P3,3,comparendo,-4.524186238225492,7,34
+T12,Movilidad urbana,P2-P3,P3,4,velocidad,-4.483091812758595,31,62
+T12,Movilidad urbana,P2-P3,P3,5,taxista,-4.456420350032741,21,50
+T12,Movilidad urbana,P2-P3,P3,6,ciclista,-4.3735280921917905,3,30
+T12,Movilidad urbana,P2-P3,P3,7,luz,-3.9223793364793567,19,42
+T12,Movilidad urbana,P2-P3,P3,8,seguridad,-3.791238467705028,41,65
+T12,Movilidad urbana,P2-P3,P3,9,particular,-3.7823272103320758,43,67
+T12,Movilidad urbana,P2-P3,P3,10,tramo,-3.7586954062280844,23,45
+T12,Movilidad urbana,P2-P3,P3,11,taxi,-3.5951964965345926,48,70
+T12,Movilidad urbana,P2-P3,P3,12,peatón,-3.5177661167026395,43,64
+T12,Movilidad urbana,P2-P3,P3,13,infracción,-3.4655539985799684,10,27
+T12,Movilidad urbana,P2-P3,P3,14,jornada,-3.4400461708742123,11,28
+T12,Movilidad urbana,P2-P3,P3,15,masivo,-3.427440317900947,7,23
+T13,Elecciones y partidos,P2-P3,P2,1,liberal,5.170155905306773,175,119
+T13,Elecciones y partidos,P2-P3,P2,2,convención,3.648188262844867,23,4
+T13,Elecciones y partidos,P2-P3,P2,3,representante,3.5130014546708757,77,51
+T13,Elecciones y partidos,P2-P3,P2,4,municipio,3.4437324322816947,62,38
+T13,Elecciones y partidos,P2-P3,P2,5,fecha,3.2811080843412177,22,6
+T13,Elecciones y partidos,P2-P3,P2,6,comicio,3.259505165839538,43,23
+T13,Elecciones y partidos,P2-P3,P2,7,cambio,3.231846714254322,38,19
+T13,Elecciones y partidos,P2-P3,P2,8,elección,3.2008825512135806,282,272
+T13,Elecciones y partidos,P2-P3,P2,9,victoria,3.1241372644726084,22,7
+T13,Elecciones y partidos,P2-P3,P2,10,conservador,2.9351435276861215,104,85
+T13,Elecciones y partidos,P2-P3,P2,11,independiente,2.8522447910504756,48,31
+T13,Elecciones y partidos,P2-P3,P2,12,derrota,2.8299512737699986,21,8
+T13,Elecciones y partidos,P2-P3,P2,13,irregularidad,2.8193384318954555,17,5
+T13,Elecciones y partidos,P2-P3,P2,14,terna,2.7584344571948676,23,10
+T13,Elecciones y partidos,P2-P3,P2,15,fórmula,2.7260938942144444,30,16
+T13,Elecciones y partidos,P2-P3,P3,1,lista,-6.051320302987145,29,129
+T13,Elecciones y partidos,P2-P3,P3,2,reelección,-4.467109635388634,14,67
+T13,Elecciones y partidos,P2-P3,P3,3,voto,-3.5347211362457966,209,359
+T13,Elecciones y partidos,P2-P3,P3,4,preferente,-3.4666677641408374,0,38
+T13,Elecciones y partidos,P2-P3,P3,5,derecha,-3.2669060365024056,5,31
+T13,Elecciones y partidos,P2-P3,P3,6,ejemplo,-2.948541201799979,9,35
+T13,Elecciones y partidos,P2-P3,P3,7,francés,-2.91326020932719,1,21
+T13,Elecciones y partidos,P2-P3,P3,8,uribista,-2.8665873880510646,0,26
+T13,Elecciones y partidos,P2-P3,P3,9,partido,-2.8415967553576738,160,269
+T13,Elecciones y partidos,P2-P3,P3,10,umbral,-2.777172383040146,1,19
+T13,Elecciones y partidos,P2-P3,P3,11,inscrito,-2.7266379864638766,2,19
+T13,Elecciones y partidos,P2-P3,P3,12,fondo,-2.6706577013807546,6,26
+T13,Elecciones y partidos,P2-P3,P3,13,caso,-2.5330017114701713,30,67
+T13,Elecciones y partidos,P2-P3,P3,14,proceso,-2.4550801310623704,27,61
+T13,Elecciones y partidos,P2-P3,P3,15,reforma,-2.2822889721480317,29,62
+T14,Sistema financiero,P2-P3,P2,1,corporación,6.81022881342566,113,29
+T14,Sistema financiero,P2-P3,P2,2,cooperativa,5.769583735046421,83,22
+T14,Sistema financiero,P2-P3,P2,3,ahorrador,4.851465876115556,52,11
+T14,Sistema financiero,P2-P3,P2,4,liquidez,4.075668789567446,52,18
+T14,Sistema financiero,P2-P3,P2,5,compañía,3.948076111074121,85,43
+T14,Sistema financiero,P2-P3,P2,6,gerente,3.893051933218164,64,28
+T14,Sistema financiero,P2-P3,P2,7,depósito,3.893051933218164,64,28
+T14,Sistema financiero,P2-P3,P2,8,upac,3.7015245800629413,48,0
+T14,Sistema financiero,P2-P3,P2,9,corrección,3.6616428677355413,26,2
+T14,Sistema financiero,P2-P3,P2,10,oficina,3.6034706489475123,59,27
+T14,Sistema financiero,P2-P3,P2,11,cooperativo,3.5972090097191467,52,22
+T14,Sistema financiero,P2-P3,P2,12,nominal,3.5173064777880345,24,3
+T14,Sistema financiero,P2-P3,P2,13,situación,3.4521596419886316,92,54
+T14,Sistema financiero,P2-P3,P2,14,dinero,3.43469188271021,128,84
+T14,Sistema financiero,P2-P3,P2,15,concordato,3.4249329170350626,25,1
+T14,Sistema financiero,P2-P3,P3,1,billón,-7.04718606508788,77,211
+T14,Sistema financiero,P2-P3,P3,2,hipotecario,-5.689897827258431,49,136
+T14,Sistema financiero,P2-P3,P3,3,crédito,-4.361368194636564,358,514
+T14,Sistema financiero,P2-P3,P3,4,meta,-4.272526151058012,9,46
+T14,Sistema financiero,P2-P3,P3,5,ingreso,-4.214352894085784,34,86
+T14,Sistema financiero,P2-P3,P3,6,recaudo,-4.053165178129661,18,58
+T14,Sistema financiero,P2-P3,P3,7,información,-3.8799316726984987,14,49
+T14,Sistema financiero,P2-P3,P3,8,monto,-3.851106758000624,35,82
+T14,Sistema financiero,P2-P3,P3,9,cliente,-3.496870332056262,51,100
+T14,Sistema financiero,P2-P3,P3,10,negocio,-3.3227595274098136,26,61
+T14,Sistema financiero,P2-P3,P3,11,tributario,-3.311599737794968,5,27
+T14,Sistema financiero,P2-P3,P3,12,devolución,-3.269545861293587,2,23
+T14,Sistema financiero,P2-P3,P3,13,renta,-3.2034781077319137,16,44
+T14,Sistema financiero,P2-P3,P3,14,caja,-3.1569558140513125,12,37
+T14,Sistema financiero,P2-P3,P3,15,superior,-3.1401944355012366,19,48
+T15,Fútbol,P2-P3,P2,1,hombre,5.8269492513675285,168,50
+T15,Fútbol,P2-P3,P2,2,compromiso,5.759502883707141,103,18
+T15,Fútbol,P2-P3,P2,3,conjunto,5.402248213776571,113,27
+T15,Fútbol,P2-P3,P2,4,serie,5.073331558801808,90,19
+T15,Fútbol,P2-P3,P2,5,cuadro,4.822684152711692,81,17
+T15,Fútbol,P2-P3,P2,6,periodista,4.6120112724018645,75,16
+T15,Fútbol,P2-P3,P2,7,barranquillero,4.216496345345505,54,9
+T15,Fútbol,P2-P3,P2,8,falta,4.111655154343102,132,51
+T15,Fútbol,P2-P3,P2,9,acción,4.039911750885599,73,20
+T15,Fútbol,P2-P3,P2,10,aficionado,3.997978047569242,99,34
+T15,Fútbol,P2-P3,P2,11,terreno,3.974767735361887,62,15
+T15,Fútbol,P2-P3,P2,12,complemento,3.8963310535591202,43,6
+T15,Fútbol,P2-P3,P2,13,marcador,3.8951453259153634,133,54
+T15,Fútbol,P2-P3,P2,14,oportunidad,3.84769200444674,118,46
+T15,Fútbol,P2-P3,P2,15,seguidor,3.8357657241343897,39,4
+T15,Fútbol,P2-P3,P3,1,partido,-8.561796549279109,988,1088
+T15,Fútbol,P2-P3,P3,2,cambio,-7.685093355585669,160,264
+T15,Fútbol,P2-P3,P3,3,eliminatoria,-7.626919498056582,80,172
+T15,Fútbol,P2-P3,P3,4,espectador,-7.130406567488623,49,125
+T15,Fútbol,P2-P3,P3,5,gol,-6.046315883741741,794,815
+T15,Fútbol,P2-P3,P3,6,arbitro,-6.013373203321015,48,105
+T15,Fútbol,P2-P3,P3,7,asistencia,-5.9369516242405975,44,99
+T15,Fútbol,P2-P3,P3,8,expulsado,-5.336073173322792,56,104
+T15,Fútbol,P2-P3,P3,9,italiano,-4.717133582873339,20,53
+T15,Fútbol,P2-P3,P3,10,fecha,-4.614594614544654,144,184
+T15,Fútbol,P2-P3,P3,11,equipo,-4.567899109961926,1130,1044
+T15,Fútbol,P2-P3,P3,12,mitad,-4.551397445650523,41,76
+T15,Fútbol,P2-P3,P3,13,aprox,-4.257438940291496,2,32
+T15,Fútbol,P2-P3,P3,14,liga,-3.8619347526249483,28,53
+T15,Fútbol,P2-P3,P3,15,debut,-3.741066717385832,18,40
+T16,Legislación y reformas,P2-P3,P2,1,extradición,6.789261472245702,79,5
+T16,Legislación y reformas,P2-P3,P2,2,artículo,5.818233971206761,154,90
+T16,Legislación y reformas,P2-P3,P2,3,municipio,5.2258881550327585,51,12
+T16,Legislación y reformas,P2-P3,P2,4,concejal,4.811480299573543,52,17
+T16,Legislación y reformas,P2-P3,P2,5,ley,4.745222055922421,241,194
+T16,Legislación y reformas,P2-P3,P2,6,pena,4.475233884044072,41,1
+T16,Legislación y reformas,P2-P3,P2,7,bien,3.9574033908891892,41,16
+T16,Legislación y reformas,P2-P3,P2,8,acción,3.9358737230472465,28,6
+T16,Legislación y reformas,P2-P3,P2,9,norma,3.8363840849194943,89,59
+T16,Legislación y reformas,P2-P3,P2,10,extinción,3.7827801894700506,27,1
+T16,Legislación y reformas,P2-P3,P2,11,tratado,3.7607612679489266,24,4
+T16,Legislación y reformas,P2-P3,P2,12,delito,3.7254928244542973,26,1
+T16,Legislación y reformas,P2-P3,P2,13,constitucional,3.7094138384862334,53,28
+T16,Legislación y reformas,P2-P3,P2,14,justicia,3.6678554176403213,33,12
+T16,Legislación y reformas,P2-P3,P2,15,declaración,3.6383491873514173,34,13
+T16,Legislación y reformas,P2-P3,P3,1,pensión,-6.9399020731713374,25,144
+T16,Legislación y reformas,P2-P3,P3,2,billón,-5.468914593953268,33,124
+T16,Legislación y reformas,P2-P3,P3,3,referendo,-5.2828435821822355,6,70
+T16,Legislación y reformas,P2-P3,P3,4,reforma,-5.248940055408494,201,402
+T16,Legislación y reformas,P2-P3,P3,5,edad,-4.245847260097044,3,45
+T16,Legislación y reformas,P2-P3,P3,6,pensional,-4.105573214826043,15,63
+T16,Legislación y reformas,P2-P3,P3,7,mínimo,-4.008226373879363,22,75
+T16,Legislación y reformas,P2-P3,P3,8,trabajo,-3.570457679179806,11,47
+T16,Legislación y reformas,P2-P3,P3,9,mesada,-3.5092714276244186,1,33
+T16,Legislación y reformas,P2-P3,P3,10,mujer,-3.5092714276244186,1,33
+T16,Legislación y reformas,P2-P3,P3,11,reelección,-3.4651915571205465,2,30
+T16,Legislación y reformas,P2-P3,P3,12,ministro,-3.4388591232309547,91,181
+T16,Legislación y reformas,P2-P3,P3,13,costo,-3.4316890519949,13,49
+T16,Legislación y reformas,P2-P3,P3,14,finanza,-3.4218940377652105,8,39
+T16,Legislación y reformas,P2-P3,P3,15,jubilación,-3.4073632645659573,2,29
+T17,Agua tierra e infraestructura,P2-P3,P2,1,acueducto,5.431724582668085,162,45
+T17,Agua tierra e infraestructura,P2-P3,P2,2,agua,4.748841604226879,1082,593
+T17,Agua tierra e infraestructura,P2-P3,P2,3,situación,4.728443402102083,189,67
+T17,Agua tierra e infraestructura,P2-P3,P2,4,nivel,4.149499986175875,177,68
+T17,Agua tierra e infraestructura,P2-P3,P2,5,familia,4.1470233061209125,254,110
+T17,Agua tierra e infraestructura,P2-P3,P2,6,embalse,3.8688845787233195,93,28
+T17,Agua tierra e infraestructura,P2-P3,P2,7,sequía,3.842925086816481,52,9
+T17,Agua tierra e infraestructura,P2-P3,P2,8,alcalde,3.84262253300815,155,60
+T17,Agua tierra e infraestructura,P2-P3,P2,9,túnel,3.776294835554596,81,23
+T17,Agua tierra e infraestructura,P2-P3,P2,10,fenómeno,3.754140434251442,97,31
+T17,Agua tierra e infraestructura,P2-P3,P2,11,incendio,3.702794205101159,90,28
+T17,Agua tierra e infraestructura,P2-P3,P2,12,vivienda,3.657270206914858,281,133
+T17,Agua tierra e infraestructura,P2-P3,P2,13,lodo,3.530063394162718,60,15
+T17,Agua tierra e infraestructura,P2-P3,P2,14,emergencia,3.3926943107957244,169,73
+T17,Agua tierra e infraestructura,P2-P3,P2,15,ahorro,3.3905383376615843,33,2
+T17,Agua tierra e infraestructura,P2-P3,P3,1,palma,-5.762809299887126,15,56
+T17,Agua tierra e infraestructura,P2-P3,P3,2,gas,-5.490381702308155,54,96
+T17,Agua tierra e infraestructura,P2-P3,P3,3,tonelada,-4.981910572188535,91,126
+T17,Agua tierra e infraestructura,P2-P3,P3,4,humedal,-4.942382425488145,17,48
+T17,Agua tierra e infraestructura,P2-P3,P3,5,caucho,-4.935528804400157,9,39
+T17,Agua tierra e infraestructura,P2-P3,P3,6,finca,-4.825725407074807,53,86
+T17,Agua tierra e infraestructura,P2-P3,P3,7,cultivo,-4.552620653901251,181,201
+T17,Agua tierra e infraestructura,P2-P3,P3,8,cóndor,-4.375868668681335,2,32
+T17,Agua tierra e infraestructura,P2-P3,P3,9,producción,-4.217253899376241,112,134
+T17,Agua tierra e infraestructura,P2-P3,P3,10,grupo,-4.201648664019228,39,64
+T17,Agua tierra e infraestructura,P2-P3,P3,11,caimán,-4.155457247671597,3,26
+T17,Agua tierra e infraestructura,P2-P3,P3,12,guadua,-4.029036859485745,6,26
+T17,Agua tierra e infraestructura,P2-P3,P3,13,extremo,-3.926892382550693,6,25
+T17,Agua tierra e infraestructura,P2-P3,P3,14,kilo,-3.9082665550742317,8,27
+T17,Agua tierra e infraestructura,P2-P3,P3,15,páramo,-3.86638579141991,29,50
+TODOS,sin condicionar,P3-P4,P3,1,mercado,35.65397604441159,4329,2691
+TODOS,sin condicionar,P3-P4,P3,2,empresa,29.399209709273634,5926,5031
+TODOS,sin condicionar,P3-P4,P3,3,tasa,26.982342607987288,1820,905
+TODOS,sin condicionar,P3-P4,P3,4,producto,24.200119069726068,2931,2209
+TODOS,sin condicionar,P3-P4,P3,5,compañía,23.49761435472961,2314,1608
+TODOS,sin condicionar,P3-P4,P3,6,negociación,21.05824981708865,1321,752
+TODOS,sin condicionar,P3-P4,P3,7,exportación,20.45609784511179,913,398
+TODOS,sin condicionar,P3-P4,P3,8,económico,20.171256299439076,3098,2717
+TODOS,sin condicionar,P3-P4,P3,9,precio,19.68175239184281,2528,2108
+TODOS,sin condicionar,P3-P4,P3,10,crecimiento,19.496643511036993,1752,1273
+TODOS,sin condicionar,P3-P4,P3,11,crédito,19.109417747019915,1445,975
+TODOS,sin condicionar,P3-P4,P3,12,interés,18.56756344832688,2258,1885
+TODOS,sin condicionar,P3-P4,P3,13,financiero,17.780720103179195,1840,1472
+TODOS,sin condicionar,P3-P4,P3,14,tributario,17.70171437956896,731,341
+TODOS,sin condicionar,P3-P4,P3,15,paz,17.32181191263509,1879,1544
+TODOS,sin condicionar,P3-P4,P4,1,víctima,-20.475008769228975,775,2660
+TODOS,sin condicionar,P3-P4,P4,2,alia,-18.250109809776486,108,1019
+TODOS,sin condicionar,P3-P4,P4,3,calle,-16.56096023766704,1671,4026
+TODOS,sin condicionar,P3-P4,P4,4,mujer,-15.820591412807834,2073,4682
+TODOS,sin condicionar,P3-P4,P4,5,partido,-15.683403638548441,2376,5212
+TODOS,sin condicionar,P3-P4,P4,6,entrada,-15.346172602072656,609,1856
+TODOS,sin condicionar,P3-P4,P4,7,corte_suprema,-14.719321925588856,204,946
+TODOS,sin condicionar,P3-P4,P4,8,magistrado,-14.330379693244955,315,1165
+TODOS,sin condicionar,P3-P4,P4,9,carrera,-13.98861363939757,1592,3609
+TODOS,sin condicionar,P3-P4,P4,10,accidente,-12.820832287710523,415,1275
+TODOS,sin condicionar,P3-P4,P4,11,torneo,-12.792911707032808,668,1777
+TODOS,sin condicionar,P3-P4,P4,12,jugador,-12.37954882570386,844,2082
+TODOS,sin condicionar,P3-P4,P4,13,banda,-12.367034704392056,560,1535
+TODOS,sin condicionar,P3-P4,P4,14,homicidio,-12.097054350918384,321,1035
+TODOS,sin condicionar,P3-P4,P4,15,ciudad,-12.073912202000617,3955,7462
+T00,Educación,P3-P4,P3,1,padre,7.001256797030272,109,62
+T00,Educación,P3-P4,P3,2,educación,6.698197391284692,411,456
+T00,Educación,P3-P4,P3,3,punto,5.996160729411356,71,36
+T00,Educación,P3-P4,P3,4,escuela,4.999332516516678,111,96
+T00,Educación,P3-P4,P3,5,pregunta,4.9388853724574995,37,13
+T00,Educación,P3-P4,P3,6,examen,4.918837031873485,75,54
+T00,Educación,P3-P4,P3,7,educativo,4.583302773348963,257,304
+T00,Educación,P3-P4,P3,8,calidad,4.566954025731277,154,160
+T00,Educación,P3-P4,P3,9,prueba,4.173811664138508,91,84
+T00,Educación,P3-P4,P3,10,tarea,4.157436783030423,27,10
+T00,Educación,P3-P4,P3,11,colegio,4.098197626409361,274,343
+T00,Educación,P3-P4,P3,12,distancia,4.043848946098416,31,15
+T00,Educación,P3-P4,P3,13,privado,4.022078374810418,79,71
+T00,Educación,P3-P4,P3,14,falta,3.9712471560908065,47,33
+T00,Educación,P3-P4,P3,15,deporte,3.835240043459464,19,4
+T00,Educación,P3-P4,P4,1,inscripción,-7.539993781519156,19,201
+T00,Educación,P3-P4,P4,2,informe,-7.374621240272962,19,194
+T00,Educación,P3-P4,P4,3,abierto,-6.447651867519377,8,140
+T00,Educación,P3-P4,P4,4,teléfono,-6.002013912039183,5,124
+T00,Educación,P3-P4,P4,5,ext,-5.623421199095636,2,128
+T00,Educación,P3-P4,P4,6,social,-5.179175789349616,55,211
+T00,Educación,P3-P4,P4,7,correo,-5.108190790910592,5,88
+T00,Educación,P3-P4,P4,8,interesado,-4.6513589668594655,10,83
+T00,Educación,P3-P4,P4,9,electrónico,-4.593160407822838,16,97
+T00,Educación,P3-P4,P4,10,sede,-4.525828456710506,29,129
+T00,Educación,P3-P4,P4,11,cabo,-4.21081223681194,14,83
+T00,Educación,P3-P4,P4,12,duración,-4.207973012888919,3,60
+T00,Educación,P3-P4,P4,13,evento,-4.170827698921105,24,108
+T00,Educación,P3-P4,P4,14,conferencia,-4.134816495306057,4,58
+T00,Educación,P3-P4,P4,15,convocatoria,-4.111828656880827,11,73
+T01,Empresas y comercio exterior,P3-P4,P3,1,resultado,4.598703538531895,156,26
+T01,Empresas y comercio exterior,P3-P4,P3,2,tradicional,4.386935343681766,97,10
+T01,Empresas y comercio exterior,P3-P4,P3,3,exportación,4.078402031152187,304,81
+T01,Empresas y comercio exterior,P3-P4,P3,4,fusión,4.035651848308708,72,5
+T01,Empresas y comercio exterior,P3-P4,P3,5,período,3.3163665517054453,63,8
+T01,Empresas y comercio exterior,P3-P4,P3,6,compañía,3.2504228496250653,499,166
+T01,Empresas y comercio exterior,P3-P4,P3,7,programa,3.1657342982491525,73,12
+T01,Empresas y comercio exterior,P3-P4,P3,8,cadena,3.0384623729359554,200,56
+T01,Empresas y comercio exterior,P3-P4,P3,9,utilidad,2.9843508921599753,82,16
+T01,Empresas y comercio exterior,P3-P4,P3,10,fabricante,2.7700202692517264,65,12
+T01,Empresas y comercio exterior,P3-P4,P3,11,fruta,2.7696236698109216,52,8
+T01,Empresas y comercio exterior,P3-P4,P3,12,campaña,2.767746922588062,42,5
+T01,Empresas y comercio exterior,P3-P4,P3,13,ecuatoriano,2.7251200880940547,32,1
+T01,Empresas y comercio exterior,P3-P4,P3,14,red,2.68157032187655,34,3
+T01,Empresas y comercio exterior,P3-P4,P3,15,farmacéutico,2.68157032187655,34,3
+T01,Empresas y comercio exterior,P3-P4,P4,1,tienda,-5.327607860089802,70,76
+T01,Empresas y comercio exterior,P3-P4,P4,2,gas,-4.372188980371278,5,20
+T01,Empresas y comercio exterior,P3-P4,P4,3,unidad,-4.106550744705929,67,62
+T01,Empresas y comercio exterior,P3-P4,P4,4,crema,-3.997637699544953,10,21
+T01,Empresas y comercio exterior,P3-P4,P4,5,billón,-3.8682363726310953,20,28
+T01,Empresas y comercio exterior,P3-P4,P4,6,trabajador,-3.843318166487214,15,24
+T01,Empresas y comercio exterior,P3-P4,P4,7,negocio,-3.8030562185978414,328,205
+T01,Empresas y comercio exterior,P3-P4,P4,8,madera,-3.64243949009716,9,18
+T01,Empresas y comercio exterior,P3-P4,P4,9,café,-3.6324038028220658,111,84
+T01,Empresas y comercio exterior,P3-P4,P4,10,empaque,-3.479868890738585,14,21
+T01,Empresas y comercio exterior,P3-P4,P4,11,tiempo,-3.408814025384745,45,42
+T01,Empresas y comercio exterior,P3-P4,P4,12,carro,-3.286634618395464,9,16
+T01,Empresas y comercio exterior,P3-P4,P4,13,éxito,-3.2499412647254675,36,35
+T01,Empresas y comercio exterior,P3-P4,P4,14,seguro,-3.221309045103892,12,18
+T01,Empresas y comercio exterior,P3-P4,P4,15,insumo,-3.1463754406673887,31,31
+T02,Conflicto armado: combates,P3-P4,P3,1,autodefensa,9.310320274943663,125,49
+T02,Conflicto armado: combates,P3-P4,P3,2,habitante,6.452427565276809,92,59
+T02,Conflicto armado: combates,P3-P4,P3,3,paramilitar,5.446120263281139,125,117
+T02,Conflicto armado: combates,P3-P4,P3,4,población,5.236139704954707,136,136
+T02,Conflicto armado: combates,P3-P4,P3,5,urbano,5.225310342862172,83,66
+T02,Conflicto armado: combates,P3-P4,P3,6,vocero,5.031467694462076,40,18
+T02,Conflicto armado: combates,P3-P4,P3,7,vía,5.004249164645065,102,94
+T02,Conflicto armado: combates,P3-P4,P3,8,campesino,4.842104938206257,94,86
+T02,Conflicto armado: combates,P3-P4,P3,9,poblador,4.8206649782813775,39,19
+T02,Conflicto armado: combates,P3-P4,P3,10,guerrilla,4.802329387586133,224,275
+T02,Conflicto armado: combates,P3-P4,P3,11,subversivo,4.744481214428282,117,119
+T02,Conflicto armado: combates,P3-P4,P3,12,puente,4.632188330260929,30,11
+T02,Conflicto armado: combates,P3-P4,P3,13,distensión,4.5436258534605765,32,14
+T02,Conflicto armado: combates,P3-P4,P3,14,municipal,4.524900246149629,30,12
+T02,Conflicto armado: combates,P3-P4,P3,15,retén,4.5245359106302665,47,31
+T02,Conflicto armado: combates,P3-P4,P4,1,alia,-8.813882476771804,42,336
+T02,Conflicto armado: combates,P3-P4,P4,2,banda,-5.832792289406805,25,166
+T02,Conflicto armado: combates,P3-P4,P4,3,desmovilizado,-4.572922235729443,11,90
+T02,Conflicto armado: combates,P3-P4,P4,4,campamento,-4.441091230473469,28,134
+T02,Conflicto armado: combates,P3-P4,P4,5,muerte,-4.4089849958123155,89,288
+T02,Conflicto armado: combates,P3-P4,P4,6,talibán,-4.310954123242662,4,68
+T02,Conflicto armado: combates,P3-P4,P4,7,criminal,-4.1435397790398625,4,63
+T02,Conflicto armado: combates,P3-P4,P4,8,falso,-3.9710883231951617,6,62
+T02,Conflicto armado: combates,P3-P4,P4,9,cabecilla,-3.870361478671108,12,76
+T02,Conflicto armado: combates,P3-P4,P4,10,mujer,-3.6057892812679557,25,106
+T02,Conflicto armado: combates,P3-P4,P4,11,jefe,-3.571398342236268,126,346
+T02,Conflicto armado: combates,P3-P4,P4,12,capturado,-3.318609718142887,19,84
+T02,Conflicto armado: combates,P3-P4,P4,13,recompensa,-3.24959400603096,5,44
+T02,Conflicto armado: combates,P3-P4,P4,14,agravado,-3.224569211960401,4,41
+T02,Conflicto armado: combates,P3-P4,P4,15,adscrito,-3.1418655509529305,5,42
+T03,Tecnología y telecomunicaciones,P3-P4,P3,1,software,6.420330146250417,220,81
+T03,Tecnología y telecomunicaciones,P3-P4,P3,2,computadora,5.853898823360445,83,10
+T03,Tecnología y telecomunicaciones,P3-P4,P3,3,disco,5.749358244605561,97,20
+T03,Tecnología y telecomunicaciones,P3-P4,P3,4,producto,5.664599625568349,198,79
+T03,Tecnología y telecomunicaciones,P3-P4,P3,5,virus,5.604859536619808,94,20
+T03,Tecnología y telecomunicaciones,P3-P4,P3,6,tarjeta,4.99747584689961,160,65
+T03,Tecnología y telecomunicaciones,P3-P4,P3,7,compañía,4.83131145653083,221,106
+T03,Tecnología y telecomunicaciones,P3-P4,P3,8,inalámbrico,4.355181450604259,89,30
+T03,Tecnología y telecomunicaciones,P3-P4,P3,9,proveedor,4.341318392511476,80,25
+T03,Tecnología y telecomunicaciones,P3-P4,P3,10,sistema,4.277088642932937,415,251
+T03,Tecnología y telecomunicaciones,P3-P4,P3,11,fabricante,4.243924711727487,94,34
+T03,Tecnología y telecomunicaciones,P3-P4,P3,12,archivo,4.109028400187295,110,45
+T03,Tecnología y telecomunicaciones,P3-P4,P3,13,pequeño,4.076269590497128,74,24
+T03,Tecnología y telecomunicaciones,P3-P4,P3,14,servidor,3.936740008554313,54,14
+T03,Tecnología y telecomunicaciones,P3-P4,P3,15,programa,3.9009289295915406,220,120
+T03,Tecnología y telecomunicaciones,P3-P4,P4,1,televisión,-7.0452681462193905,34,115
+T03,Tecnología y telecomunicaciones,P3-P4,P4,2,social,-6.785738717863487,11,82
+T03,Tecnología y telecomunicaciones,P3-P4,P4,3,contenido,-5.974702647222843,40,104
+T03,Tecnología y telecomunicaciones,P3-P4,P4,4,celular,-5.774486413422736,169,255
+T03,Tecnología y telecomunicaciones,P3-P4,P4,5,persona,-5.377169479043206,105,174
+T03,Tecnología y telecomunicaciones,P3-P4,P4,6,canal,-5.084178729435499,25,70
+T03,Tecnología y telecomunicaciones,P3-P4,P4,7,video,-5.080846432280618,84,144
+T03,Tecnología y telecomunicaciones,P3-P4,P4,8,usuario,-4.731809993396994,422,490
+T03,Tecnología y telecomunicaciones,P3-P4,P4,9,sitio,-4.4204949325127965,121,174
+T03,Tecnología y telecomunicaciones,P3-P4,P4,10,iphone,-4.366172325408576,0,82
+T03,Tecnología y telecomunicaciones,P3-P4,P4,11,ciudadano,-4.346160889908619,5,34
+T03,Tecnología y telecomunicaciones,P3-P4,P4,12,cifra,-4.104909132912916,21,52
+T03,Tecnología y telecomunicaciones,P3-P4,P4,13,vehículo,-4.008958929368603,28,60
+T03,Tecnología y telecomunicaciones,P3-P4,P4,14,estrato,-3.8173639360503913,13,38
+T03,Tecnología y telecomunicaciones,P3-P4,P4,15,bus,-3.7035614227705995,4,25
+T05,Deporte: torneos individuales,P3-P4,P3,1,carro,9.655487800481897,86,29
+T05,Deporte: torneos individuales,P3-P4,P3,2,llanta,5.919635455825524,31,7
+T05,Deporte: torneos individuales,P3-P4,P3,3,motor,5.491697406654136,37,23
+T05,Deporte: torneos individuales,P3-P4,P3,4,parada,5.410499223519603,35,21
+T05,Deporte: torneos individuales,P3-P4,P3,5,peso,5.074396426163731,67,77
+T05,Deporte: torneos individuales,P3-P4,P3,6,estados_unidos,4.970378469815735,132,204
+T05,Deporte: torneos individuales,P3-P4,P3,7,campeonato,4.9244244800773815,107,155
+T05,Deporte: torneos individuales,P3-P4,P3,8,curva,4.863523849496938,29,18
+T05,Deporte: torneos individuales,P3-P4,P3,9,montaña,4.486904778763249,59,72
+T05,Deporte: torneos individuales,P3-P4,P3,10,caliente,4.416178807540567,18,6
+T05,Deporte: torneos individuales,P3-P4,P3,11,play,4.36187405981654,23,14
+T05,Deporte: torneos individuales,P3-P4,P3,12,oro,4.297712749481831,186,339
+T05,Deporte: torneos individuales,P3-P4,P3,13,mesa,4.162397297436007,17,7
+T05,Deporte: torneos individuales,P3-P4,P3,14,hijo,4.034173529117163,19,11
+T05,Deporte: torneos individuales,P3-P4,P3,15,fútbol,3.8970103385667083,46,57
+T05,Deporte: torneos individuales,P3-P4,P4,1,base,-4.6710233780469474,12,133
+T05,Deporte: torneos individuales,P3-P4,P4,2,doble,-4.406557486147549,32,201
+T05,Deporte: torneos individuales,P3-P4,P4,3,español,-4.292274313969448,83,378
+T05,Deporte: torneos individuales,P3-P4,P4,4,dominicano,-4.1077645551102515,2,90
+T05,Deporte: torneos individuales,P3-P4,P4,5,hoyo,-4.091701080762407,35,201
+T05,Deporte: torneos individuales,P3-P4,P4,6,bogey,-4.087482420572344,10,105
+T05,Deporte: torneos individuales,P3-P4,P4,7,bola,-4.059966366261343,11,108
+T05,Deporte: torneos individuales,P3-P4,P4,8,episodio,-3.7822146712766087,7,84
+T05,Deporte: torneos individuales,P3-P4,P4,9,imparable,-3.7408523725084737,4,73
+T05,Deporte: torneos individuales,P3-P4,P4,10,competición,-3.7296913450142126,3,71
+T05,Deporte: torneos individuales,P3-P4,P4,11,venezolano,-3.4310683249522294,16,109
+T05,Deporte: torneos individuales,P3-P4,P4,12,birdi,-3.429899823553357,6,70
+T05,Deporte: torneos individuales,P3-P4,P4,13,británico,-3.4111782355501714,11,89
+T05,Deporte: torneos individuales,P3-P4,P4,14,cuadro,-3.276057586589046,26,142
+T05,Deporte: torneos individuales,P3-P4,P4,15,marca,-3.2503043119553463,47,215
+T06,Macroeconomía,P3-P4,P3,1,tasa,8.721447488059859,1081,334
+T06,Macroeconomía,P3-P4,P3,2,bono,6.108509468143072,161,20
+T06,Macroeconomía,P3-P4,P3,3,plazo,5.824932245976366,221,45
+T06,Macroeconomía,P3-P4,P3,4,mercado,5.670742813212671,730,257
+T06,Macroeconomía,P3-P4,P3,5,interés,5.411507980771246,482,155
+T06,Macroeconomía,P3-P4,P3,6,gobierno,5.080095587374718,200,46
+T06,Macroeconomía,P3-P4,P3,7,liquidez,4.806272009596745,107,15
+T06,Macroeconomía,P3-P4,P3,8,título,4.304266896607692,97,16
+T06,Macroeconomía,P3-P4,P3,9,inversionista,4.05931648337201,171,46
+T06,Macroeconomía,P3-P4,P3,10,rendimiento,4.023848637246297,61,5
+T06,Macroeconomía,P3-P4,P3,11,futuro,3.9561461188977844,127,30
+T06,Macroeconomía,P3-P4,P3,12,habitante,3.951920223135194,57,3
+T06,Macroeconomía,P3-P4,P3,13,ganancia,3.8580838415780736,106,23
+T06,Macroeconomía,P3-P4,P3,14,interbancario,3.734689833465751,54,5
+T06,Macroeconomía,P3-P4,P3,15,economista,3.7039118672603473,134,35
+T06,Macroeconomía,P3-P4,P4,1,crisis,-7.47283080721111,124,161
+T06,Macroeconomía,P3-P4,P4,2,dato,-7.081304594194159,63,104
+T06,Macroeconomía,P3-P4,P4,3,alimento,-6.873084271361011,47,87
+T06,Macroeconomía,P3-P4,P4,4,consumo,-5.7289519940654134,92,110
+T06,Macroeconomía,P3-P4,P4,5,trabajador,-5.7129821152408615,29,57
+T06,Macroeconomía,P3-P4,P4,6,mínimo,-5.628574339596785,60,83
+T06,Macroeconomía,P3-P4,P4,7,bolívar,-5.476282263191617,4,37
+T06,Macroeconomía,P3-P4,P4,8,pobre,-5.4351398787538,10,37
+T06,Macroeconomía,P3-P4,P4,9,aumento,-5.414764496063835,265,229
+T06,Macroeconomía,P3-P4,P4,10,desempleo,-5.2799926329662785,171,162
+T06,Macroeconomía,P3-P4,P4,11,país,-5.135689876869498,523,390
+T06,Macroeconomía,P3-P4,P4,12,periodo,-4.810538003539587,29,48
+T06,Macroeconomía,P3-P4,P4,13,recesión,-4.7480336323760595,113,113
+T06,Macroeconomía,P3-P4,P4,14,experto,-4.652299168838665,33,50
+T06,Macroeconomía,P3-P4,P4,15,ciudad,-4.463231704294073,46,59
+T07,Familia salud y vida cotidiana,P3-P4,P3,1,huevo,6.751568676021968,76,38
+T07,Familia salud y vida cotidiana,P3-P4,P3,2,psiquiatra,5.803900779438684,57,29
+T07,Familia salud y vida cotidiana,P3-P4,P3,3,problema,5.791807718497244,395,514
+T07,Familia salud y vida cotidiana,P3-P4,P3,4,alimento,5.67805100731821,145,142
+T07,Familia salud y vida cotidiana,P3-P4,P3,5,articulación,5.460738811653121,36,9
+T07,Familia salud y vida cotidiana,P3-P4,P3,6,terapia,5.2929566947532045,73,54
+T07,Familia salud y vida cotidiana,P3-P4,P3,7,cocina,5.290119504675303,63,42
+T07,Familia salud y vida cotidiana,P3-P4,P3,8,diabetes,5.124941489643052,76,60
+T07,Familia salud y vida cotidiana,P3-P4,P3,9,trastorno,5.119756151600021,90,78
+T07,Familia salud y vida cotidiana,P3-P4,P3,10,enfermedad,5.00260383808719,433,606
+T07,Familia salud y vida cotidiana,P3-P4,P3,11,fruta,4.884671642652956,63,47
+T07,Familia salud y vida cotidiana,P3-P4,P3,12,caloría,4.865340569531274,37,17
+T07,Familia salud y vida cotidiana,P3-P4,P3,13,fibra,4.855087183899295,36,16
+T07,Familia salud y vida cotidiana,P3-P4,P3,14,telenovela,4.761815248934576,37,18
+T07,Familia salud y vida cotidiana,P3-P4,P3,15,fresco,4.719389567793485,33,14
+T07,Familia salud y vida cotidiana,P3-P4,P4,1,pareja,-6.252983471281119,141,491
+T07,Familia salud y vida cotidiana,P3-P4,P4,2,víctima,-5.990661535235225,88,345
+T07,Familia salud y vida cotidiana,P3-P4,P4,3,mujer,-5.780448414132789,744,1829
+T07,Familia salud y vida cotidiana,P3-P4,P4,4,menor,-5.491562140128832,328,895
+T07,Familia salud y vida cotidiana,P3-P4,P4,5,celular,-4.710631229195006,13,100
+T07,Familia salud y vida cotidiana,P3-P4,P4,6,crimen,-4.5889189011230105,28,139
+T07,Familia salud y vida cotidiana,P3-P4,P4,7,hecho,-4.489486985520423,81,274
+T07,Familia salud y vida cotidiana,P3-P4,P4,8,madre,-4.479644060234024,296,770
+T07,Familia salud y vida cotidiana,P3-P4,P4,9,autoridad,-4.344311183413854,106,330
+T07,Familia salud y vida cotidiana,P3-P4,P4,10,aventura,-4.338802594236211,21,113
+T07,Familia salud y vida cotidiana,P3-P4,P4,11,joven,-4.11447093683402,272,699
+T07,Familia salud y vida cotidiana,P3-P4,P4,12,búsqueda,-3.9413498105533997,13,81
+T07,Familia salud y vida cotidiana,P3-P4,P4,13,protección,-3.939874724270663,23,109
+T07,Familia salud y vida cotidiana,P3-P4,P4,14,coronel,-3.9239174713548506,7,64
+T07,Familia salud y vida cotidiana,P3-P4,P4,15,familia,-3.885053891618051,486,1148
+T08,Relaciones internacionales,P3-P4,P3,1,negociación,8.235847625004098,138,121
+T08,Relaciones internacionales,P3-P4,P3,2,andino,7.833935699464133,60,17
+T08,Relaciones internacionales,P3-P4,P3,3,comercio,5.798578617571374,66,56
+T08,Relaciones internacionales,P3-P4,P3,4,negociador,5.583263650991228,37,18
+T08,Relaciones internacionales,P3-P4,P3,5,libre,5.553863704385439,39,21
+T08,Relaciones internacionales,P3-P4,P3,6,estados_unidos,5.214849683112293,228,362
+T08,Relaciones internacionales,P3-P4,P3,7,arancel,5.071876971595065,27,10
+T08,Relaciones internacionales,P3-P4,P3,8,propuesta,4.998616140168578,48,40
+T08,Relaciones internacionales,P3-P4,P3,9,mercado,4.884452199785616,30,16
+T08,Relaciones internacionales,P3-P4,P3,10,aerolínea,4.49112120193429,20,6
+T08,Relaciones internacionales,P3-P4,P3,11,palestino,4.407481829645864,81,103
+T08,Relaciones internacionales,P3-P4,P3,12,ronda,4.38287499367649,25,14
+T08,Relaciones internacionales,P3-P4,P3,13,sector,4.368147393748786,39,34
+T08,Relaciones internacionales,P3-P4,P3,14,producto,4.109332731794059,29,22
+T08,Relaciones internacionales,P3-P4,P3,15,agrícola,3.998485894629773,16,5
+T08,Relaciones internacionales,P3-P4,P4,1,ecuatoriano,-5.388690587973367,10,143
+T08,Relaciones internacionales,P3-P4,P4,2,mandatario,-5.283895964115717,50,280
+T08,Relaciones internacionales,P3-P4,P4,3,militar,-5.213733595377115,35,225
+T08,Relaciones internacionales,P3-P4,P4,4,relación,-4.805085359792191,89,388
+T08,Relaciones internacionales,P3-P4,P4,5,presidente,-3.6379416151084083,309,964
+T08,Relaciones internacionales,P3-P4,P4,6,frontera,-3.4967417248668626,19,113
+T08,Relaciones internacionales,P3-P4,P4,7,ruso,-3.3654810335477943,6,63
+T08,Relaciones internacionales,P3-P4,P4,8,base,-3.176187062776627,22,115
+T08,Relaciones internacionales,P3-P4,P4,9,información,-3.1582087373191903,9,69
+T08,Relaciones internacionales,P3-P4,P4,10,humanitario,-3.113355453423982,4,50
+T08,Relaciones internacionales,P3-P4,P4,11,agresión,-3.0352608088907,3,45
+T08,Relaciones internacionales,P3-P4,P4,12,francés,-2.9962533259307107,10,69
+T08,Relaciones internacionales,P3-P4,P4,13,demócrata,-2.958224907464442,5,50
+T08,Relaciones internacionales,P3-P4,P4,14,venezolano,-2.8635883765980994,89,311
+T08,Relaciones internacionales,P3-P4,P4,15,liberación,-2.825643863086807,1,37
+T09,Justicia y procesos judiciales,P3-P4,P3,1,resolución,6.744694170707513,49,35
+T09,Justicia y procesos judiciales,P3-P4,P3,2,investidura,5.0254654992223164,21,9
+T09,Justicia y procesos judiciales,P3-P4,P3,3,cartel,4.834348118292675,50,64
+T09,Justicia y procesos judiciales,P3-P4,P3,4,nota,4.824986162837068,18,5
+T09,Justicia y procesos judiciales,P3-P4,P3,5,artículo,4.7248260604655075,38,42
+T09,Justicia y procesos judiciales,P3-P4,P3,6,derecho,4.5559556933447505,124,240
+T09,Justicia y procesos judiciales,P3-P4,P3,7,impuesto,4.5183892070469795,28,26
+T09,Justicia y procesos judiciales,P3-P4,P3,8,perpetuo,4.372088924505889,16,7
+T09,Justicia y procesos judiciales,P3-P4,P3,9,libro,4.266565862185402,16,8
+T09,Justicia y procesos judiciales,P3-P4,P3,10,autor,4.261945867001223,39,50
+T09,Justicia y procesos judiciales,P3-P4,P3,11,agente,4.25914867180938,50,73
+T09,Justicia y procesos judiciales,P3-P4,P3,12,dictador,4.151235781477681,16,9
+T09,Justicia y procesos judiciales,P3-P4,P3,13,pérdida,4.067196426786073,18,13
+T09,Justicia y procesos judiciales,P3-P4,P3,14,peso,4.0189444035580575,131,274
+T09,Justicia y procesos judiciales,P3-P4,P3,15,extradición,4.013733046935277,86,161
+T09,Justicia y procesos judiciales,P3-P4,P4,1,magistrado,-7.103272679664959,74,573
+T09,Justicia y procesos judiciales,P3-P4,P4,2,alia,-5.203026422649396,15,195
+T09,Justicia y procesos judiciales,P3-P4,P4,3,víctima,-4.977154636652208,18,198
+T09,Justicia y procesos judiciales,P3-P4,P4,4,escándalo,-4.358323427147761,19,176
+T09,Justicia y procesos judiciales,P3-P4,P4,5,audiencia,-4.307326916672602,40,268
+T09,Justicia y procesos judiciales,P3-P4,P4,6,parapolítica,-3.715374680446353,0,140
+T09,Justicia y procesos judiciales,P3-P4,P4,7,comunicado,-3.606758880335703,9,102
+T09,Justicia y procesos judiciales,P3-P4,P4,8,empresario,-3.509592513584201,5,81
+T09,Justicia y procesos judiciales,P3-P4,P4,9,corte_suprema,-3.4347922153886215,104,485
+T09,Justicia y procesos judiciales,P3-P4,P4,10,chuzada,-3.4339862450374796,1,79
+T09,Justicia y procesos judiciales,P3-P4,P4,11,relación,-3.4132817648277682,11,105
+T09,Justicia y procesos judiciales,P3-P4,P4,12,congresista,-3.3849617888252514,37,218
+T09,Justicia y procesos judiciales,P3-P4,P4,13,agravado,-3.3244464379987138,20,143
+T09,Justicia y procesos judiciales,P3-P4,P4,14,seguimiento,-3.307027213387205,3,67
+T09,Justicia y procesos judiciales,P3-P4,P4,15,carta,-3.23896779229589,10,95
+T11,Cultura y espectáculos,P3-P4,P3,1,himno,7.225442013603781,67,20
+T11,Cultura y espectáculos,P3-P4,P3,2,viejo,5.912134045240244,134,120
+T11,Cultura y espectáculos,P3-P4,P3,3,ambiente,5.36313318399627,83,64
+T11,Cultura y espectáculos,P3-P4,P3,4,rumba,5.335510345820845,97,82
+T11,Cultura y espectáculos,P3-P4,P3,5,decoración,5.265492278899388,44,20
+T11,Cultura y espectáculos,P3-P4,P3,6,pieza,5.146657936344945,176,194
+T11,Cultura y espectáculos,P3-P4,P3,7,realidad,5.117684177107623,163,176
+T11,Cultura y espectáculos,P3-P4,P3,8,ritmo,4.978613495059535,174,195
+T11,Cultura y espectáculos,P3-P4,P3,9,novela,4.87603066299462,297,384
+T11,Cultura y espectáculos,P3-P4,P3,10,indio,4.791740676119889,35,15
+T11,Cultura y espectáculos,P3-P4,P3,11,bar,4.694844336432782,66,52
+T11,Cultura y espectáculos,P3-P4,P3,12,crítico,4.579251353250467,110,112
+T11,Cultura y espectáculos,P3-P4,P3,13,generación,4.490900518867546,106,108
+T11,Cultura y espectáculos,P3-P4,P3,14,estilo,4.426116004022745,172,205
+T11,Cultura y espectáculos,P3-P4,P3,15,amante,4.352611057114824,92,91
+T11,Cultura y espectáculos,P3-P4,P4,1,entrada,-14.199933529793027,104,854
+T11,Cultura y espectáculos,P3-P4,P4,2,libre,-12.120285628957712,83,642
+T11,Cultura y espectáculos,P3-P4,P4,3,público,-8.420176733684363,372,1156
+T11,Cultura y espectáculos,P3-P4,P4,4,lugar,-7.632920313949516,348,1050
+T11,Cultura y espectáculos,P3-P4,P4,5,éxito,-7.552801524980251,188,661
+T11,Cultura y espectáculos,P3-P4,P4,6,banco_república,-7.237691396780757,19,203
+T11,Cultura y espectáculos,P3-P4,P4,7,recomendado,-7.033373617304123,9,185
+T11,Cultura y espectáculos,P3-P4,P4,8,gratuito,-6.577285312100936,33,213
+T11,Cultura y espectáculos,P3-P4,P4,9,cultural,-6.57062156259112,217,682
+T11,Cultura y espectáculos,P3-P4,P4,10,cantante,-6.564944775588266,143,502
+T11,Cultura y espectáculos,P3-P4,P4,11,exposición,-6.4984180914502785,188,609
+T11,Cultura y espectáculos,P3-P4,P4,12,aventura,-6.04849455412682,58,263
+T11,Cultura y espectáculos,P3-P4,P4,13,cámara_comercio,-5.803275107356256,15,137
+T11,Cultura y espectáculos,P3-P4,P4,14,evento,-5.758584007699618,195,591
+T11,Cultura y espectáculos,P3-P4,P4,15,agenda,-5.622808941128273,13,126
+T12,Movilidad urbana,P3-P4,P3,1,transportador,5.771508812300168,60,45
+T12,Movilidad urbana,P3-P4,P3,2,luz,4.960060172842336,42,30
+T12,Movilidad urbana,P3-P4,P3,3,peatón,4.825162785835428,64,64
+T12,Movilidad urbana,P3-P4,P3,4,viejo,4.694580378353807,31,18
+T12,Movilidad urbana,P3-P4,P3,5,troncal,4.456013711461721,47,43
+T12,Movilidad urbana,P3-P4,P3,6,puente,4.427955194053888,108,145
+T12,Movilidad urbana,P3-P4,P3,7,avenida,4.414421160556655,170,260
+T12,Movilidad urbana,P3-P4,P3,8,espejo,4.4115160114850145,20,6
+T12,Movilidad urbana,P3-P4,P3,9,piloto,4.362014323861261,21,8
+T12,Movilidad urbana,P3-P4,P3,10,bogotano,3.950803662867779,43,43
+T12,Movilidad urbana,P3-P4,P3,11,ciclista,3.916425436375534,30,24
+T12,Movilidad urbana,P3-P4,P3,12,operador,3.636958707205128,18,10
+T12,Movilidad urbana,P3-P4,P3,13,medida,3.582630281764311,103,154
+T12,Movilidad urbana,P3-P4,P3,14,propietario,3.5572585752319568,48,56
+T12,Movilidad urbana,P3-P4,P3,15,almacén,3.5509872498777324,22,16
+T12,Movilidad urbana,P3-P4,P4,1,moto,-6.035817103467596,7,162
+T12,Movilidad urbana,P3-P4,P4,2,herido,-5.112628385448158,19,157
+T12,Movilidad urbana,P3-P4,P4,3,accidente,-5.012083777913303,67,313
+T12,Movilidad urbana,P3-P4,P4,4,movilidad,-4.540015460312271,13,117
+T12,Movilidad urbana,P3-P4,P4,5,motociclista,-4.196345361633329,4,79
+T12,Movilidad urbana,P3-P4,P4,6,bahía,-4.1291621888050765,3,76
+T12,Movilidad urbana,P3-P4,P4,7,motocicleta,-3.845327817833661,3,66
+T12,Movilidad urbana,P3-P4,P4,8,hombre,-3.4980385151909967,9,74
+T12,Movilidad urbana,P3-P4,P4,9,carrera,-3.2647161579687434,169,534
+T12,Movilidad urbana,P3-P4,P4,10,semáforo,-3.242586713588647,11,75
+T12,Movilidad urbana,P3-P4,P4,11,localidad,-3.2291511414627205,3,48
+T12,Movilidad urbana,P3-P4,P4,12,persona,-3.0236165501823744,85,293
+T12,Movilidad urbana,P3-P4,P4,13,camioneta,-3.007799274294537,5,49
+T12,Movilidad urbana,P3-P4,P4,14,barrio,-2.8640680168932957,45,173
+T12,Movilidad urbana,P3-P4,P4,15,camión,-2.839880965568672,20,96
+T13,Elecciones y partidos,P3-P4,P3,1,preferente,6.435828358117468,38,7
+T13,Elecciones y partidos,P3-P4,P3,2,lista,6.322553364474153,129,157
+T13,Elecciones y partidos,P3-P4,P3,3,derecha,5.625603841165481,31,11
+T13,Elecciones y partidos,P3-P4,P3,4,sistema,5.306461897031628,39,26
+T13,Elecciones y partidos,P3-P4,P3,5,voto,4.945928572728242,359,677
+T13,Elecciones y partidos,P3-P4,P3,6,fondo,4.585011890988192,26,15
+T13,Elecciones y partidos,P3-P4,P3,7,francés,4.539211309524827,21,2
+T13,Elecciones y partidos,P3-P4,P3,8,preferencia,3.863331012617415,18,10
+T13,Elecciones y partidos,P3-P4,P3,9,movimiento,3.6616029879811944,76,114
+T13,Elecciones y partidos,P3-P4,P3,10,sector,3.613916384934897,59,82
+T13,Elecciones y partidos,P3-P4,P3,11,integrante,3.5901270429306247,24,21
+T13,Elecciones y partidos,P3-P4,P3,12,umbral,3.5285598011673294,19,14
+T13,Elecciones y partidos,P3-P4,P3,13,público,3.5168870900439138,68,101
+T13,Elecciones y partidos,P3-P4,P3,14,electoral,3.4512058156645384,182,344
+T13,Elecciones y partidos,P3-P4,P3,15,político,3.4327182876592626,272,548
+T13,Elecciones y partidos,P3-P4,P4,1,consulta,-4.947911752391151,63,325
+T13,Elecciones y partidos,P3-P4,P4,2,coalición,-4.560734592662277,20,155
+T13,Elecciones y partidos,P3-P4,P4,3,alianza,-4.122708058933424,13,114
+T13,Elecciones y partidos,P3-P4,P4,4,verde,-3.766975300013372,3,69
+T13,Elecciones y partidos,P3-P4,P4,5,jefe,-3.641676612584734,23,137
+T13,Elecciones y partidos,P3-P4,P4,6,acuerdo,-3.6252033691835353,10,88
+T13,Elecciones y partidos,P3-P4,P4,7,partido,-3.516227520636784,269,890
+T13,Elecciones y partidos,P3-P4,P4,8,uribista,-3.4436496809201502,26,142
+T13,Elecciones y partidos,P3-P4,P4,9,referendo,-3.1721623804233716,18,106
+T13,Elecciones y partidos,P3-P4,P4,10,precandidato,-3.0735305430979296,10,74
+T13,Elecciones y partidos,P3-P4,P4,11,seguridad,-3.0730314642867063,5,55
+T13,Elecciones y partidos,P3-P4,P4,12,magistrado,-3.0537226076373702,18,103
+T13,Elecciones y partidos,P3-P4,P4,13,bancada,-3.040659146114113,11,77
+T13,Elecciones y partidos,P3-P4,P4,14,azul,-2.965912093320768,2,43
+T13,Elecciones y partidos,P3-P4,P4,15,uribismo,-2.933272240697239,9,67
+T14,Sistema financiero,P3-P4,P3,1,deudor,3.2703952875493747,76,9
+T14,Sistema financiero,P3-P4,P3,2,bono,3.010384845548861,62,7
+T14,Sistema financiero,P3-P4,P3,3,operación,2.8070768458163453,91,16
+T14,Sistema financiero,P3-P4,P3,4,hipotecario,2.8042910196226916,136,29
+T14,Sistema financiero,P3-P4,P3,5,nacional,2.6867093941962783,36,2
+T14,Sistema financiero,P3-P4,P3,6,empresario,2.663803865067343,39,3
+T14,Sistema financiero,P3-P4,P3,7,acuerdo,2.6599105378893335,62,9
+T14,Sistema financiero,P3-P4,P3,8,vivienda,2.6559717778875758,200,50
+T14,Sistema financiero,P3-P4,P3,9,deuda,2.641410463832112,209,53
+T14,Sistema financiero,P3-P4,P3,10,reestructuración,2.6152992973983866,38,3
+T14,Sistema financiero,P3-P4,P3,11,constructor,2.5712000398306234,31,1
+T14,Sistema financiero,P3-P4,P3,12,patrimonio,2.5337904660805903,48,6
+T14,Sistema financiero,P3-P4,P3,13,garantía,2.4698941075556777,39,4
+T14,Sistema financiero,P3-P4,P3,14,alivio,2.292635764379341,25,1
+T14,Sistema financiero,P3-P4,P3,15,recuperación,2.2482891431828267,35,4
+T14,Sistema financiero,P3-P4,P4,1,acción,-4.913494211814057,73,66
+T14,Sistema financiero,P3-P4,P4,2,piso,-4.666335686242818,4,20
+T14,Sistema financiero,P3-P4,P4,3,billón,-4.166124304588243,211,130
+T14,Sistema financiero,P3-P4,P4,4,dinero,-4.13078754213903,84,65
+T14,Sistema financiero,P3-P4,P4,5,pensión,-4.055238656929386,30,33
+T14,Sistema financiero,P3-P4,P4,6,subsidio,-4.054816651314935,38,38
+T14,Sistema financiero,P3-P4,P4,7,país,-3.8853757681637617,77,59
+T14,Sistema financiero,P3-P4,P4,8,obligatorio,-3.6184883627806945,6,14
+T14,Sistema financiero,P3-P4,P4,9,ganancia,-3.279562211522119,30,28
+T14,Sistema financiero,P3-P4,P4,10,economía,-3.241358551142179,19,21
+T14,Sistema financiero,P3-P4,P4,11,plata,-3.2320762653658908,13,17
+T14,Sistema financiero,P3-P4,P4,12,inversionista,-3.2320762653658908,13,17
+T14,Sistema financiero,P3-P4,P4,13,peso,-3.1563833320147494,851,394
+T14,Sistema financiero,P3-P4,P4,14,vigencia,-3.0373214147349756,10,14
+T14,Sistema financiero,P3-P4,P4,15,banco,-2.9167969619145606,186,103
+T15,Fútbol,P3-P4,P3,1,cambio,12.118327867290288,264,212
+T15,Fútbol,P3-P4,P3,2,arbitro,7.955733996414157,105,3
+T15,Fútbol,P3-P4,P3,3,espectador,7.3246506816587695,125,120
+T15,Fútbol,P3-P4,P3,4,expulsado,6.777639752788934,104,98
+T15,Fútbol,P3-P4,P3,5,gol,6.542251166752533,815,1515
+T15,Fútbol,P3-P4,P3,6,tiempo,6.49521619096111,335,523
+T15,Fútbol,P3-P4,P3,7,eliminatoria,6.358336233878006,172,221
+T15,Fútbol,P3-P4,P3,8,partido,6.346610428819446,1088,2124
+T15,Fútbol,P3-P4,P3,9,asistencia,5.969382531820281,99,105
+T15,Fútbol,P3-P4,P3,10,figura,5.142433639957839,98,119
+T15,Fútbol,P3-P4,P3,11,ganado,5.108702095413446,30,14
+T15,Fútbol,P3-P4,P3,12,perdido,4.76995925992872,37,27
+T15,Fútbol,P3-P4,P3,13,aprox,4.471325557489687,32,23
+T15,Fútbol,P3-P4,P3,14,noche,4.27575079490054,100,140
+T15,Fútbol,P3-P4,P3,15,gente,4.253080442266319,55,61
+T15,Fútbol,P3-P4,P4,1,conjunto,-6.189284454067557,27,234
+T15,Fútbol,P3-P4,P4,2,árbitro,-5.273694829752613,55,294
+T15,Fútbol,P3-P4,P4,3,frente,-4.90586070357421,129,514
+T15,Fútbol,P3-P4,P4,4,unidad,-4.7300709972685855,13,127
+T15,Fútbol,P3-P4,P4,5,cuadro,-4.542778837348199,17,135
+T15,Fútbol,P3-P4,P4,6,compromiso,-4.335201512524738,18,132
+T15,Fútbol,P3-P4,P4,7,marcador,-4.120617759781639,54,247
+T15,Fútbol,P3-P4,P4,8,estadio,-4.095766142762811,162,573
+T15,Fútbol,P3-P4,P4,9,visita,-3.8609005975645716,18,118
+T15,Fútbol,P3-P4,P4,10,ida,-3.7722259391578947,17,112
+T15,Fútbol,P3-P4,P4,11,club,-3.7473180843175,91,348
+T15,Fútbol,P3-P4,P4,12,argentino,-3.5742972293478914,129,453
+T15,Fútbol,P3-P4,P4,13,encuentro,-3.556729695392477,66,265
+T15,Fútbol,P3-P4,P4,14,centrocampista,-3.443262693975407,1,65
+T15,Fútbol,P3-P4,P4,15,portugués,-3.439664923674348,4,58
+T16,Legislación y reformas,P3-P4,P3,1,tributario,5.837120336904309,221,67
+T16,Legislación y reformas,P3-P4,P3,2,peso,5.45069681666898,190,57
+T16,Legislación y reformas,P3-P4,P3,3,billón,5.178197224948383,124,29
+T16,Legislación y reformas,P3-P4,P3,4,pensión,5.022034594545524,144,40
+T16,Legislación y reformas,P3-P4,P3,5,gasto,4.92979705585378,103,22
+T16,Legislación y reformas,P3-P4,P3,6,pensional,4.7505934413344395,63,4
+T16,Legislación y reformas,P3-P4,P3,7,económico,4.657227893793722,95,21
+T16,Legislación y reformas,P3-P4,P3,8,gobierno,4.180627231524343,79,18
+T16,Legislación y reformas,P3-P4,P3,9,impuesto,4.150811520044763,202,80
+T16,Legislación y reformas,P3-P4,P3,10,exención,3.7584009372574645,56,11
+T16,Legislación y reformas,P3-P4,P3,11,fiscal,3.717156328134887,108,36
+T16,Legislación y reformas,P3-P4,P3,12,renta,3.7006942112062733,79,22
+T16,Legislación y reformas,P3-P4,P3,13,empleado,3.664744262671237,38,3
+T16,Legislación y reformas,P3-P4,P3,14,ajuste,3.5726726642728854,64,16
+T16,Legislación y reformas,P3-P4,P3,15,público,3.4890510479819365,177,75
+T16,Legislación y reformas,P3-P4,P4,1,partido,-6.248200526988839,12,60
+T16,Legislación y reformas,P3-P4,P4,2,proyecto,-6.150351874683501,480,487
+T16,Legislación y reformas,P3-P4,P4,3,debate,-5.614444716925069,127,170
+T16,Legislación y reformas,P3-P4,P4,4,regalía,-5.598860731195537,4,47
+T16,Legislación y reformas,P3-P4,P4,5,referendo,-4.973966077053014,70,105
+T16,Legislación y reformas,P3-P4,P4,6,coalición,-4.693889882035559,2,35
+T16,Legislación y reformas,P3-P4,P4,7,agenda,-4.587653023094479,9,35
+T16,Legislación y reformas,P3-P4,P4,8,legislatura,-4.4690473339135925,11,36
+T16,Legislación y reformas,P3-P4,P4,9,ley,-4.356345462314137,194,207
+T16,Legislación y reformas,P3-P4,P4,10,iniciativa,-4.051187756132794,157,170
+T16,Legislación y reformas,P3-P4,P4,11,salud,-4.047700654386713,31,54
+T16,Legislación y reformas,P3-P4,P4,12,uribista,-3.9800224769399364,26,48
+T16,Legislación y reformas,P3-P4,P4,13,legislativo,-3.9553828095374626,56,78
+T16,Legislación y reformas,P3-P4,P4,14,senador,-3.867131152693367,72,92
+T16,Legislación y reformas,P3-P4,P4,15,arma,-3.758537830275044,2,21
+T17,Agua tierra e infraestructura,P3-P4,P3,1,gas,6.483147552101372,96,69
+T17,Agua tierra e infraestructura,P3-P4,P3,2,tonelada,6.198495148316627,126,113
+T17,Agua tierra e infraestructura,P3-P4,P3,3,caucho,5.873898548422385,39,8
+T17,Agua tierra e infraestructura,P3-P4,P3,4,producción,5.686055451809223,134,134
+T17,Agua tierra e infraestructura,P3-P4,P3,5,cultivo,5.618304066665866,201,235
+T17,Agua tierra e infraestructura,P3-P4,P3,6,proyecto,5.439055521797917,267,344
+T17,Agua tierra e infraestructura,P3-P4,P3,7,puente,5.409779224423469,104,97
+T17,Agua tierra e infraestructura,P3-P4,P3,8,relleno,5.097740896892408,43,23
+T17,Agua tierra e infraestructura,P3-P4,P3,9,finca,5.059897359377197,86,78
+T17,Agua tierra e infraestructura,P3-P4,P3,10,costo,5.011798294769126,97,94
+T17,Agua tierra e infraestructura,P3-P4,P3,11,basura,4.990152693962932,68,55
+T17,Agua tierra e infraestructura,P3-P4,P3,12,desarrollo,4.828081622162417,87,83
+T17,Agua tierra e infraestructura,P3-P4,P3,13,guadua,4.7695136665271125,26,6
+T17,Agua tierra e infraestructura,P3-P4,P3,14,suelo,4.7689404706605645,108,114
+T17,Agua tierra e infraestructura,P3-P4,P3,15,orgánico,4.620209236235879,38,22
+T17,Agua tierra e infraestructura,P3-P4,P4,1,afectado,-6.177174090833519,112,433
+T17,Agua tierra e infraestructura,P3-P4,P4,2,lluvia,-6.082857238989309,89,367
+T17,Agua tierra e infraestructura,P3-P4,P4,3,inundación,-5.724309744310013,60,273
+T17,Agua tierra e infraestructura,P3-P4,P4,4,casa,-5.634973579243247,110,405
+T17,Agua tierra e infraestructura,P3-P4,P4,5,agua,-5.4114273911440165,593,1540
+T17,Agua tierra e infraestructura,P3-P4,P4,6,emergencia,-5.143119094173046,73,288
+T17,Agua tierra e infraestructura,P3-P4,P4,7,familia,-5.08381121072238,110,383
+T17,Agua tierra e infraestructura,P3-P4,P4,8,persona,-4.615824705425982,138,435
+T17,Agua tierra e infraestructura,P3-P4,P4,9,daño,-4.539407739445155,53,214
+T17,Agua tierra e infraestructura,P3-P4,P4,10,hielo,-4.175847472218783,5,69
+T17,Agua tierra e infraestructura,P3-P4,P4,11,sismo,-4.106247515277131,5,67
+T17,Agua tierra e infraestructura,P3-P4,P4,12,situación,-4.04897722481349,67,236
+T17,Agua tierra e infraestructura,P3-P4,P4,13,litro,-4.037545867579739,14,90
+T17,Agua tierra e infraestructura,P3-P4,P4,14,temporada,-3.9286847193605916,21,108
+T17,Agua tierra e infraestructura,P3-P4,P4,15,tormenta,-3.8158835739745145,2,59

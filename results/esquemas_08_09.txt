@@ -1,0 +1,625 @@
+
+### results/08/cambios_detectados.csv  (29 filas leídas)
+variante        str
+años_validos    str
+cambios         str
+fuerza          str
+                    variante    años_validos                 cambios                 fuerza
+0       ET todos | media doc  1990–2011 (22)  1995, 1998, 2001, 2006  1.96, 1.2, 1.08, 2.46
+1  ET sin breves | media doc  1990–2011 (22)  1995, 1998, 2004, 2006  1.72, 1.23, 1.0, 2.08
+2    ET todos | peso por mes  1991–2011 (21)  1995, 2000, 2002, 2006  1.61, 1.17, 1.0, 2.56
+
+### results/08/cobertura_fuente_año_mes.csv  (200 filas leídas)
+fuente      str
+año       int64
+mes       int64
+docs      int64
+           fuente   año  mes  docs
+0  www.dinero.com  1993    1     3
+1  www.dinero.com  1993    5     2
+2  www.dinero.com  1993    6     3
+
+### results/08/comparacion_bigramas.csv  (10 filas leídas)
+estrategia               str
+npmi_media           float64
+se                   float64
+K                    float64
+npmi_min             float64
+npmi_mediana         float64
+diversidad           float64
+err_frob             float64
+n_iter               float64
+convergio            float64
+err_rel_ajuste       float64
+err_rel_heldout      float64
+estab_cos            float64
+estab_jaccard        float64
+medoide              float64
+pct_residuales       float64
+n_bigramas           float64
+vocab                float64
+bigramas_en_top10      int64
+  estrategia  npmi_media       se     K  npmi_min  npmi_mediana  diversidad   err_frob     n_iter  convergio  err_rel_ajuste  err_rel_heldout  estab_cos  estab_jaccard  medoide  pct_residuales  n_bigramas    vocab  bigramas_en_top10
+0          A     0.13635  0.00208  14.0   0.07373       0.13036     0.86476  156.10042  276.00000        1.0         0.96614          0.96660    0.84794        0.61115      1.0         7.14286         0.0  13324.0                  0
+1       A+LB     0.13901  0.00232  14.0   0.06801       0.13453     0.87524  156.12448  244.33333        1.0         0.96629          0.96676    0.89335        0.68967      0.0         0.00000        37.0  13360.0                  0
+2          B     0.12468  0.00089  14.0   0.07068       0.12362     0.86952  156.98020  447.66667        1.0         0.97159          0.97199    0.88343        0.73808      1.0         7.14286      5774.0  17336.0                  1
+
+### results/08/comparacion_bigramas_por_semilla.csv  (30 filas leídas)
+estrategia             str
+K                    int64
+seed                 int64
+npmi_media         float64
+npmi_min           float64
+npmi_mediana       float64
+diversidad         float64
+err_frob           float64
+n_iter               int64
+convergio          float64
+err_rel_ajuste     float64
+err_rel_heldout    float64
+estab_cos          float64
+estab_jaccard      float64
+medoide              int64
+pct_residuales     float64
+n_bigramas           int64
+vocab                int64
+  estrategia   K  seed  npmi_media  npmi_min  npmi_mediana  diversidad   err_frob  n_iter  convergio  err_rel_ajuste  err_rel_heldout  estab_cos  estab_jaccard  medoide  pct_residuales  n_bigramas  vocab
+0          A  14     0     0.13219   0.06455       0.13303     0.86286  156.12125     229        1.0         0.96627          0.96674    0.84794        0.61115        1         7.14286           0  13324
+1          A  14     1     0.13857   0.07832       0.13184     0.86857  156.08371     400        1.0         0.96604          0.96651    0.84794        0.61115        1         7.14286           0  13324
+2          A  14     2     0.13828   0.07832       0.12619     0.86286  156.09630     199        1.0         0.96612          0.96654    0.84794        0.61115        1         7.14286           0  13324
+
+### results/08/comparacion_bigramas_top10.csv  (140 filas leídas)
+estrategia          str
+topico              str
+bigramas_top10      str
+n                 int64
+  estrategia topico bigramas_top10  n
+0          A    T00            NaN  0
+1          A    T01            NaN  0
+2          A    T02            NaN  0
+
+### results/08/decaimiento_rezago.csv  (60 filas leídas)
+rezago        int64
+js_medio    float64
+n_pares       int64
+serie           str
+   rezago  js_medio  n_pares               serie
+0       1   0.00229       21  eltiempo todos/doc
+1       2   0.00417       20  eltiempo todos/doc
+2       3   0.00551       19  eltiempo todos/doc
+
+### results/08/fig_cambios_formato.png
+
+### results/08/fig_decaimiento_rezago.png
+
+### results/08/fig_js_vs_nulo.png
+
+### results/08/fig_metricas_K.png
+
+### results/08/fig_prevalencia_ic_eltiempo.png
+
+### results/08/formato_fuente_año.csv  (71 filas leídas)
+fuente                           str
+año                            int64
+docs                           int64
+pct_breve                    float64
+pct_carta                    float64
+mediana_palabras             float64
+mediana_palabras_no_breve    float64
+pct_titulo_cap               float64
+pct_lead_dup                 float64
+           fuente   año  docs  pct_breve  pct_carta  mediana_palabras  mediana_palabras_no_breve  pct_titulo_cap  pct_lead_dup
+0  www.dinero.com  1993    13      15.38        0.0             324.0                      378.0           15.38           0.0
+1  www.dinero.com  1994    20       0.00        0.0            1210.5                     1210.5           30.00           0.0
+2  www.dinero.com  1995    32       0.00        0.0             896.5                      896.5           28.12           0.0
+
+### results/08/js_entre_fuentes.csv  (22 filas leídas)
+año             int64
+n1              int64
+n2              int64
+js            float64
+nulo_media    float64
+nulo_p95      float64
+exceso        float64
+z             float64
+p             float64
+    año    n1   n2       js  nulo_media  nulo_p95   exceso         z      p
+0  1990   807   84  0.07705     0.01287   0.02125  0.06418  12.98926  0.001
+1  1991  2355   94  0.03790     0.01024   0.01714  0.02766   7.39629  0.001
+2  1992  3093  111  0.04592     0.01120   0.01824  0.03472   8.75167  0.001
+
+### results/08/mapa_plurales.csv  (200 filas leídas)
+plural           str
+singular         str
+df_plural      int64
+df_singular    int64
+    plural singular  df_plural  df_singular
+0    pesos     peso      13131         2876
+1  dólares    dólar       7827         1446
+2  gracias   gracia       4382          778
+
+### results/08/meses_validos.csv  (200 filas leídas)
+fuente      str
+año       int64
+mes       int64
+docs      int64
+umbral    int64
+valido     bool
+           fuente   año  mes  docs  umbral  valido
+0  www.dinero.com  1993    1     3      10   False
+1  www.dinero.com  1993    2     0      10   False
+2  www.dinero.com  1993    3     0      10   False
+
+### results/08/metricas_K.csv  (13 filas leídas)
+K                    int64
+npmi_media         float64
+se                 float64
+npmi_min           float64
+npmi_mediana       float64
+diversidad         float64
+err_frob           float64
+n_iter             float64
+convergio          float64
+cv_media           float64
+err_rel_ajuste     float64
+err_rel_heldout    float64
+estab_cos          float64
+estab_jaccard      float64
+medoide            float64
+pct_residuales     float64
+    K  npmi_media       se  npmi_min  npmi_mediana  diversidad   err_frob     n_iter  convergio  cv_media  err_rel_ajuste  err_rel_heldout  estab_cos  estab_jaccard  medoide  pct_residuales
+0   8     0.11538  0.00000   0.05287       0.11326     0.93500  157.04250  202.66667        1.0   0.71188         0.97198          0.97231    1.00000        1.00000      0.0            12.5
+1   9     0.11599  0.00040   0.05278       0.11305     0.91259  156.86730  277.66667        1.0   0.70937         0.97089          0.97125    0.92967        0.75545      0.0             0.0
+2  10     0.12385  0.00166   0.07380       0.10778     0.91067  156.70027  140.00000        1.0   0.72059         0.96986          0.97019    0.91796        0.72993      2.0             0.0
+
+### results/08/metricas_K_por_semilla.csv  (39 filas leídas)
+K                    int64
+seed                 int64
+npmi_media         float64
+npmi_min           float64
+npmi_mediana       float64
+diversidad         float64
+err_frob           float64
+n_iter               int64
+convergio          float64
+cv_media           float64
+err_rel_ajuste     float64
+err_rel_heldout    float64
+estab_cos          float64
+estab_jaccard      float64
+medoide              int64
+pct_residuales     float64
+   K  seed  npmi_media  npmi_min  npmi_mediana  diversidad  err_frob  n_iter  convergio  cv_media  err_rel_ajuste  err_rel_heldout  estab_cos  estab_jaccard  medoide  pct_residuales
+0  8     0     0.11538   0.05287       0.11326       0.935  157.0425     277        1.0   0.71188         0.97198          0.97231        1.0            1.0        0            12.5
+1  8     1     0.11538   0.05287       0.11326       0.935  157.0425     132        1.0   0.71188         0.97198          0.97231        1.0            1.0        0            12.5
+2  8     2     0.11538   0.05287       0.11326       0.935  157.0425     199        1.0   0.71188         0.97198          0.97231        1.0            1.0        0            12.5
+
+### results/08/nombres_topicos.csv  (18 filas leídas)
+topico                str
+nombre                str
+residual             bool
+residual_sugerido    bool
+motivo                str
+top10                 str
+  topico                        nombre  residual  residual_sugerido motivo                                    top10
+0    T00                     Educación     False              False    NaN  estudiante educación programa educat...
+1    T01  Empresas y comercio exterior     False              False    NaN  mercado empresa producto venta compa...
+2    T02    Conflicto armado: combates     False              False    NaN  militar guerrillero grupo comandante...
+
+### results/08/prevalencias_ic.csv  (200 filas leídas)
+serie         str
+año         int64
+topico        str
+prev      float64
+lo        float64
+hi        float64
+n           int64
+                serie   año                            topico     prev       lo       hi    n
+0  eltiempo|todos|doc  1990                     T00 Educación  0.04155  0.03549  0.04780  807
+1  eltiempo|todos|doc  1990  T01 Empresas y comercio exterior  0.04471  0.03831  0.05157  807
+2  eltiempo|todos|doc  1990    T02 Conflicto armado: combates  0.08047  0.07009  0.09145  807
+
+### results/08/resumen_08.json
+
+### results/08/robustez_cambios.csv  (6 filas leídas)
+año                          int64
+todos_doc                     bool
+sin_breves_doc                bool
+todos_mes                     bool
+sin_breves_mes                bool
+soporte                    float64
+v:semilla 0                   bool
+v:semilla 2                   bool
+v:K=16                        bool
+v:K=20                        bool
+v:bigramas: C+LB              bool
+v:lista blanca: A             bool
+coincide_formato              bool
+series_formato                 str
+c:semana_todos_doc            bool
+c:semana_sin_breves_mes       bool
+c:dinero_todos_doc            bool
+i:con_residuales              bool
+i:K=10                        bool
+i:K=12                        bool
+i:K=14                        bool
+veredicto                      str
+    año  todos_doc  sin_breves_doc  todos_mes  sin_breves_mes  soporte  v:semilla 0  v:semilla 2  v:K=16  v:K=20  v:bigramas: C+LB  v:lista blanca: A  coincide_formato                           series_formato  c:semana_todos_doc  c:semana_sin_breves_mes  c:dinero_todos_doc  i:con_residuales  i:K=10  i:K=12  i:K=14                      veredicto
+0  1995       True            True       True            True      1.0         True         True    True    True              True               True             False                                      NaN               False                    False               False              True    True    True    True                        robusto
+1  1998       True            True      False            True      1.0         True         True    True    True              True               True             False                                      NaN                True                     True               False              True    True    True    True                     no robusto
+2  2000       True           False       True           False      0.5        False         True    True   False              True              False              True  formato ET: pct_breve, formato ET: l...               False                    False               False             False   False   False   False  artefacto probable de formato
+
+### results/08/theta_documentos.parquet  (91585 filas leídas)
+id                           int64
+fuente                         str
+año                          int64
+mes                          int64
+es_breve                      bool
+es_carta                      bool
+T00                        float64
+T01                        float64
+T02                        float64
+T03                        float64
+T04                        float64
+T05                        float64
+T06                        float64
+T07                        float64
+T08                        float64
+T09                        float64
+T10                        float64
+T11                        float64
+T12                        float64
+T13                        float64
+T14                        float64
+T15                        float64
+T16                        float64
+T17                        float64
+ok                            bool
+topico_dominante             int64
+topico_dominante_agenda      int64
+en_ajuste                     bool
+en_heldout                    bool
+   id            fuente   año  mes  es_breve  es_carta      T00      T01      T02      T03      T04      T05      T06      T07      T08      T09      T10      T11      T12      T13      T14      T15      T16      T17    ok  topico_dominante  topico_dominante_agenda  en_ajuste  en_heldout
+0   0  www.eltiempo.com  2011    7     False     False  0.03572  0.00000  0.61213  0.02878  0.06071  0.00711  0.02328  0.09357  0.00000  0.02679  0.11191  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000  True                 2                        2      False       False
+1   1  www.eltiempo.com  2011    7     False     False  0.00000  0.00000  0.04260  0.14891  0.00000  0.00000  0.00000  0.00000  0.05973  0.09137  0.00000  0.00000  0.00000  0.52552  0.00400  0.08818  0.03969  0.00000  True                13                       13      False        True
+2   2  www.eltiempo.com  2011    7     False     False  0.21893  0.01593  0.00000  0.04481  0.04997  0.00000  0.02835  0.26941  0.00000  0.04052  0.00000  0.03113  0.08917  0.00000  0.08145  0.00000  0.02470  0.10561  True                 7                        7      False       False
+
+### results/08/topicos.csv  (18 filas leídas)
+topico                   str
+top10                    str
+top15                    str
+npmi                 float64
+cv                   float64
+estabilidad          float64
+prev_global          float64
+prev_dinero          float64
+prev_eltiempo        float64
+prev_semana          float64
+residual_sugerido       bool
+motivo                   str
+n_genericos            int64
+ratio_breve          float64
+rho_longitud         float64
+nombre                   str
+residual                bool
+  topico                                    top10                                    top15    npmi      cv  estabilidad  prev_global  prev_dinero  prev_eltiempo  prev_semana  residual_sugerido motivo  n_genericos  ratio_breve  rho_longitud                        nombre  residual
+0    T00  estudiante educación programa educat...  estudiante educación programa educat...  0.2210  0.8432        0.920       0.0418       0.0386         0.0433       0.0259              False    NaN            0        1.157         0.082                     Educación     False
+1    T01  mercado empresa producto venta compa...  mercado empresa producto venta compa...  0.1439  0.7728        0.893       0.0604       0.1715         0.0574       0.0406              False    NaN            1        1.351         0.038  Empresas y comercio exterior     False
+2    T02  militar guerrillero grupo comandante...  militar guerrillero grupo comandante...  0.1308  0.7452        0.954       0.0563       0.0193         0.0571       0.0651              False    NaN            1        1.084         0.044    Conflicto armado: combates     False
+
+### results/08/transiciones.csv  (132 filas leídas)
+año                    int64
+año2                   int64
+n1                     int64
+n2                     int64
+js                   float64
+nulo_media           float64
+nulo_p95             float64
+exceso               float64
+z                    float64
+p                    float64
+p_bh                 float64
+frac_dist_fuentes    float64
+serie                    str
+    año  año2    n1    n2       js  nulo_media  nulo_p95   exceso        z       p    p_bh  frac_dist_fuentes                            serie
+0  1990  1991   807  2355  0.00201     0.00156   0.00263  0.00045  0.77512  0.1968  0.1968            0.01399  eltiempo | estrato fuente×breve
+1  1991  1992  2355  3093  0.00189     0.00074   0.00125  0.00116  4.19641  0.0010  0.0014            0.03634  eltiempo | estrato fuente×breve
+2  1992  1993  3093  3359  0.00154     0.00053   0.00090  0.00100  5.06822  0.0010  0.0014            0.03146  eltiempo | estrato fuente×breve
+
+### results/09/categorias_lexico.csv  (87 filas leídas)
+termino           str
+tipo              str
+año             int64
+año_semana    float64
+categoria         str
+    termino        tipo   año  año_semana  categoria
+0   despeje  neologismo  1996      1998.0  conflicto
+1  uribista  neologismo  2002      2002.0   politica
+2      euro  neologismo  1997      2000.0   economia
+
+### results/09/congelado.json
+
+### results/09/contextos_variantes.csv  (200 filas leídas)
+conjunto    str
+tipo        str
+variante    str
+fuente      str
+periodo     str
+contexto    str
+     conjunto       tipo variante    fuente periodo                                 contexto
+0  solo_tilde  reemplazo     sólo  eltiempo      P1  la guajira sus fiestas que eran cono...
+1  solo_tilde  reemplazo     sólo  eltiempo      P1  pueden cerrar según fuentes chechena...
+2  solo_tilde  reemplazo     sólo  eltiempo      P1  dirección a lo que se negó alegando ...
+
+### results/09/cruces_variantes.csv  (130 filas leídas)
+conjunto                    str
+categoria                   str
+tipo                        str
+serie                       str
+vieja                       str
+nueva                       str
+cruce                   float64
+estado                      str
+lo                      float64
+hi                      float64
+frac_reps_con_cruce     float64
+cerca_formato            object
+años_validos                str
+cambios                     str
+fuerza                      str
+cambio_cerca_formato     object
+     conjunto    categoria       tipo           serie vieja nueva  cruce                     estado  lo  hi  frac_reps_con_cruce cerca_formato    años_validos cambios  fuerza cambio_cerca_formato
+0  solo_tilde  ortografica  reemplazo   eltiempo_base  sólo  solo    NaN  nueva_domina_desde_inicio NaN NaN                  0.0         False  1990–2011 (22)      []      []                False
+1  solo_tilde  ortografica  reemplazo  eltiempo_todos  sólo  solo    NaN  nueva_domina_desde_inicio NaN NaN                  0.0         False  1990–2011 (22)      []      []                False
+2  solo_tilde  ortografica  reemplazo     semana_base  sólo  solo    NaN                  sin_cruce NaN NaN                  0.0         False  1980–2011 (31)  [2010]  [1.43]                False
+
+### results/09/desplazamiento_semantico.csv  (200 filas leídas)
+palabra               str
+transicion            str
+d_entre           float64
+d_entre_p05       float64
+d_dentro          float64
+d_dentro_p95      float64
+efecto            float64
+razon             float64
+cuenta               bool
+log_f             float64
+dlog_f            float64
+efecto_resid      float64
+decil_f           float64
+propio               bool
+d_local_entre     float64
+d_local_dentro    float64
+efecto_local      float64
+variante              str
+      palabra transicion   d_entre  d_entre_p05  d_dentro  d_dentro_p95    efecto     razon  cuenta     log_f    dlog_f  efecto_resid  decil_f  propio  d_local_entre  d_local_dentro  efecto_local variante
+0  abandonado      P1→P2  0.249946     0.233177  0.058040      0.077535  0.191905  4.306401    True  1.629411  0.066355     -0.013862      3.0   False       0.027853        0.000401      0.027452     base
+1   abandonar      P1→P2  0.352925     0.314854  0.139383      0.174907  0.213542  2.532047    True  2.359095  0.086483      0.059054      8.0   False       0.025583        0.001898      0.023686     base
+2    abandono      P1→P2  0.346570     0.309749  0.079491      0.097686  0.267079  4.359875    True  1.734853  0.155385      0.067202      4.0   False       0.012587        0.000551      0.012036     base
+
+### results/09/desplazamiento_semantico_bootstrap.csv  (200 filas leídas)
+palabra               str
+transicion            str
+d_entre           float64
+d_entre_p05       float64
+d_dentro          float64
+d_dentro_p95      float64
+efecto            float64
+razon             float64
+cuenta               bool
+log_f             float64
+dlog_f            float64
+efecto_resid      float64
+decil_f           float64
+propio               bool
+d_local_entre     float64
+d_local_dentro    float64
+efecto_local      float64
+variante              str
+     palabra transicion   d_entre  d_entre_p05  d_dentro  d_dentro_p95    efecto     razon  cuenta     log_f    dlog_f  efecto_resid  decil_f  propio  d_local_entre  d_local_dentro  efecto_local variante
+0  abandonar      P1→P2  0.463516     0.372062  0.369127      0.463338  0.094390  1.255711   False  2.359095  0.086483     -0.004906      2.0   False       0.055649        0.036086      0.019562     base
+1    abierto      P1→P2  0.439613     0.354224  0.360161      0.436315  0.079452  1.220600   False  2.521593  0.226591     -0.013391      5.0   False       0.070930        0.049151      0.021778     base
+2    abogado      P1→P2  0.409731     0.322168  0.315642      0.443476  0.094089  1.298087   False  2.467344  0.082928      0.000732      4.0   False       0.030640        0.019170      0.011471     base
+
+### results/09/diagnostico_codificacion.csv  (71 filas leídas)
+fuente                         str
+año                          int64
+pct_sin_tilde              float64
+n_total                      int64
+pct_ü                      float64
+pct_u                      float64
+pct_eliminada              float64
+pct_tilde                  float64
+pct_dieresis_por_millon    float64
+   fuente   año  pct_sin_tilde  n_total  pct_ü  pct_u  pct_eliminada  pct_tilde  pct_dieresis_por_millon
+0  dinero  1993            0.0        0    NaN    NaN            NaN  10.577171                 0.000000
+1  dinero  1994            0.0        0    NaN    NaN            NaN   9.344256               160.623218
+2  dinero  1995            0.0        0    NaN    NaN            NaN   9.613557                31.675641
+
+### results/09/dispersion.csv  (200 filas leídas)
+termino             str
+n                 int64
+df                int64
+dp              float64
+dp_norm         float64
+pmw             float64
+zipf            float64
+df_por_mil      float64
+contenido          bool
+frac_entidad    float64
+propio             bool
+  termino     n    df        dp   dp_norm         pmw      zipf  df_por_mil  contenido  frac_entidad  propio
+0       0  5341  1721  0.962204  0.962207  217.217777  5.336895   33.858624      False      0.014218   False
+1    0,00    38     3  0.999897  0.999901    1.545455  3.189056    0.059021      False      0.000000   False
+2    0,01    11    10  0.999797  0.999800    0.447369  2.650665    0.196738      False      0.000000   False
+
+### results/09/fig_denominador.png
+
+### results/09/fig_desplazamiento_bootstrap_vs_frecuencia.png
+
+### results/09/fig_desplazamiento_vs_frecuencia.png
+
+### results/09/fig_diagnostico_codificacion.png
+
+### results/09/fig_ic_poisson_bootstrap.png
+
+### results/09/fig_paz_lexica.png
+
+### results/09/fig_piso_zipf.png
+
+### results/09/fig_variantes_cuotas.png
+
+### results/09/fig_wordfreq.png
+
+### results/09/fig_zipf_vs_dp.png
+
+### results/09/js_mezcla_fija.csv  (4 filas leídas)
+par                   str
+js_real           float64
+js_mezcla_fija    float64
+frac_que_queda    float64
+     par   js_real  js_mezcla_fija  frac_que_queda
+0  P1-P4  0.050964        0.045925        0.901132
+1  P1-P2  0.035204        0.031245        0.887545
+2  P2-P3  0.029800        0.028689        0.962719
+
+### results/09/logodds_por_topico.csv  (200 filas leídas)
+topico         str
+nombre         str
+par            str
+lado           str
+rango        int64
+termino        str
+z          float64
+n_i          int64
+n_j          int64
+  topico           nombre    par lado  rango    termino          z  n_i  n_j
+0  TODOS  sin condicionar  P1-P4   P1      1    liberal  19.292518  958  862
+1  TODOS  sin condicionar  P1-P4   P1      2  inflación  19.105615  619  407
+2  TODOS  sin condicionar  P1-P4   P1      3   apertura  18.187181  635  466
+
+### results/09/neologismos.csv  (200 filas leídas)
+termino                         str
+año                           int64
+pmw_mediana_lado_ausente    float64
+pmw_mediana_lado_uso        float64
+pmw_max                     float64
+umbral                      float64
+tipo                            str
+entidad                        bool
+año_semana                  float64
+  termino   año  pmw_mediana_lado_ausente  pmw_mediana_lado_uso    pmw_max  umbral        tipo  entidad  año_semana
+0   abbas  2003                       0.0              8.029549  29.991891     2.0  neologismo     True         NaN
+1  abdalá  1996                       0.0              2.096935  11.955278     2.0  neologismo     True         NaN
+2     abs  2001                       0.0              2.901658   8.156304     2.0  neologismo     True         NaN
+
+### results/09/paz_lexica.csv  (200 filas leídas)
+serie             str
+año             int64
+termino           str
+n               int64
+docs            int64
+tokens          int64
+pmw           float64
+lo            float64
+hi            float64
+df_por_mil    float64
+           serie   año         termino    n  docs  tokens         pmw          lo          hi  df_por_mil
+0  eltiempo_base  1990             paz  120   528  260997  459.775400  330.338722  629.031842  111.742424
+1  eltiempo_base  1990  proceso de paz   15   528  260997   57.471925   22.356137  100.184752   18.939394
+2  eltiempo_base  1990         diálogo   39   528  260997  149.427005   93.938833  211.509969   58.712121
+
+### results/09/pmw_zipf.parquet  (1314105 filas leídas)
+n                 int64
+termino             str
+N_grupo         float64
+pmw             float64
+zipf            float64
+zipf_laplace    float64
+grupo_chico        bool
+banda               str
+fuente              str
+año               int64
+   n         termino  N_grupo  pmw  zipf  zipf_laplace  grupo_chico     banda  fuente   año
+0  1    reevaluación   7670.0  NaN   NaN      4.098414         True  sin_dato  dinero  1993
+1  1  manufacturados   7670.0  NaN   NaN      4.098414         True  sin_dato  dinero  1993
+2  1        perdemos   7670.0  NaN   NaN      4.098414         True  sin_dato  dinero  1993
+
+### results/09/reemplazos_candidatos.csv  (200 filas leídas)
+cae                     str
+candidato               str
+n_semillas            int64
+sim_media           float64
+pmw_cae_antes       float64
+pmw_cae_despues     float64
+pmw_cand_antes      float64
+pmw_cand_despues    float64
+transicion              str
+ctx_cae                 str
+ctx_candidato           str
+              cae candidato  n_semillas  sim_media  pmw_cae_antes  pmw_cae_despues  pmw_cand_antes  pmw_cand_despues transicion                                  ctx_cae                            ctx_candidato
+0  preclasificado  lanzador           5   0.755285      20.163703         6.503223       16.261051         40.970307      P1→P2  partido enfrentar final torneo abier...  off jugador dominicano escoger valio...
+1          estufa  cilindro           5   0.752790      22.765471         3.901934        8.455747         24.061926      P1→P2  maravilla mosimann exquisito comida ...  liviano constituido propano butano c...
+2          tóxico  cilindro           5   0.695883      33.172544        15.607736        8.455747         24.061926      P1→P2  onda greenpeace reposar zona franca ...  liviano constituido propano butano c...
+
+### results/09/resumen_09.json
+
+### results/09/tildes_pmw.csv  (106 filas leídas)
+serie          str
+año          int64
+termino        str
+pmw        float64
+lo         float64
+hi         float64
+           serie   año            termino         pmw          lo          hi
+0  eltiempo_base  1990  éste/ésta (tilde)  111.112388   70.983698  159.780040
+1  eltiempo_base  1990       sólo (tilde)  229.887700  165.745337  303.165058
+2  eltiempo_base  1991  éste/ésta (tilde)  117.729172   88.717054  148.611982
+
+### results/09/variantes_cuotas.csv  (200 filas leídas)
+año             int64
+n_docs        float64
+n_docs_con    float64
+n_conjunto      int64
+variante          str
+n             float64
+cuota         float64
+lo            float64
+hi            float64
+suficiente     object
+conjunto          str
+serie             str
+categoria         str
+tipo              str
+    año  n_docs  n_docs_con  n_conjunto variante       n     cuota        lo        hi suficiente    conjunto          serie    categoria       tipo
+0  2009  4421.0      1396.0        2057     sólo   827.0  0.402042  0.375286  0.427026       True  solo_tilde  eltiempo_base  ortografica  reemplazo
+1  2009  4421.0      1396.0        2057     solo  1230.0  0.597958  0.572974  0.624714       True  solo_tilde  eltiempo_base  ortografica  reemplazo
+2  2008  4130.0      1245.0        1906     sólo   409.0  0.214586  0.190951  0.238487       True  solo_tilde  eltiempo_base  ortografica  reemplazo
+
+### results/09/vecinos_por_periodo.csv  (200 filas leídas)
+palabra           str
+origen            str
+periodo           str
+rango           int64
+vecino            str
+n_semillas      int64
+sim           float64
+nota          float64
+  palabra   origen periodo  rango           vecino  n_semillas       sim  nota
+0     paz  semilla      P1      1   reconciliación           5  0.748758   NaN
+1     paz  semilla      P1      2         tlaxcala           5  0.727197   NaN
+2     paz  semilla      P1      3  desmovilización           5  0.707997   NaN
+
+### results/09/vecinos_por_periodo_bootstrap.csv  (200 filas leídas)
+palabra           str
+origen            str
+periodo           str
+rango         float64
+vecino            str
+n_semillas      int64
+sim           float64
+nota              str
+  palabra   origen periodo  rango           vecino  n_semillas       sim nota
+0     paz  semilla      P1    1.0  desmovilización           5  0.664074  NaN
+1     paz  semilla      P1    2.0   reconciliación           4  0.681428  NaN
+2     paz  semilla      P1    3.0         tlaxcala           4  0.680642  NaN

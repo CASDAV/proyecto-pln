@@ -1,0 +1,18 @@
+topico,nombre,macro,cluster_theta
+T00,Educación,Sociedad,5
+T01,Empresas y comercio exterior,Economía,7
+T02,Conflicto armado: combates,Conflicto y justicia,2
+T03,Tecnología y telecomunicaciones,"Ciudad, territorio y tecnología",7
+T04,Gobierno municipal y departamental,Política e instituciones,6
+T05,Deporte: torneos individuales,Cultura y deporte,1
+T06,Macroeconomía,Economía,7
+T07,Familia salud y vida cotidiana,Sociedad,4
+T08,Relaciones internacionales,Internacional,2
+T09,Justicia y procesos judiciales,Conflicto y justicia,2
+T11,Cultura y espectáculos,Cultura y deporte,4
+T12,Movilidad urbana,"Ciudad, territorio y tecnología",6
+T13,Elecciones y partidos,Política e instituciones,3
+T14,Sistema financiero,Economía,7
+T15,Fútbol,Cultura y deporte,1
+T16,Legislación y reformas,Política e instituciones,7
+T17,Agua tierra e infraestructura,"Ciudad, territorio y tecnología",6

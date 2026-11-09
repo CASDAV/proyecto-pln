@@ -1,0 +1,698 @@
+{
+  "hash": "5453a02c37c0d0fc",
+  "fecha": "2026-11-08 23:30",
+  "config": {
+    "fast": false,
+    "seed": 42,
+    "principal": "www.eltiempo.com",
+    "contraste": "www.semana.com",
+    "et_desde": 1990,
+    "año_min": 1980,
+    "año_max": 2011,
+    "periodos": [
+      [
+        "P1",
+        1990,
+        1994
+      ],
+      [
+        "P2",
+        1995,
+        1999
+      ],
+      [
+        "P3",
+        2000,
+        2005
+      ],
+      [
+        "P4",
+        2006,
+        2011
+      ]
+    ],
+    "año_formato": 2006,
+    "bandas": [
+      3.0,
+      4.0
+    ],
+    "min_tokens_grupo": 20000,
+    "min_df_formas": 2,
+    "min_total_export": 20,
+    "b_boot": 1000,
+    "hw_rel_max": 0.5,
+    "umbral_propio": 0.5,
+    "n_terminos_demo": 3000,
+    "min_ocurr_año": 20,
+    "cruce_años": 3,
+    "ventana_kwic": 8,
+    "n_contextos": 3,
+    "b_binseg": 200,
+    "q_binseg": 0.95,
+    "min_seg": 2,
+    "cap_peso": 3000,
+    "w2v_dim": 100,
+    "w2v_ventana": 5,
+    "w2v_epocas": 10,
+    "w2v_neg": 5,
+    "w2v_sample": 0.0001,
+    "w2v_min_count": 10,
+    "w2v_semillas": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "w2v_workers": 6,
+    "umbrales_vocab": [
+      20,
+      50,
+      100,
+      200
+    ],
+    "frac_ruido_vocab": 0.5,
+    "q_sep": 0.05,
+    "k_vecinos": 25,
+    "k_mostrar": 10,
+    "min_semillas_vecino": 3,
+    "log2_caida": -1.0,
+    "log2_subida": 1.0,
+    "min_pmw_reemplazo": 5.0,
+    "umbral_neo": 5.0,
+    "umbrales_neo_sens": [
+      2.0,
+      5.0,
+      10.0
+    ],
+    "ventana_neo": 5,
+    "min_en_ventana": 4,
+    "frac_previos": 0.25,
+    "min_previos": 3,
+    "theta_min": 0.4,
+    "a0": 500.0,
+    "min_total_logodds": 20,
+    "top_logodds": 15,
+    "topicos_foco": [
+      "T02",
+      "T03",
+      "T07"
+    ]
+  },
+  "variantes": {
+    "solo_tilde": {
+      "categoria": "ortografica",
+      "tipo": "reemplazo",
+      "cruce": [
+        "sólo",
+        "solo"
+      ],
+      "variantes": {
+        "sólo": [
+          "sólo"
+        ],
+        "solo": [
+          "solo"
+        ]
+      }
+    },
+    "guion": {
+      "categoria": "ortografica",
+      "tipo": "reemplazo",
+      "cruce": [
+        "guión",
+        "guion"
+      ],
+      "variantes": {
+        "guión": [
+          "guión"
+        ],
+        "guion": [
+          "guion"
+        ]
+      }
+    },
+    "periodo": {
+      "categoria": "ortografica",
+      "tipo": "reemplazo",
+      "cruce": [
+        "período",
+        "periodo"
+      ],
+      "variantes": {
+        "período": [
+          "período",
+          "períodos"
+        ],
+        "periodo": [
+          "periodo",
+          "periodos"
+        ]
+      }
+    },
+    "pekin": {
+      "categoria": "ortografica",
+      "tipo": "reemplazo",
+      "cruce": [
+        "pekín",
+        "beijing"
+      ],
+      "variantes": {
+        "pekín": [
+          "pekín",
+          "pekin"
+        ],
+        "beijing": [
+          "beijing"
+        ]
+      }
+    },
+    "irak": {
+      "categoria": "ortografica",
+      "tipo": "reemplazo",
+      "cruce": [
+        "irak",
+        "iraq"
+      ],
+      "variantes": {
+        "irak": [
+          "irak"
+        ],
+        "iraq": [
+          "iraq"
+        ]
+      }
+    },
+    "santafe": {
+      "categoria": "toponimia",
+      "tipo": "reemplazo",
+      "cruce": null,
+      "variantes": {
+        "santafé de bogotá": [
+          "santafé de bogotá",
+          "santa fe de bogotá",
+          "santafe de bogotá",
+          "santa fé de bogotá",
+          "santafé de bogota",
+          "santa fe de bogota"
+        ],
+        "bogotá": [
+          "bogotá",
+          "bogota"
+        ]
+      }
+    },
+    "distrito": {
+      "categoria": "toponimia",
+      "tipo": "reemplazo",
+      "cruce": [
+        "distrito especial",
+        "distrito capital"
+      ],
+      "variantes": {
+        "distrito especial": [
+          "distrito especial"
+        ],
+        "distrito capital": [
+          "distrito capital"
+        ]
+      }
+    },
+    "upac_uvr": {
+      "categoria": "institucional",
+      "tipo": "reemplazo",
+      "cruce": [
+        "upac",
+        "uvr"
+      ],
+      "variantes": {
+        "upac": [
+          "upac"
+        ],
+        "uvr": [
+          "uvr"
+        ]
+      }
+    },
+    "computador": {
+      "categoria": "tecnologia",
+      "tipo": "reemplazo",
+      "cruce": null,
+      "variantes": {
+        "computador": [
+          "computador",
+          "computadores"
+        ],
+        "computadora": [
+          "computadora",
+          "computadoras"
+        ],
+        "ordenador": [
+          "ordenador",
+          "ordenadores"
+        ],
+        "pc": [
+          "pc",
+          "pcs"
+        ]
+      }
+    },
+    "celular": {
+      "categoria": "tecnologia",
+      "tipo": "reemplazo",
+      "cruce": null,
+      "variantes": {
+        "celular": [
+          "celular",
+          "celulares",
+          "teléfono celular",
+          "teléfonos celulares",
+          "telefonía celular"
+        ],
+        "móvil": [
+          "teléfono móvil",
+          "teléfonos móviles",
+          "telefonía móvil"
+        ]
+      }
+    },
+    "correo": {
+      "categoria": "tecnologia",
+      "tipo": "reemplazo",
+      "cruce": null,
+      "variantes": {
+        "correo electrónico": [
+          "correo electrónico",
+          "correos electrónicos",
+          "correo electronico"
+        ],
+        "e-mail": [
+          "e-mail",
+          "e mail",
+          "e-mails",
+          "e mails"
+        ],
+        "email": [
+          "email",
+          "emails"
+        ]
+      }
+    },
+    "gentilicio_eeuu": {
+      "categoria": "gentilicio",
+      "tipo": "reemplazo",
+      "cruce": [
+        "norteamericano",
+        "estadounidense"
+      ],
+      "variantes": {
+        "norteamericano": [
+          "norteamericano",
+          "norteamericana",
+          "norteamericanos",
+          "norteamericanas"
+        ],
+        "estadounidense": [
+          "estadounidense",
+          "estadounidenses"
+        ]
+      }
+    },
+    "sida_vih": {
+      "categoria": "salud",
+      "tipo": "referente_cercano",
+      "cruce": [
+        "sida",
+        "vih"
+      ],
+      "variantes": {
+        "sida": [
+          "sida"
+        ],
+        "vih": [
+          "vih"
+        ]
+      }
+    },
+    "tercera_edad": {
+      "categoria": "grupos",
+      "tipo": "reemplazo",
+      "cruce": [
+        "tercera edad",
+        "adulto mayor"
+      ],
+      "variantes": {
+        "tercera edad": [
+          "tercera edad"
+        ],
+        "adulto mayor": [
+          "adulto mayor",
+          "adultos mayores",
+          "adulta mayor",
+          "adultas mayores"
+        ]
+      }
+    },
+    "discapacidad": {
+      "categoria": "grupos",
+      "tipo": "reemplazo",
+      "cruce": [
+        "minusválido",
+        "discapacitado"
+      ],
+      "variantes": {
+        "minusválido": [
+          "minusválido",
+          "minusválida",
+          "minusválidos",
+          "minusválidas",
+          "minusvalía"
+        ],
+        "discapacitado": [
+          "discapacitado",
+          "discapacitada",
+          "discapacitados",
+          "discapacitadas"
+        ],
+        "persona con discapacidad": [
+          "persona con discapacidad",
+          "personas con discapacidad",
+          "población con discapacidad",
+          "situación de discapacidad"
+        ]
+      }
+    },
+    "afro": {
+      "categoria": "grupos",
+      "tipo": "reemplazo",
+      "cruce": [
+        "negritudes",
+        "afrocolombiano"
+      ],
+      "variantes": {
+        "negritudes": [
+          "negritudes",
+          "negritud",
+          "comunidades negras",
+          "comunidad negra",
+          "población negra"
+        ],
+        "afrocolombiano": [
+          "afrocolombiano",
+          "afrocolombiana",
+          "afrocolombianos",
+          "afrocolombianas"
+        ],
+        "afrodescendiente": [
+          "afrodescendiente",
+          "afrodescendientes"
+        ]
+      }
+    },
+    "indigena": {
+      "categoria": "grupos",
+      "tipo": "reemplazo",
+      "cruce": [
+        "indio",
+        "indígena"
+      ],
+      "variantes": {
+        "indio": [
+          "indio",
+          "indios"
+        ],
+        "indígena": [
+          "indígena",
+          "indígenas"
+        ],
+        "aborigen": [
+          "aborigen",
+          "aborígenes"
+        ]
+      }
+    },
+    "diversidad_sexual": {
+      "categoria": "grupos",
+      "tipo": "reemplazo",
+      "cruce": null,
+      "variantes": {
+        "homosexual": [
+          "homosexual",
+          "homosexuales",
+          "homosexualidad"
+        ],
+        "gay": [
+          "gay",
+          "gays"
+        ],
+        "lgbt": [
+          "lgbt",
+          "lgbti",
+          "lgtb",
+          "lgbtiq",
+          "lgbtq"
+        ]
+      }
+    },
+    "insurgencia": {
+      "categoria": "conflicto",
+      "tipo": "marco",
+      "cruce": null,
+      "variantes": {
+        "subversión": [
+          "subversión",
+          "subversivo",
+          "subversiva",
+          "subversivos",
+          "subversivas"
+        ],
+        "insurgencia": [
+          "insurgencia",
+          "insurgente",
+          "insurgentes"
+        ],
+        "terroristas": [
+          "terrorista",
+          "terroristas"
+        ],
+        "grupos armados ilegales": [
+          "grupo armado ilegal",
+          "grupos armados ilegales",
+          "grupo armado al margen de la ley",
+          "grupos armados al margen de la ley"
+        ]
+      }
+    },
+    "paramilitares": {
+      "categoria": "conflicto",
+      "tipo": "marco",
+      "cruce": null,
+      "variantes": {
+        "autodefensas": [
+          "autodefensa",
+          "autodefensas"
+        ],
+        "paramilitares": [
+          "paramilitar",
+          "paramilitares",
+          "paramilitarismo"
+        ],
+        "bacrim": [
+          "bacrim",
+          "banda criminal",
+          "bandas criminales",
+          "bandas emergentes"
+        ]
+      }
+    },
+    "reinsertados": {
+      "categoria": "conflicto",
+      "tipo": "marco",
+      "cruce": [
+        "reinsertado",
+        "desmovilizado"
+      ],
+      "variantes": {
+        "reinsertado": [
+          "reinsertado",
+          "reinsertada",
+          "reinsertados",
+          "reinsertadas",
+          "reinserción"
+        ],
+        "desmovilizado": [
+          "desmovilizado",
+          "desmovilizada",
+          "desmovilizados",
+          "desmovilizadas",
+          "desmovilización"
+        ]
+      }
+    },
+    "secuestro": {
+      "categoria": "conflicto",
+      "tipo": "marco",
+      "cruce": null,
+      "variantes": {
+        "secuestrado": [
+          "secuestrado",
+          "secuestrada",
+          "secuestrados",
+          "secuestradas",
+          "secuestro",
+          "secuestros"
+        ],
+        "retenido": [
+          "retenido",
+          "retenida",
+          "retenidos",
+          "retenidas"
+        ]
+      }
+    },
+    "falsos_positivos": {
+      "categoria": "conflicto",
+      "tipo": "marco",
+      "cruce": null,
+      "variantes": {
+        "ejecuciones extrajudiciales": [
+          "ejecución extrajudicial",
+          "ejecuciones extrajudiciales"
+        ],
+        "falsos positivos": [
+          "falso positivo",
+          "falsos positivos"
+        ]
+      }
+    },
+    "conflicto_marco": {
+      "categoria": "conflicto",
+      "tipo": "marco",
+      "cruce": null,
+      "variantes": {
+        "conflicto armado": [
+          "conflicto armado",
+          "conflicto armado interno"
+        ],
+        "amenaza terrorista": [
+          "amenaza terrorista"
+        ]
+      }
+    },
+    "canje": {
+      "categoria": "conflicto",
+      "tipo": "marco",
+      "cruce": null,
+      "variantes": {
+        "canje": [
+          "canje"
+        ],
+        "acuerdo humanitario": [
+          "acuerdo humanitario"
+        ],
+        "intercambio humanitario": [
+          "intercambio humanitario"
+        ]
+      }
+    },
+    "paz_denominacion": {
+      "categoria": "paz",
+      "tipo": "marco",
+      "cruce": null,
+      "variantes": {
+        "proceso de paz": [
+          "proceso de paz",
+          "procesos de paz"
+        ],
+        "diálogos de paz": [
+          "diálogo de paz",
+          "diálogos de paz"
+        ],
+        "negociaciones de paz": [
+          "negociación de paz",
+          "negociaciones de paz"
+        ],
+        "conversaciones de paz": [
+          "conversaciones de paz"
+        ],
+        "acuerdo de paz": [
+          "acuerdo de paz",
+          "acuerdos de paz"
+        ]
+      }
+    }
+  },
+  "este_tilde": [
+    "éste",
+    "ésta",
+    "éstos",
+    "éstas"
+  ],
+  "semillas_sem": [
+    "paz",
+    "violencia",
+    "guerrilla",
+    "víctima",
+    "desplazado",
+    "terrorismo",
+    "seguridad",
+    "corrupción",
+    "red",
+    "celular",
+    "verde",
+    "ambiente",
+    "diálogo",
+    "negociación",
+    "acuerdo_paz"
+  ],
+  "terminos_paz": {
+    "paz": [
+      "paz"
+    ],
+    "proceso de paz": [
+      "proceso de paz",
+      "procesos de paz"
+    ],
+    "diálogo": [
+      "diálogo",
+      "diálogos",
+      "dialogo",
+      "dialogos"
+    ],
+    "negociación": [
+      "negociación",
+      "negociaciones",
+      "negociacion"
+    ],
+    "acuerdo de paz": [
+      "acuerdo de paz",
+      "acuerdos de paz"
+    ],
+    "zona de distensión": [
+      "zona de distensión",
+      "zona de despeje",
+      "zona desmilitarizada"
+    ],
+    "acuerdo humanitario": [
+      "acuerdo humanitario",
+      "intercambio humanitario"
+    ],
+    "desmovilización": [
+      "desmovilización",
+      "desmovilizaciones"
+    ],
+    "reconciliación": [
+      "reconciliación"
+    ],
+    "posconflicto": [
+      "posconflicto",
+      "postconflicto"
+    ]
+  },
+  "series": {
+    "eltiempo_base": "El Tiempo 1990–2011, sin breves ni cartas (serie principal)",
+    "eltiempo_todos": "El Tiempo 1990–2011, todo (sensibilidad con breves)",
+    "semana_base": "Semana, sin breves ni cartas (contraste largo)",
+    "dinero_base": "Dinero, sin breves ni cartas (solo donde hay N)"
+  }
+}

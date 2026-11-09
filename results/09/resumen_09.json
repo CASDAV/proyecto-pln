@@ -1,0 +1,1072 @@
+{
+  "hash_congelado": "5453a02c37c0d0fc",
+  "fast": false,
+  "config": {
+    "fast": false,
+    "seed": 42,
+    "principal": "www.eltiempo.com",
+    "contraste": "www.semana.com",
+    "et_desde": 1990,
+    "año_min": 1980,
+    "año_max": 2011,
+    "periodos": [
+      [
+        "P1",
+        1990,
+        1994
+      ],
+      [
+        "P2",
+        1995,
+        1999
+      ],
+      [
+        "P3",
+        2000,
+        2005
+      ],
+      [
+        "P4",
+        2006,
+        2011
+      ]
+    ],
+    "año_formato": 2006,
+    "bandas": [
+      3.0,
+      4.0
+    ],
+    "min_tokens_grupo": 20000,
+    "min_df_formas": 2,
+    "min_total_export": 20,
+    "b_boot": 1000,
+    "hw_rel_max": 0.5,
+    "umbral_propio": 0.5,
+    "n_terminos_demo": 3000,
+    "min_ocurr_año": 20,
+    "cruce_años": 3,
+    "ventana_kwic": 8,
+    "n_contextos": 3,
+    "b_binseg": 200,
+    "q_binseg": 0.95,
+    "min_seg": 2,
+    "cap_peso": 3000,
+    "w2v_dim": 100,
+    "w2v_ventana": 5,
+    "w2v_epocas": 10,
+    "w2v_neg": 5,
+    "w2v_sample": 0.0001,
+    "w2v_min_count": 10,
+    "w2v_semillas": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "w2v_workers": 6,
+    "umbrales_vocab": [
+      20,
+      50,
+      100,
+      200
+    ],
+    "frac_ruido_vocab": 0.5,
+    "q_sep": 0.05,
+    "k_vecinos": 25,
+    "k_mostrar": 10,
+    "min_semillas_vecino": 3,
+    "log2_caida": -1.0,
+    "log2_subida": 1.0,
+    "min_pmw_reemplazo": 5.0,
+    "umbral_neo": 5.0,
+    "umbrales_neo_sens": [
+      2.0,
+      5.0,
+      10.0
+    ],
+    "ventana_neo": 5,
+    "min_en_ventana": 4,
+    "frac_previos": 0.25,
+    "min_previos": 3,
+    "theta_min": 0.4,
+    "a0": 500.0,
+    "min_total_logodds": 20,
+    "top_logodds": 15,
+    "topicos_foco": [
+      "T02",
+      "T03",
+      "T07"
+    ]
+  },
+  "n_docs": 91585,
+  "series_docs": {
+    "eltiempo_base": 50829,
+    "eltiempo_todos": 81539,
+    "semana_base": 5983,
+    "dinero_base": 3216
+  },
+  "rareza": {
+    "piso_zipf_min_max": {
+      "dinero": [
+        3.57,
+        5.12
+      ],
+      "eltiempo": [
+        2.72,
+        3.58
+      ],
+      "semana": [
+        3.37,
+        4.67
+      ]
+    },
+    "grupos_sin_banda_rara_medible": [
+      "dinero 1993",
+      "dinero 1994",
+      "dinero 1995",
+      "dinero 1997",
+      "dinero 1998",
+      "dinero 1999",
+      "dinero 2000",
+      "dinero 2001",
+      "dinero 2002",
+      "dinero 2003",
+      "dinero 2004",
+      "dinero 2005",
+      "dinero 2006",
+      "dinero 2007",
+      "dinero 2008",
+      "dinero 2009",
+      "dinero 2010",
+      "dinero 2011",
+      "eltiempo 1990",
+      "eltiempo 1991",
+      "eltiempo 1992",
+      "eltiempo 1993",
+      "eltiempo 1999",
+      "eltiempo 2001",
+      "eltiempo 2002",
+      "eltiempo 2003",
+      "eltiempo 2005",
+      "eltiempo 2006",
+      "semana 1980",
+      "semana 1982",
+      "semana 1983",
+      "semana 1984",
+      "semana 1985",
+      "semana 1986",
+      "semana 1987",
+      "semana 1988",
+      "semana 1989",
+      "semana 1990",
+      "semana 1991",
+      "semana 1992",
+      "semana 1993",
+      "semana 1994",
+      "semana 1995",
+      "semana 1996",
+      "semana 1997",
+      "semana 1998",
+      "semana 1999",
+      "semana 2000",
+      "semana 2001",
+      "semana 2002",
+      "semana 2003",
+      "semana 2004",
+      "semana 2005",
+      "semana 2006",
+      "semana 2007",
+      "semana 2008",
+      "semana 2009",
+      "semana 2010",
+      "semana 2011"
+    ],
+    "conteo_minimo_eltiempo": 20,
+    "cociente_ic_boot_poisson_mediana": 1.0366615497649092,
+    "cociente_ic_boot_poisson_mediana_n10": 1.251582366835636,
+    "spearman_cociente_dp": -0.3445079517161733,
+    "spearman_pmw_dfpormil": 0.969988661018087,
+    "desplazamiento_zipf_denominador": {
+      "dinero": {
+        "min": 0.382,
+        "max": 0.408
+      },
+      "eltiempo": {
+        "min": 0.386,
+        "max": 0.404
+      },
+      "semana": {
+        "min": 0.393,
+        "max": 0.419
+      }
+    },
+    "frac_propias_top200": 0.15
+  },
+  "variantes": [
+    {
+      "conjunto": "solo_tilde",
+      "tipo": "reemplazo",
+      "estado": "nueva_domina_desde_inicio",
+      "cruce": NaN,
+      "lo": NaN,
+      "hi": NaN,
+      "cerca_formato": false,
+      "cambios": []
+    },
+    {
+      "conjunto": "guion",
+      "tipo": "reemplazo",
+      "estado": "sin_cruce",
+      "cruce": NaN,
+      "lo": NaN,
+      "hi": NaN,
+      "cerca_formato": false,
+      "cambios": []
+    },
+    {
+      "conjunto": "periodo",
+      "tipo": "reemplazo",
+      "estado": "cruce",
+      "cruce": 2009.0,
+      "lo": 2006.2,
+      "hi": 2009.0,
+      "cerca_formato": false,
+      "cambios": [
+        1994,
+        1999,
+        2006
+      ]
+    },
+    {
+      "conjunto": "pekin",
+      "tipo": "reemplazo",
+      "estado": "sin_cruce",
+      "cruce": NaN,
+      "lo": NaN,
+      "hi": NaN,
+      "cerca_formato": false,
+      "cambios": []
+    },
+    {
+      "conjunto": "irak",
+      "tipo": "reemplazo",
+      "estado": "sin_cruce",
+      "cruce": NaN,
+      "lo": NaN,
+      "hi": NaN,
+      "cerca_formato": false,
+      "cambios": []
+    },
+    {
+      "conjunto": "santafe",
+      "tipo": "reemplazo",
+      "estado": "sin_hipotesis_de_cruce",
+      "cruce": NaN,
+      "lo": NaN,
+      "hi": NaN,
+      "cerca_formato": NaN,
+      "cambios": [
+        2001
+      ]
+    },
+    {
+      "conjunto": "distrito",
+      "tipo": "reemplazo",
+      "estado": "datos_insuficientes",
+      "cruce": NaN,
+      "lo": NaN,
+      "hi": NaN,
+      "cerca_formato": false,
+      "cambios": []
+    },
+    {
+      "conjunto": "upac_uvr",
+      "tipo": "reemplazo",
+      "estado": "sin_cruce",
+      "cruce": NaN,
+      "lo": NaN,
+      "hi": NaN,
+      "cerca_formato": false,
+      "cambios": []
+    },
+    {
+      "conjunto": "computador",
+      "tipo": "reemplazo",
+      "estado": "sin_hipotesis_de_cruce",
+      "cruce": NaN,
+      "lo": NaN,
+      "hi": NaN,
+      "cerca_formato": NaN,
+      "cambios": []
+    },
+    {
+      "conjunto": "celular",
+      "tipo": "reemplazo",
+      "estado": "sin_hipotesis_de_cruce",
+      "cruce": NaN,
+      "lo": NaN,
+      "hi": NaN,
+      "cerca_formato": NaN,
+      "cambios": []
+    },
+    {
+      "conjunto": "correo",
+      "tipo": "reemplazo",
+      "estado": "sin_hipotesis_de_cruce",
+      "cruce": NaN,
+      "lo": NaN,
+      "hi": NaN,
+      "cerca_formato": NaN,
+      "cambios": []
+    },
+    {
+      "conjunto": "gentilicio_eeuu",
+      "tipo": "reemplazo",
+      "estado": "nueva_domina_desde_inicio",
+      "cruce": NaN,
+      "lo": NaN,
+      "hi": NaN,
+      "cerca_formato": false,
+      "cambios": [
+        2002
+      ]
+    },
+    {
+      "conjunto": "sida_vih",
+      "tipo": "referente_cercano",
+      "estado": "sin_cruce",
+      "cruce": NaN,
+      "lo": NaN,
+      "hi": NaN,
+      "cerca_formato": false,
+      "cambios": []
+    },
+    {
+      "conjunto": "tercera_edad",
+      "tipo": "reemplazo",
+      "estado": "cruce",
+      "cruce": 2007.0,
+      "lo": 2007.0,
+      "hi": 2007.0,
+      "cerca_formato": true,
+      "cambios": []
+    },
+    {
+      "conjunto": "discapacidad",
+      "tipo": "reemplazo",
+      "estado": "nueva_domina_desde_inicio",
+      "cruce": NaN,
+      "lo": NaN,
+      "hi": NaN,
+      "cerca_formato": false,
+      "cambios": []
+    },
+    {
+      "conjunto": "afro",
+      "tipo": "reemplazo",
+      "estado": "nueva_domina_desde_inicio",
+      "cruce": NaN,
+      "lo": NaN,
+      "hi": NaN,
+      "cerca_formato": false,
+      "cambios": []
+    },
+    {
+      "conjunto": "indigena",
+      "tipo": "reemplazo",
+      "estado": "nueva_domina_desde_inicio",
+      "cruce": NaN,
+      "lo": NaN,
+      "hi": NaN,
+      "cerca_formato": false,
+      "cambios": []
+    },
+    {
+      "conjunto": "diversidad_sexual",
+      "tipo": "reemplazo",
+      "estado": "sin_hipotesis_de_cruce",
+      "cruce": NaN,
+      "lo": NaN,
+      "hi": NaN,
+      "cerca_formato": NaN,
+      "cambios": [
+        2006
+      ]
+    },
+    {
+      "conjunto": "insurgencia",
+      "tipo": "marco",
+      "estado": "sin_hipotesis_de_cruce",
+      "cruce": NaN,
+      "lo": NaN,
+      "hi": NaN,
+      "cerca_formato": NaN,
+      "cambios": [
+        2001,
+        2004
+      ]
+    },
+    {
+      "conjunto": "paramilitares",
+      "tipo": "marco",
+      "estado": "sin_hipotesis_de_cruce",
+      "cruce": NaN,
+      "lo": NaN,
+      "hi": NaN,
+      "cerca_formato": NaN,
+      "cambios": [
+        2006,
+        2008
+      ]
+    },
+    {
+      "conjunto": "reinsertados",
+      "tipo": "marco",
+      "estado": "cruce",
+      "cruce": 2003.0,
+      "lo": 1992.0,
+      "hi": 2004.0,
+      "cerca_formato": false,
+      "cambios": [
+        2004
+      ]
+    },
+    {
+      "conjunto": "secuestro",
+      "tipo": "marco",
+      "estado": "sin_hipotesis_de_cruce",
+      "cruce": NaN,
+      "lo": NaN,
+      "hi": NaN,
+      "cerca_formato": NaN,
+      "cambios": [
+        2000,
+        2006
+      ]
+    },
+    {
+      "conjunto": "falsos_positivos",
+      "tipo": "marco",
+      "estado": "sin_hipotesis_de_cruce",
+      "cruce": NaN,
+      "lo": NaN,
+      "hi": NaN,
+      "cerca_formato": NaN,
+      "cambios": []
+    },
+    {
+      "conjunto": "conflicto_marco",
+      "tipo": "marco",
+      "estado": "sin_hipotesis_de_cruce",
+      "cruce": NaN,
+      "lo": NaN,
+      "hi": NaN,
+      "cerca_formato": NaN,
+      "cambios": [
+        2003
+      ]
+    },
+    {
+      "conjunto": "canje",
+      "tipo": "marco",
+      "estado": "sin_hipotesis_de_cruce",
+      "cruce": NaN,
+      "lo": NaN,
+      "hi": NaN,
+      "cerca_formato": NaN,
+      "cambios": [
+        2003
+      ]
+    },
+    {
+      "conjunto": "paz_denominacion",
+      "tipo": "marco",
+      "estado": "sin_hipotesis_de_cruce",
+      "cruce": NaN,
+      "lo": NaN,
+      "hi": NaN,
+      "cerca_formato": NaN,
+      "cambios": [
+        1999
+      ]
+    }
+  ],
+  "lectura_controles": [
+    {
+      "conjunto": "afro",
+      "tipo": "reemplazo",
+      "cruce_ET_base": NaN,
+      "con_breves": NaN,
+      "std_topico": NaN,
+      "semana": NaN,
+      "robusto_breves": false,
+      "robusto_topico": false,
+      "semana_concuerda": false,
+      "cerca_2006": false
+    },
+    {
+      "conjunto": "canje",
+      "tipo": "marco",
+      "cruce_ET_base": NaN,
+      "con_breves": NaN,
+      "std_topico": NaN,
+      "semana": NaN,
+      "robusto_breves": false,
+      "robusto_topico": false,
+      "semana_concuerda": false,
+      "cerca_2006": false
+    },
+    {
+      "conjunto": "celular",
+      "tipo": "reemplazo",
+      "cruce_ET_base": NaN,
+      "con_breves": NaN,
+      "std_topico": NaN,
+      "semana": NaN,
+      "robusto_breves": false,
+      "robusto_topico": false,
+      "semana_concuerda": false,
+      "cerca_2006": false
+    },
+    {
+      "conjunto": "computador",
+      "tipo": "reemplazo",
+      "cruce_ET_base": NaN,
+      "con_breves": NaN,
+      "std_topico": NaN,
+      "semana": NaN,
+      "robusto_breves": false,
+      "robusto_topico": false,
+      "semana_concuerda": false,
+      "cerca_2006": false
+    },
+    {
+      "conjunto": "conflicto_marco",
+      "tipo": "marco",
+      "cruce_ET_base": NaN,
+      "con_breves": NaN,
+      "std_topico": NaN,
+      "semana": NaN,
+      "robusto_breves": false,
+      "robusto_topico": false,
+      "semana_concuerda": false,
+      "cerca_2006": false
+    },
+    {
+      "conjunto": "correo",
+      "tipo": "reemplazo",
+      "cruce_ET_base": NaN,
+      "con_breves": NaN,
+      "std_topico": NaN,
+      "semana": NaN,
+      "robusto_breves": false,
+      "robusto_topico": false,
+      "semana_concuerda": false,
+      "cerca_2006": false
+    },
+    {
+      "conjunto": "discapacidad",
+      "tipo": "reemplazo",
+      "cruce_ET_base": NaN,
+      "con_breves": NaN,
+      "std_topico": NaN,
+      "semana": NaN,
+      "robusto_breves": false,
+      "robusto_topico": false,
+      "semana_concuerda": false,
+      "cerca_2006": false
+    },
+    {
+      "conjunto": "distrito",
+      "tipo": "reemplazo",
+      "cruce_ET_base": NaN,
+      "con_breves": NaN,
+      "std_topico": NaN,
+      "semana": NaN,
+      "robusto_breves": false,
+      "robusto_topico": false,
+      "semana_concuerda": false,
+      "cerca_2006": false
+    },
+    {
+      "conjunto": "diversidad_sexual",
+      "tipo": "reemplazo",
+      "cruce_ET_base": NaN,
+      "con_breves": NaN,
+      "std_topico": NaN,
+      "semana": NaN,
+      "robusto_breves": false,
+      "robusto_topico": false,
+      "semana_concuerda": false,
+      "cerca_2006": false
+    },
+    {
+      "conjunto": "falsos_positivos",
+      "tipo": "marco",
+      "cruce_ET_base": NaN,
+      "con_breves": NaN,
+      "std_topico": NaN,
+      "semana": NaN,
+      "robusto_breves": false,
+      "robusto_topico": false,
+      "semana_concuerda": false,
+      "cerca_2006": false
+    },
+    {
+      "conjunto": "gentilicio_eeuu",
+      "tipo": "reemplazo",
+      "cruce_ET_base": NaN,
+      "con_breves": NaN,
+      "std_topico": NaN,
+      "semana": 1994.0,
+      "robusto_breves": false,
+      "robusto_topico": false,
+      "semana_concuerda": false,
+      "cerca_2006": false
+    },
+    {
+      "conjunto": "guion",
+      "tipo": "reemplazo",
+      "cruce_ET_base": NaN,
+      "con_breves": NaN,
+      "std_topico": NaN,
+      "semana": NaN,
+      "robusto_breves": false,
+      "robusto_topico": false,
+      "semana_concuerda": false,
+      "cerca_2006": false
+    },
+    {
+      "conjunto": "indigena",
+      "tipo": "reemplazo",
+      "cruce_ET_base": NaN,
+      "con_breves": NaN,
+      "std_topico": NaN,
+      "semana": NaN,
+      "robusto_breves": false,
+      "robusto_topico": false,
+      "semana_concuerda": false,
+      "cerca_2006": false
+    },
+    {
+      "conjunto": "insurgencia",
+      "tipo": "marco",
+      "cruce_ET_base": NaN,
+      "con_breves": NaN,
+      "std_topico": NaN,
+      "semana": NaN,
+      "robusto_breves": false,
+      "robusto_topico": false,
+      "semana_concuerda": false,
+      "cerca_2006": false
+    },
+    {
+      "conjunto": "irak",
+      "tipo": "reemplazo",
+      "cruce_ET_base": NaN,
+      "con_breves": NaN,
+      "std_topico": NaN,
+      "semana": NaN,
+      "robusto_breves": false,
+      "robusto_topico": false,
+      "semana_concuerda": false,
+      "cerca_2006": false
+    },
+    {
+      "conjunto": "paramilitares",
+      "tipo": "marco",
+      "cruce_ET_base": NaN,
+      "con_breves": NaN,
+      "std_topico": NaN,
+      "semana": NaN,
+      "robusto_breves": false,
+      "robusto_topico": false,
+      "semana_concuerda": false,
+      "cerca_2006": false
+    },
+    {
+      "conjunto": "paz_denominacion",
+      "tipo": "marco",
+      "cruce_ET_base": NaN,
+      "con_breves": NaN,
+      "std_topico": NaN,
+      "semana": NaN,
+      "robusto_breves": false,
+      "robusto_topico": false,
+      "semana_concuerda": false,
+      "cerca_2006": false
+    },
+    {
+      "conjunto": "pekin",
+      "tipo": "reemplazo",
+      "cruce_ET_base": NaN,
+      "con_breves": NaN,
+      "std_topico": NaN,
+      "semana": NaN,
+      "robusto_breves": false,
+      "robusto_topico": false,
+      "semana_concuerda": false,
+      "cerca_2006": false
+    },
+    {
+      "conjunto": "periodo",
+      "tipo": "reemplazo",
+      "cruce_ET_base": 2009.0,
+      "con_breves": 2009.0,
+      "std_topico": 2009.0,
+      "semana": NaN,
+      "robusto_breves": true,
+      "robusto_topico": true,
+      "semana_concuerda": false,
+      "cerca_2006": false
+    },
+    {
+      "conjunto": "reinsertados",
+      "tipo": "marco",
+      "cruce_ET_base": 2003.0,
+      "con_breves": 2003.0,
+      "std_topico": 2003.0,
+      "semana": NaN,
+      "robusto_breves": true,
+      "robusto_topico": true,
+      "semana_concuerda": false,
+      "cerca_2006": false
+    },
+    {
+      "conjunto": "santafe",
+      "tipo": "reemplazo",
+      "cruce_ET_base": NaN,
+      "con_breves": NaN,
+      "std_topico": NaN,
+      "semana": NaN,
+      "robusto_breves": false,
+      "robusto_topico": false,
+      "semana_concuerda": false,
+      "cerca_2006": false
+    },
+    {
+      "conjunto": "secuestro",
+      "tipo": "marco",
+      "cruce_ET_base": NaN,
+      "con_breves": NaN,
+      "std_topico": NaN,
+      "semana": NaN,
+      "robusto_breves": false,
+      "robusto_topico": false,
+      "semana_concuerda": false,
+      "cerca_2006": false
+    },
+    {
+      "conjunto": "sida_vih",
+      "tipo": "referente_cercano",
+      "cruce_ET_base": NaN,
+      "con_breves": NaN,
+      "std_topico": NaN,
+      "semana": NaN,
+      "robusto_breves": false,
+      "robusto_topico": false,
+      "semana_concuerda": false,
+      "cerca_2006": false
+    },
+    {
+      "conjunto": "solo_tilde",
+      "tipo": "reemplazo",
+      "cruce_ET_base": NaN,
+      "con_breves": NaN,
+      "std_topico": NaN,
+      "semana": NaN,
+      "robusto_breves": false,
+      "robusto_topico": false,
+      "semana_concuerda": false,
+      "cerca_2006": false
+    },
+    {
+      "conjunto": "tercera_edad",
+      "tipo": "reemplazo",
+      "cruce_ET_base": 2007.0,
+      "con_breves": 2007.0,
+      "std_topico": 2007.0,
+      "semana": NaN,
+      "robusto_breves": true,
+      "robusto_topico": true,
+      "semana_concuerda": false,
+      "cerca_2006": true
+    },
+    {
+      "conjunto": "upac_uvr",
+      "tipo": "reemplazo",
+      "cruce_ET_base": NaN,
+      "con_breves": NaN,
+      "std_topico": NaN,
+      "semana": NaN,
+      "robusto_breves": false,
+      "robusto_topico": false,
+      "semana_concuerda": false,
+      "cerca_2006": false
+    }
+  ],
+  "semantico": {
+    "umbral_vocab": 20.0,
+    "n_vocab": 6326,
+    "control_frecuencia": {
+      "P1→P2": {
+        "rho_efecto_logf": -0.2748906263357979,
+        "rho_efecto_dlogf": 0.0893047300474058,
+        "rho_dentro_logf": 0.7207198575032968,
+        "rho_rank_efecto_vs_resid": 0.8927850517554987,
+        "cuentan_por_decil": [
+          634,
+          632,
+          631,
+          633,
+          632,
+          633,
+          626,
+          631,
+          621,
+          490
+        ],
+        "r2_frecuencia": 0.10829558212371115
+      },
+      "P2→P3": {
+        "rho_efecto_logf": -0.2871908647286725,
+        "rho_efecto_dlogf": 0.0713726524374439,
+        "rho_dentro_logf": 0.7074417649488519,
+        "rho_rank_efecto_vs_resid": 0.8892589896615707,
+        "cuentan_por_decil": [
+          633,
+          634,
+          631,
+          633,
+          632,
+          632,
+          628,
+          631,
+          618,
+          481
+        ],
+        "r2_frecuencia": 0.11060066048275663
+      },
+      "P3→P4": {
+        "rho_efecto_logf": -0.2743673162313529,
+        "rho_efecto_dlogf": 0.02428462789885878,
+        "rho_dentro_logf": 0.7006046545634916,
+        "rho_rank_efecto_vs_resid": 0.9043870177212722,
+        "cuentan_por_decil": [
+          634,
+          633,
+          632,
+          631,
+          631,
+          632,
+          633,
+          629,
+          620,
+          539
+        ],
+        "r2_frecuencia": 0.10038365399103011
+      }
+    },
+    "cuentan_por_transicion": {
+      "P1→P2": 6163,
+      "P2→P3": 6153,
+      "P3→P4": 6214
+    }
+  },
+  "neologismos": {
+    "neologismo|comun": 91,
+    "neologismo|entidad": 182,
+    "obsolescencia|comun": 27,
+    "obsolescencia|entidad": 100
+  },
+  "js_mezcla_fija": [
+    {
+      "par": "P1-P4",
+      "js_real": 0.050964209769904005,
+      "js_mezcla_fija": 0.045925482434948706,
+      "frac_que_queda": 0.9011320423154912
+    },
+    {
+      "par": "P1-P2",
+      "js_real": 0.03520390982361435,
+      "js_mezcla_fija": 0.03124505809714668,
+      "frac_que_queda": 0.8875451122814739
+    },
+    {
+      "par": "P2-P3",
+      "js_real": 0.02980012693307549,
+      "js_mezcla_fija": 0.02868914570762104,
+      "frac_que_queda": 0.96271890962245
+    },
+    {
+      "par": "P3-P4",
+      "js_real": 0.04123103443236962,
+      "js_mezcla_fija": 0.02712911777009811,
+      "frac_que_queda": 0.6579781017766465
+    }
+  ],
+  "semantico_bootstrap": {
+    "umbral_vocab": 200,
+    "n_vocab": 1267,
+    "control_frecuencia": {
+      "P1→P2": {
+        "rho_efecto_logf": -0.4330145235895218,
+        "rho_efecto_dlogf": 0.050813607977946776,
+        "rho_dentro_logf": -0.17603728155191337,
+        "rho_rank_efecto_vs_resid": 0.8610209005094517,
+        "cuentan_por_decil": [
+          9,
+          14,
+          8,
+          12,
+          9,
+          6,
+          8,
+          4,
+          1,
+          1
+        ],
+        "r2_frecuencia": 0.19200250303955824
+      },
+      "P2→P3": {
+        "rho_efecto_logf": -0.44884925943242526,
+        "rho_efecto_dlogf": 0.09505414012131475,
+        "rho_dentro_logf": -0.18556497499332664,
+        "rho_rank_efecto_vs_resid": 0.8425877337278748,
+        "cuentan_por_decil": [
+          6,
+          7,
+          6,
+          5,
+          3,
+          1,
+          1,
+          3,
+          2,
+          0
+        ],
+        "r2_frecuencia": 0.21357957870719213
+      },
+      "P3→P4": {
+        "rho_efecto_logf": -0.3786597077794227,
+        "rho_efecto_dlogf": 0.0447352791498791,
+        "rho_dentro_logf": -0.18585718592078784,
+        "rho_rank_efecto_vs_resid": 0.897566498523485,
+        "cuentan_por_decil": [
+          10,
+          4,
+          10,
+          5,
+          2,
+          4,
+          6,
+          3,
+          3,
+          1
+        ],
+        "r2_frecuencia": 0.1464330121624361
+      }
+    },
+    "comparacion_con_semillas": {
+      "P1→P2": {
+        "d_dentro_semillas": 0.0718,
+        "d_dentro_bootstrap": 0.3202,
+        "d_entre_semillas": 0.2631,
+        "d_entre_bootstrap": 0.4127,
+        "cuenta_semillas": 0.9742,
+        "cuenta_bootstrap": 0.0568
+      },
+      "P2→P3": {
+        "d_dentro_semillas": 0.0742,
+        "d_dentro_bootstrap": 0.3189,
+        "d_entre_semillas": 0.269,
+        "d_entre_bootstrap": 0.3942,
+        "cuenta_semillas": 0.9727,
+        "cuenta_bootstrap": 0.0268
+      },
+      "P3→P4": {
+        "d_dentro_semillas": 0.0759,
+        "d_dentro_bootstrap": 0.3152,
+        "d_entre_semillas": 0.2873,
+        "d_entre_bootstrap": 0.3951,
+        "cuenta_semillas": 0.9823,
+        "cuenta_bootstrap": 0.0379
+      }
+    },
+    "cuentan_por_transicion": {
+      "P1→P2": 72,
+      "P2→P3": 34,
+      "P3→P4": 48
+    }
+  },
+  "codificacion": {
+    "dinero": {
+      "pct_sin_tilde": [
+        0.0,
+        0.385
+      ],
+      "pct_tilde": [
+        9.344,
+        11.023
+      ],
+      "pct_eliminada": [
+        0.0,
+        0.0
+      ]
+    },
+    "eltiempo": {
+      "pct_sin_tilde": [
+        0.05,
+        1.427
+      ],
+      "pct_tilde": [
+        10.249,
+        10.764
+      ],
+      "pct_eliminada": [
+        0.0,
+        100.0
+      ]
+    },
+    "semana": {
+      "pct_sin_tilde": [
+        0.0,
+        8.308
+      ],
+      "pct_tilde": [
+        8.783,
+        11.028
+      ],
+      "pct_eliminada": [
+        0.0,
+        0.0
+      ]
+    }
+  },
+  "reemplazos_candidatos": 1428,
+  "reemplazos_min_pmw": 20.0,
+  "notas_informe": [
+    "spaCy md lematiza 'alias' como 'alia' (pendiente de S0, no corregido)",
+    "sección 4b: control de ruido corregido post hoc (bootstrap de documentos); la sección 4 se conserva"
+  ],
+  "tiempos_s": {
+    "carga": 1.9,
+    "matriz_formas": 5.4,
+    "ic_demo": 0.2,
+    "dispersion": 0.4,
+    "wordfreq": 0.7,
+    "contar_variantes": 44.9,
+    "cuotas": 6.9,
+    "secuencias": 8.7,
+    "word2vec": 0.3,
+    "desplazamiento": 0.9,
+    "vecindario_local": 35.4,
+    "word2vec_bootstrap": 0.2,
+    "desplazamiento_bootstrap": 2.4,
+    "neologismos": 16.7,
+    "logodds": 4.5,
+    "paz": 17.6
+  },
+  "total_min": 3.0
+}

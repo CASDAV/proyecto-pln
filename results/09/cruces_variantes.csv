@@ -1,0 +1,131 @@
+conjunto,categoria,tipo,serie,vieja,nueva,cruce,estado,lo,hi,frac_reps_con_cruce,cerca_formato,años_validos,cambios,fuerza,cambio_cerca_formato
+solo_tilde,ortografica,reemplazo,eltiempo_base,sólo,solo,,nueva_domina_desde_inicio,,,0.0,False,1990–2011 (22),[],[],False
+solo_tilde,ortografica,reemplazo,eltiempo_todos,sólo,solo,,nueva_domina_desde_inicio,,,0.0,False,1990–2011 (22),[],[],False
+solo_tilde,ortografica,reemplazo,semana_base,sólo,solo,,sin_cruce,,,0.0,False,1980–2011 (31),[2010],[1.43],False
+solo_tilde,ortografica,reemplazo,dinero_base,sólo,solo,2000.0,cruce,1999.0,2000.0,1.0,False,1994–2011 (16),[],[],False
+solo_tilde,ortografica,reemplazo,eltiempo_base_std_topico,sólo,solo,,nueva_domina_desde_inicio,,,,False,1990–2011 (22),[],[],False
+guion,ortografica,reemplazo,eltiempo_base,guión,guion,,sin_cruce,,,0.0,False,2005–2011 (6),[],[],False
+guion,ortografica,reemplazo,eltiempo_todos,guión,guion,,sin_cruce,,,0.0,False,1993–2011 (7),[],[],False
+guion,ortografica,reemplazo,semana_base,,,,datos_insuficientes,,,,,,[],[],
+guion,ortografica,reemplazo,dinero_base,,,,datos_insuficientes,,,,,,[],[],
+guion,ortografica,reemplazo,eltiempo_base_std_topico,guión,guion,,sin_cruce,,,,False,2005–2011 (6),[],[],False
+periodo,ortografica,reemplazo,eltiempo_base,período,periodo,2009.0,cruce,2006.2,2009.0,0.929,False,1990–2011 (22),"[1994, 1999, 2006]","[1.9, 1.7, 2.15]",True
+periodo,ortografica,reemplazo,eltiempo_todos,período,periodo,2009.0,cruce,2008.425,2009.0,0.938,False,1990–2011 (22),"[1994, 1997, 1999, 2004]","[1.75, 1.0, 1.38, 2.1]",False
+periodo,ortografica,reemplazo,semana_base,período,periodo,,sin_cruce,,,0.0,False,2003–2011 (8),[],[],False
+periodo,ortografica,reemplazo,dinero_base,período,periodo,,sin_cruce,,,0.198,False,2005–2011 (7),[],[],False
+periodo,ortografica,reemplazo,eltiempo_base_std_topico,período,periodo,2009.0,cruce,,,,False,1990–2011 (22),"[1994, 1998, 2002, 2006, 2009]","[1.31, 1.31, 2.09, 1.02, 1.12]",True
+pekin,ortografica,reemplazo,eltiempo_base,pekín,beijing,,sin_cruce,,,0.0,False,2006–2011 (5),[],[],False
+pekin,ortografica,reemplazo,eltiempo_todos,pekín,beijing,,sin_cruce,,,0.0,False,2004–2011 (6),[],[],False
+pekin,ortografica,reemplazo,semana_base,,,,datos_insuficientes,,,,,,[],[],
+pekin,ortografica,reemplazo,dinero_base,pekín,beijing,,datos_insuficientes,,,0.0,False,2007–2007 (1),[],[],False
+pekin,ortografica,reemplazo,eltiempo_base_std_topico,pekín,beijing,,sin_cruce,,,,False,2006–2011 (5),[],[],False
+irak,ortografica,reemplazo,eltiempo_base,irak,iraq,,sin_cruce,,,0.0,False,1990–2011 (19),[],[],False
+irak,ortografica,reemplazo,eltiempo_todos,irak,iraq,,sin_cruce,,,0.0,False,1990–2011 (19),[],[],False
+irak,ortografica,reemplazo,semana_base,irak,iraq,,sin_cruce,,,0.0,False,1990–2007 (5),[],[],False
+irak,ortografica,reemplazo,dinero_base,,,,datos_insuficientes,,,,,,[],[],
+irak,ortografica,reemplazo,eltiempo_base_std_topico,irak,iraq,,sin_cruce,,,,False,1990–2011 (19),[],[],False
+santafe,toponimia,reemplazo,eltiempo_base,,,,sin_hipotesis_de_cruce,,,,,1990–2011 (22),[2001],[2.09],False
+santafe,toponimia,reemplazo,eltiempo_todos,,,,sin_hipotesis_de_cruce,,,,,1990–2011 (22),[2001],[2.29],False
+santafe,toponimia,reemplazo,semana_base,,,,sin_hipotesis_de_cruce,,,,,1982–2011 (27),[],[],False
+santafe,toponimia,reemplazo,dinero_base,,,,sin_hipotesis_de_cruce,,,,,1994–2011 (12),[],[],False
+santafe,toponimia,reemplazo,eltiempo_base_std_topico,,,,sin_hipotesis_de_cruce,,,,,1990–2011 (22),[2001],[2.09],False
+distrito,toponimia,reemplazo,eltiempo_base,distrito especial,distrito capital,,datos_insuficientes,,,0.0,False,1991–1991 (1),[],[],False
+distrito,toponimia,reemplazo,eltiempo_todos,distrito especial,distrito capital,,datos_insuficientes,,,0.0,False,1991–1991 (1),[],[],False
+distrito,toponimia,reemplazo,semana_base,,,,datos_insuficientes,,,,,,[],[],
+distrito,toponimia,reemplazo,dinero_base,,,,datos_insuficientes,,,,,,[],[],
+distrito,toponimia,reemplazo,eltiempo_base_std_topico,distrito especial,distrito capital,,datos_insuficientes,,,,False,1991–1991 (1),[],[],False
+upac_uvr,institucional,reemplazo,eltiempo_base,upac,uvr,,sin_cruce,,,0.0,False,1997–2002 (5),[],[],False
+upac_uvr,institucional,reemplazo,eltiempo_todos,upac,uvr,,sin_cruce,,,0.0,False,1991–2002 (7),[],[],False
+upac_uvr,institucional,reemplazo,semana_base,upac,uvr,,datos_insuficientes,,,0.0,False,1992–1992 (1),[],[],False
+upac_uvr,institucional,reemplazo,dinero_base,,,,datos_insuficientes,,,,,,[],[],
+upac_uvr,institucional,reemplazo,eltiempo_base_std_topico,upac,uvr,,sin_cruce,,,,False,1997–2002 (5),[],[],False
+computador,tecnologia,reemplazo,eltiempo_base,,,,sin_hipotesis_de_cruce,,,,,1990–2011 (22),[],[],False
+computador,tecnologia,reemplazo,eltiempo_todos,,,,sin_hipotesis_de_cruce,,,,,1990–2011 (22),[],[],False
+computador,tecnologia,reemplazo,semana_base,,,,sin_hipotesis_de_cruce,,,,,1984–2011 (8),[],[],False
+computador,tecnologia,reemplazo,dinero_base,,,,sin_hipotesis_de_cruce,,,,,2006–2010 (5),[],[],False
+computador,tecnologia,reemplazo,eltiempo_base_std_topico,,,,sin_hipotesis_de_cruce,,,,,1990–2011 (22),[],[],False
+celular,tecnologia,reemplazo,eltiempo_base,,,,sin_hipotesis_de_cruce,,,,,1992–2011 (20),[],[],False
+celular,tecnologia,reemplazo,eltiempo_todos,,,,sin_hipotesis_de_cruce,,,,,1992–2011 (20),[],[],False
+celular,tecnologia,reemplazo,semana_base,,,,sin_hipotesis_de_cruce,,,,,2000–2011 (4),[],[],False
+celular,tecnologia,reemplazo,dinero_base,,,,sin_hipotesis_de_cruce,,,,,2000–2010 (6),[],[],False
+celular,tecnologia,reemplazo,eltiempo_base_std_topico,,,,sin_hipotesis_de_cruce,,,,,1992–2011 (20),[],[],False
+correo,tecnologia,reemplazo,eltiempo_base,,,,sin_hipotesis_de_cruce,,,,,1996–2011 (15),[],[],False
+correo,tecnologia,reemplazo,eltiempo_todos,,,,sin_hipotesis_de_cruce,,,,,1996–2011 (16),[],[],False
+correo,tecnologia,reemplazo,semana_base,,,,datos_insuficientes,,,,,,[],[],
+correo,tecnologia,reemplazo,dinero_base,,,,sin_hipotesis_de_cruce,,,,,2006–2010 (3),[],[],False
+correo,tecnologia,reemplazo,eltiempo_base_std_topico,,,,sin_hipotesis_de_cruce,,,,,1996–2011 (15),[],[],False
+gentilicio_eeuu,gentilicio,reemplazo,eltiempo_base,norteamericano,estadounidense,,nueva_domina_desde_inicio,,,0.0,False,1990–2011 (22),[2002],[1.11],False
+gentilicio_eeuu,gentilicio,reemplazo,eltiempo_todos,norteamericano,estadounidense,,nueva_domina_desde_inicio,,,0.0,False,1990–2011 (22),[2001],[1.1],False
+gentilicio_eeuu,gentilicio,reemplazo,semana_base,norteamericano,estadounidense,1994.0,cruce,1994.0,2008.0,1.0,False,1983–2011 (27),"[1994, 2008]","[2.32, 1.12]",False
+gentilicio_eeuu,gentilicio,reemplazo,dinero_base,norteamericano,estadounidense,,nueva_domina_desde_inicio,,,0.0,False,2004–2011 (8),[],[],False
+gentilicio_eeuu,gentilicio,reemplazo,eltiempo_base_std_topico,norteamericano,estadounidense,,nueva_domina_desde_inicio,,,,False,1990–2011 (22),[2001],[1.02],False
+sida_vih,salud,referente_cercano,eltiempo_base,sida,vih,,sin_cruce,,,0.0,False,1991–2011 (19),[],[],False
+sida_vih,salud,referente_cercano,eltiempo_todos,sida,vih,,sin_cruce,,,0.0,False,1991–2011 (19),[],[],False
+sida_vih,salud,referente_cercano,semana_base,sida,vih,,datos_insuficientes,,,0.0,False,1987–2006 (3),[],[],False
+sida_vih,salud,referente_cercano,dinero_base,,,,datos_insuficientes,,,,,,[],[],
+sida_vih,salud,referente_cercano,eltiempo_base_std_topico,sida,vih,,sin_cruce,,,,False,1991–2011 (19),[],[],False
+tercera_edad,grupos,reemplazo,eltiempo_base,tercera edad,adulto mayor,2007.0,cruce,2007.0,2007.0,0.685,True,1996–2010 (6),[],[],False
+tercera_edad,grupos,reemplazo,eltiempo_todos,tercera edad,adulto mayor,2007.0,cruce,2007.0,2007.0,0.755,True,1996–2010 (9),"[2000, 2007]","[1.01, 1.02]",True
+tercera_edad,grupos,reemplazo,semana_base,,,,datos_insuficientes,,,,,,[],[],
+tercera_edad,grupos,reemplazo,dinero_base,,,,datos_insuficientes,,,,,,[],[],
+tercera_edad,grupos,reemplazo,eltiempo_base_std_topico,tercera edad,adulto mayor,2007.0,cruce,,,,True,1996–2010 (6),[],[],False
+discapacidad,grupos,reemplazo,eltiempo_base,minusválido,discapacitado,,nueva_domina_desde_inicio,,,0.003,False,1998–2011 (8),[],[],False
+discapacidad,grupos,reemplazo,eltiempo_todos,minusválido,discapacitado,,nueva_domina_desde_inicio,,,0.088,False,1997–2011 (11),[2004],[1.07],False
+discapacidad,grupos,reemplazo,semana_base,,,,datos_insuficientes,,,,,,[],[],
+discapacidad,grupos,reemplazo,dinero_base,,,,datos_insuficientes,,,,,,[],[],
+discapacidad,grupos,reemplazo,eltiempo_base_std_topico,minusválido,discapacitado,,nueva_domina_desde_inicio,,,,False,1998–2011 (8),[2008],[1.13],False
+afro,grupos,reemplazo,eltiempo_base,negritudes,afrocolombiano,,nueva_domina_desde_inicio,,,0.002,False,2007–2011 (5),[],[],False
+afro,grupos,reemplazo,eltiempo_todos,negritudes,afrocolombiano,,nueva_domina_desde_inicio,,,0.01,False,2007–2011 (5),[],[],False
+afro,grupos,reemplazo,semana_base,,,,datos_insuficientes,,,,,,[],[],
+afro,grupos,reemplazo,dinero_base,,,,datos_insuficientes,,,,,,[],[],
+afro,grupos,reemplazo,eltiempo_base_std_topico,negritudes,afrocolombiano,,nueva_domina_desde_inicio,,,,False,2007–2011 (5),[],[],False
+indigena,grupos,reemplazo,eltiempo_base,indio,indígena,,nueva_domina_desde_inicio,,,0.0,False,1990–2011 (22),[],[],False
+indigena,grupos,reemplazo,eltiempo_todos,indio,indígena,,nueva_domina_desde_inicio,,,0.0,False,1990–2011 (22),[],[],False
+indigena,grupos,reemplazo,semana_base,indio,indígena,,nueva_domina_desde_inicio,,,0.002,False,2002–2011 (9),[],[],False
+indigena,grupos,reemplazo,dinero_base,,,,datos_insuficientes,,,,,,[],[],
+indigena,grupos,reemplazo,eltiempo_base_std_topico,indio,indígena,,nueva_domina_desde_inicio,,,,False,1990–2011 (22),[],[],False
+diversidad_sexual,grupos,reemplazo,eltiempo_base,,,,sin_hipotesis_de_cruce,,,,,1993–2011 (10),[2006],[1.2],True
+diversidad_sexual,grupos,reemplazo,eltiempo_todos,,,,sin_hipotesis_de_cruce,,,,,1993–2011 (13),[2006],[1.76],True
+diversidad_sexual,grupos,reemplazo,semana_base,,,,sin_hipotesis_de_cruce,,,,,1996–2011 (3),[],[],False
+diversidad_sexual,grupos,reemplazo,dinero_base,,,,datos_insuficientes,,,,,,[],[],
+diversidad_sexual,grupos,reemplazo,eltiempo_base_std_topico,,,,sin_hipotesis_de_cruce,,,,,1993–2011 (10),[2006],[1.19],True
+insurgencia,conflicto,marco,eltiempo_base,,,,sin_hipotesis_de_cruce,,,,,1990–2011 (22),"[2001, 2004]","[2.43, 1.22]",False
+insurgencia,conflicto,marco,eltiempo_todos,,,,sin_hipotesis_de_cruce,,,,,1990–2011 (22),"[2001, 2003]","[2.3, 1.17]",False
+insurgencia,conflicto,marco,semana_base,,,,sin_hipotesis_de_cruce,,,,,1999–2011 (13),[2001],[1.74],False
+insurgencia,conflicto,marco,dinero_base,,,,datos_insuficientes,,,,,,[],[],
+insurgencia,conflicto,marco,eltiempo_base_std_topico,,,,sin_hipotesis_de_cruce,,,,,1990–2011 (22),"[2002, 2004]","[2.35, 1.25]",False
+paramilitares,conflicto,marco,eltiempo_base,,,,sin_hipotesis_de_cruce,,,,,1991–2011 (21),"[2006, 2008]","[1.09, 1.69]",True
+paramilitares,conflicto,marco,eltiempo_todos,,,,sin_hipotesis_de_cruce,,,,,1991–2011 (21),"[2006, 2008]","[1.08, 1.74]",True
+paramilitares,conflicto,marco,semana_base,,,,sin_hipotesis_de_cruce,,,,,1997–2011 (13),"[2006, 2010]","[1.35, 1.45]",True
+paramilitares,conflicto,marco,dinero_base,,,,datos_insuficientes,,,,,,[],[],
+paramilitares,conflicto,marco,eltiempo_base_std_topico,,,,sin_hipotesis_de_cruce,,,,,1991–2011 (21),"[2006, 2008]","[1.07, 1.69]",True
+reinsertados,conflicto,marco,eltiempo_base,reinsertado,desmovilizado,2003.0,cruce,1992.0,2004.0,0.797,False,1991–2011 (16),[2004],[1.42],False
+reinsertados,conflicto,marco,eltiempo_todos,reinsertado,desmovilizado,2003.0,cruce,2003.0,2004.0,0.91,False,1991–2011 (16),[2004],[1.31],False
+reinsertados,conflicto,marco,semana_base,reinsertado,desmovilizado,,nueva_domina_desde_inicio,,,0.647,False,2004–2011 (8),[],[],False
+reinsertados,conflicto,marco,dinero_base,,,,datos_insuficientes,,,,,,[],[],
+reinsertados,conflicto,marco,eltiempo_base_std_topico,reinsertado,desmovilizado,2003.0,cruce,,,,False,1991–2011 (16),[2004],[1.47],False
+secuestro,conflicto,marco,eltiempo_base,,,,sin_hipotesis_de_cruce,,,,,1990–2011 (22),"[2000, 2006]","[2.04, 1.02]",True
+secuestro,conflicto,marco,eltiempo_todos,,,,sin_hipotesis_de_cruce,,,,,1990–2011 (22),"[2000, 2006]","[2.06, 1.43]",True
+secuestro,conflicto,marco,semana_base,,,,sin_hipotesis_de_cruce,,,,,1983–2011 (13),[],[],False
+secuestro,conflicto,marco,dinero_base,,,,sin_hipotesis_de_cruce,,,,,2010–2010 (1),[],[],False
+secuestro,conflicto,marco,eltiempo_base_std_topico,,,,sin_hipotesis_de_cruce,,,,,1990–2011 (22),[2000],[2.15],False
+falsos_positivos,conflicto,marco,eltiempo_base,,,,sin_hipotesis_de_cruce,,,,,2008–2011 (4),[],[],False
+falsos_positivos,conflicto,marco,eltiempo_todos,,,,sin_hipotesis_de_cruce,,,,,2008–2011 (4),[],[],False
+falsos_positivos,conflicto,marco,semana_base,,,,sin_hipotesis_de_cruce,,,,,2010–2010 (1),[],[],False
+falsos_positivos,conflicto,marco,dinero_base,,,,datos_insuficientes,,,,,,[],[],
+falsos_positivos,conflicto,marco,eltiempo_base_std_topico,,,,sin_hipotesis_de_cruce,,,,,2008–2011 (4),[],[],False
+conflicto_marco,conflicto,marco,eltiempo_base,,,,sin_hipotesis_de_cruce,,,,,1997–2011 (15),[2003],[1.91],False
+conflicto_marco,conflicto,marco,eltiempo_todos,,,,sin_hipotesis_de_cruce,,,,,1997–2011 (15),[2003],[2.0],False
+conflicto_marco,conflicto,marco,semana_base,,,,sin_hipotesis_de_cruce,,,,,2011–2011 (1),[],[],False
+conflicto_marco,conflicto,marco,dinero_base,,,,datos_insuficientes,,,,,,[],[],
+conflicto_marco,conflicto,marco,eltiempo_base_std_topico,,,,sin_hipotesis_de_cruce,,,,,1997–2011 (15),[2003],[1.9],False
+canje,conflicto,marco,eltiempo_base,,,,sin_hipotesis_de_cruce,,,,,1999–2010 (11),[2003],[1.31],False
+canje,conflicto,marco,eltiempo_todos,,,,sin_hipotesis_de_cruce,,,,,1999–2010 (11),[2003],[1.39],False
+canje,conflicto,marco,semana_base,,,,sin_hipotesis_de_cruce,,,,,2000–2008 (5),[],[],False
+canje,conflicto,marco,dinero_base,,,,datos_insuficientes,,,,,,[],[],
+canje,conflicto,marco,eltiempo_base_std_topico,,,,sin_hipotesis_de_cruce,,,,,1999–2010 (11),[2003],[1.35],False
+paz_denominacion,paz,marco,eltiempo_base,,,,sin_hipotesis_de_cruce,,,,,1990–2011 (22),[1999],[1.47],False
+paz_denominacion,paz,marco,eltiempo_todos,,,,sin_hipotesis_de_cruce,,,,,1990–2011 (22),"[1999, 2008]","[1.61, 1.05]",False
+paz_denominacion,paz,marco,semana_base,,,,sin_hipotesis_de_cruce,,,,,1999–2011 (6),[],[],False
+paz_denominacion,paz,marco,dinero_base,,,,datos_insuficientes,,,,,,[],[],
+paz_denominacion,paz,marco,eltiempo_base_std_topico,,,,sin_hipotesis_de_cruce,,,,,1990–2011 (22),[1999],[1.33],False
