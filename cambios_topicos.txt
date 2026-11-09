@@ -1,0 +1,44 @@
+series disponibles: ['dinero|sin_breves|doc', 'dinero|sin_breves|mes', 'dinero|todos|doc', 'dinero|todos|mes', 'eltiempo|sin_breves|doc', 'eltiempo|sin_breves|mes', 'eltiempo|todos|doc', 'eltiempo|todos|mes', 'semana|sin_breves|doc', 'semana|sin_breves|mes', 'semana|todos|doc', 'semana|todos|mes']
+serie usada: eltiempo|sin_breves|mes
+
+== Cambio 1995: media [1993, 1994] frente a [1995, 1996]
+                                        prev_antes_%  prev_despues_%  delta_pp  IC_1994_vs_1995_separados
+topico                                                                                                   
+T13 Elecciones y partidos                       4.83            2.96     -1.88                       True
+T04 Gobierno municipal y departamental          3.09            4.66      1.57                       True
+T11 Cultura y espectáculos                     11.01            9.87     -1.14                      False
+T03 Tecnología y telecomunicaciones             5.15            6.19      1.04                      False
+T12 Movilidad urbana                            5.15            6.11      0.96                       True
+T08 Relaciones internacionales                  6.79            5.89     -0.90                      False
+T17 Agua tierra e infraestructura               7.51            8.33      0.82                      False
+T00 Educación                                   4.18            4.92      0.74                      False
+T02 Conflicto armado: combates                  5.91            5.23     -0.68                      False
+T14 Sistema financiero                          4.06            4.62      0.57                      False
+T16 Legislación y reformas                      5.44            4.92     -0.52                      False
+T07 Familia salud y vida cotidiana              9.28            9.75      0.46                      False
+T05 Deporte: torneos individuales               6.16            5.78     -0.37                      False
+T15 Fútbol                                      4.86            4.53     -0.33                      False
+T06 Macroeconomía                               4.36            4.18     -0.18                      False
+T09 Justicia y procesos judiciales              6.70            6.60     -0.10                      False
+T01 Empresas y comercio exterior                5.52            5.46     -0.07                      False
+
+== Cambio 2006: media [2004, 2005] frente a [2006, 2007]
+                                        prev_antes_%  prev_despues_%  delta_pp  IC_2005_vs_2006_separados
+topico                                                                                                   
+T11 Cultura y espectáculos                     10.98           13.99      3.01                      False
+T01 Empresas y comercio exterior                7.49            4.49     -3.00                       True
+T07 Familia salud y vida cotidiana             10.96           12.87      1.91                       True
+T06 Macroeconomía                               4.92            3.11     -1.81                       True
+T13 Elecciones y partidos                       3.67            5.16      1.49                       True
+T02 Conflicto armado: combates                  5.11            6.53      1.42                       True
+T09 Justicia y procesos judiciales              5.97            7.29      1.31                      False
+T16 Legislación y reformas                      4.83            3.65     -1.18                       True
+T14 Sistema financiero                          4.75            3.58     -1.17                       True
+T12 Movilidad urbana                            4.82            5.85      1.03                      False
+T03 Tecnología y telecomunicaciones             5.95            4.95     -1.00                      False
+T05 Deporte: torneos individuales               5.24            4.66     -0.59                      False
+T08 Relaciones internacionales                  6.24            5.79     -0.45                      False
+T15 Fútbol                                      3.96            3.56     -0.40                      False
+T04 Gobierno municipal y departamental          3.45            3.11     -0.34                       True
+T00 Educación                                   4.87            4.56     -0.31                      False
+T17 Agua tierra e infraestructura               6.79            6.86      0.06                      False

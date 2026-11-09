@@ -1,0 +1,132 @@
+población: 60,025 docs (no breves, no cartas)
+
+== T00
+0.97 | ET 2011-08 |    92 pal. | id 317 | Propuesta de educación de Gina Parody
+0.93 | ET 2009-06 |   199 pal. | id 48038 | Grafitis amenazantes contra 2 docentes aparecieron en fachada de colegio de Shakira en Barranquilla
+0.91 | ET 2009-09 |   277 pal. | id 48154 | Más formas de interacción que ahorran dinero
+0.90 | ET 2009-09 |   735 pal. | id 35430 | Adelanto de materias que verán en sus carreras pueden hacer los estudiantes de colegio
+0.89 | ET 2007-05 |   146 pal. | id 54805 | Cancelan semestre a 8900 alumnos de U .
+Pedagógica
+
+== T01
+0.96 | Semana 1991-12 |    93 pal. | id 89154 | La Shell Y El Polipropileno
+0.93 | Dinero 2004-07 |    88 pal. | id 79855 | Comercio de cosméticos
+0.93 | ET 2006-10 |   186 pal. | id 30613 | Empresa de manualidades en vidrio ya vende en el mercado de Estados Unidos
+0.91 | Dinero 2002-06 |    85 pal. | id 80650 | Interés por Armonía .
+0.90 | ET 2001-09 |   129 pal. | id 66310 | Se Duplican Las Exportaciones Flores A Japón
+
+== T02
+0.99 | ET 2001-01 |   189 pal. | id 76729 | Mueren Diez Guerrilleros En Anserma
+0.97 | ET 1997-02 |   271 pal. | id 28883 | Dieciséis Soldados Y Doce Guerrilleros Muertos
+0.97 | ET 1999-12 |   444 pal. | id 74969 | Muertos Nueve Militares En Terreno Minado
+0.95 | ET 2008-05 |   193 pal. | id 24751 | Cayó en Marquetalia ( Caldas ) ' Garganta ' , jefe del 47 de las Farc
+0.94 | ET 2009-02 |   160 pal. | id 47837 | Capturan al ' negro Antonio ' , secuestrador que azotaba en Cundinamarca
+
+== T03
+1.00 | ET 2001-07 |   215 pal. | id 68373 | 3 com Anuncia Solución De Conectividad Para A .
+Latina
+1.00 | ET 1998-02 |   133 pal. | id 84917 | Acceso Multiusuario A Internet
+0.99 | Dinero 2009-04 |    88 pal. | id 80193 | Celulares .
+Facebook entre los dedos
+0.98 | ET 1997-03 |   117 pal. | id 5529 | Noticieros En La Red
+0.98 | ET 1998-02 |   492 pal. | id 6098 | Tarantella : Cualquier Aplicación Desde Cualquier Cliente .
+
+== T04
+0.78 | Semana 2002-07 |   121 pal. | id 86822 | El ELN pide a mandatarios regionales no renunciar a sus cargos
+0.78 | ET 1998-02 |   111 pal. | id 84912 | A Camellar Sin Llanto
+0.72 | ET 2001-05 |   135 pal. | id 65649 | Contralora Exonera A 18 Ex Alcaldes
+0.72 | ET 1997-06 |    95 pal. | id 22297 | Por Amenazas , Renuncian Dos Alcaldes En Bolvar
+0.70 | ET 1992-06 |   177 pal. | id 17363 | Gobierno Anuncia Ayuda Para Los 69 Municipios Más Pobres
+
+== T05
+1.00 | ET 2009-03 |   288 pal. | id 6669 | Danés Soren Kjeldsen se impuso en el Abierto de Andalucía de golf , disputado en Sevilla
+1.00 | ET 2008-06 |   283 pal. | id 24808 | ' Marisa ' Baena está en el noveno lugar del McDonald ' s LPGA Championship
+1.00 | ET 2008-02 |   237 pal. | id 6121 | Villegas no tuvo un buen día
+1.00 | ET 2008-05 |   224 pal. | id 31403 | Golfistas Colombianos Que Están En Varias Partes Del Mundo Hoy Juegan Última Ronda
+1.00 | ET 2004-06 |   219 pal. | id 44758 | Annika , Más Y Más Grande
+
+== T06
+1.00 | Dinero 2010-09 |   260 pal. | id 80344 | Se acelera la inflación en Brasil
+1.00 | Dinero 2008-03 |   245 pal. | id 79364 | Brasil , inflación cede por segundo mes consecutivo
+1.00 | Dinero 2003-02 |    81 pal. | id 19325 | Mercados a la expectativa
+0.99 | Dinero 2009-01 |   182 pal. | id 79453 | Economía de EEUU se mantendrá en recesión por ahora : informe
+0.99 | ET 2009-03 |   105 pal. | id 15832 | Drástica reducción de meta de crecimiento
+
+== T07
+1.00 | ET 2000-04 |    87 pal. | id 74711 | El Jardín De Los Desplazados
+1.00 | ET 2010-01 |    93 pal. | id 61338 | Otro Milagro : Ayer Rescataron Con Vida A Mujer De 84 Años
+0.99 | ET 2008-12 |   101 pal. | id 50606 | India tuvo una niña a los 70 años
+0.98 | Semana 1998-09 |   148 pal. | id 86873 | De Tal Padre
+0.98 | ET 2009-06 |   186 pal. | id 57530 | En Santa Marta , muere otro de los niños intoxicado con queso
+
+== T08
+0.97 | Semana 2009-04 |   181 pal. | id 91676 | Chávez elogia posición de Obama sobre eliminar armas nucleares
+0.94 | ET 1992-12 |   529 pal. | id 31779 | Ee . uu .
+Desmiente Al Presidente Ruso
+0.94 | Semana 2009-10 |   394 pal. | id 87265 | Bolivia y EE . UUse acercan
+0.92 | ET 2007-06 |   220 pal. | id 30961 | Canciller colombiano , Fernando Araújo , recibe a su par venezolano , Nicolás Maduro , en Bogotá
+0.92 | ET 2010-03 |   173 pal. | id 35739 | Embajadores de Venezuela y República Dominicana en Colombia sostuvieron reunión
+
+== T09
+0.98 | ET 2009-09 |   108 pal. | id 51083 | Extraditar a David Murcia pide la Procuraduría a la Corte Suprema
+0.96 | ET 2010-03 |   160 pal. | id 25884 | TRIBUNAL AÚN NO LE IMPONE PENA Condenan a juez Beltrán
+0.96 | Semana 1992-07 |   115 pal. | id 88016 | Juez a juicio
+0.95 | ET 1998-03 |    99 pal. | id 18104 | A Juicio Por Cohecho En Favor De Maya
+0.95 | ET 2010-06 |   153 pal. | id 48549 | Tribunal revocó fallo absolutorio y condenó a ' Bon Ice '
+
+== T10
+0.95 | ET 1994-09 |   204 pal. | id 56155 | Oiremos Todas Las Voces
+0.88 | ET 2003-01 |   639 pal. | id 39110 | Los Consejos De Irlanda Del Norte
+0.88 | Semana 2002-03 |   121 pal. | id 86819 | Hacer ver la realidad
+0.88 | Semana 2003-09 |    81 pal. | id 88116 | Esbozarlas ya
+0.88 | ET 1998-08 |   469 pal. | id 44943 | Fiesta Ahora
+
+== T11
+1.00 | ET 1992-07 |   420 pal. | id 82292 | Camilo Rodriguez
+1.00 | ET 2003-06 |   359 pal. | id 40445 | El Rey Sol
+1.00 | Semana 1982-08 |   161 pal. | id 91443 | Viena por Bogotá
+1.00 | ET 2005-12 |   134 pal. | id 55182 | Disco Láser
+1.00 | ET 2008-01 |   117 pal. | id 6086 | De escritor a rockero
+
+== T12
+1.00 | ET 2004-12 |   307 pal. | id 20770 | Habrá Cierres En La Autopista Norte
+1.00 | ET 2009-09 |   179 pal. | id 81281 | Cambios en varias vías que están en inmediaciones del Terminal de Transporte de Cali
+1.00 | ET 2010-11 |   104 pal. | id 74081 | Alcaldía de Medellín anunció que no habrá pico y placa en fin de año
+1.00 | ET 2007-09 |    83 pal. | id 56507 | Listado de vehículos recuperados que fueron robados de nuevo por la banda
+0.99 | ET 1993-12 |   221 pal. | id 3840 | Carro De La Energía Tumbó Puente Peatonal
+
+== T13
+1.00 | ET 1994-09 |   364 pal. | id 13806 | Candidatos A Las Alcaldias
+0.96 | ET 2001-05 |    83 pal. | id 67478 | Peru .
+Baja Escepticismo Electoral .
+0.94 | ET 2006-03 |   218 pal. | id 50422 | Indígenas , a repetir comicios
+0.94 | ET 1997-08 |   216 pal. | id 15524 | Inminente Ruptura Conservadora
+0.93 | ET 1998-04 |   156 pal. | id 38013 | Pedagogía Electoral
+
+== T14
+0.94 | ET 2003-03 |   191 pal. | id 78801 | Aclaraciún Sobre Eficencia De La Banca
+0.94 | ET 2000-12 |   205 pal. | id 72999 | Cf , Se Reducen Las Pérdidas
+0.91 | ET 2000-04 |   165 pal. | id 74704 | Balance De Los Créditos Del Fogafin A Los Deudores
+0.91 | ET 2003-02 |   163 pal. | id 40066 | En Cesantías Se Recogió Más De Un Billón
+0.89 | ET 1998-08 |   297 pal. | id 44258 | Sigue Restringido El Crédito De Vivienda
+
+== T15
+0.99 | ET 2009-07 |   134 pal. | id 57557 | 1 - 1 en el debut
+0.99 | ET 2003-06 |   214 pal. | id 67599 | Cero Y Van Cuatro
+0.99 | ET 2011-12 |   430 pal. | id 1219 | América sufrió en Tunja , pero sigue aferrado a la A
+0.99 | ET 1997-09 |   165 pal. | id 34148 | Síntesis Xiii Fecha Torneo Adecuación
+0.99 | ET 2007-02 |   219 pal. | id 6762 | Insípido empate en la Libertadores
+
+== T16
+1.00 | ET 2004-10 |    83 pal. | id 23342 | Contralor Pide Agilizar Trámite .
+0.92 | Semana 2000-05 |   301 pal. | id 89536 | Empieza debate por referendo
+0.92 | ET 2003-12 |    86 pal. | id 65069 | Se Destraba La Reforma Tributaria
+0.87 | ET 1993-06 |   140 pal. | id 17715 | Agonía De Las Comisiones
+0.86 | ET 2003-12 |   513 pal. | id 37725 | Otro Lío Con Sanción De Reforma Tributaria
+
+== T17
+1.00 | ET 1992-05 |   162 pal. | id 17318 | Tractomula Causa Cierre Temporal De La Represa Del Sisga
+0.99 | ET 1992-11 |   306 pal. | id 82382 | Reforestación Indígena
+0.96 | ET 1999-11 |   108 pal. | id 59730 | Hidroprado Abrió Sus Compuertas
+0.95 | ET 2011-02 |   105 pal. | id 1797 | Se inicia construcción de embalse en Bucaramanga
+0.95 | ET 1997-10 |   302 pal. | id 83973 | El Río Tunjuelito Volvió A Correr
