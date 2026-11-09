@@ -319,9 +319,39 @@ gif
 aspx
 
 # conservar
-# NO son stopword cuando el token es sustantivo (NOUN). Están en las listas
-# de NLTK/spaCy por ser formas de verbos o adverbios.
+# NO son stopword cuando el token es sustantivo o nombre propio (NOUN o PROPN):
+# "el estado", "el Estado", "Poder Judicial". Están en las listas de NLTK/spaCy
+# por ser formas de verbos o adverbios.
+# Si el NOUN cae en una locución gramatical de prep.LOCUCIONES ("de acuerdo
+# con", "a fin de", "por medio de", "sin embargo", "de hecho"), se descarta igual.
 estado
 poder
 final
 verdad
+# 3.0.3: sustantivos de contenido que solo la lista de spaCy marca como stopword.
+# Evidencia: diagnóstico 3.2 del 07 (NOUN fuera de locución en la muestra FAST).
+acuerdo   # acuerdo humanitario, firmar un acuerdo (50 % "de acuerdo con" → descartado)
+medio     # medio ambiente, medios de comunicación (38 % "por/en medio de" → descartado)
+fin       # fin del conflicto, fin de siglo (76 % "con el fin de", "fin de semana" → descartado)
+cuenta    # cuentas bancarias, rendición de cuentas (62 % "en cuenta", "darse cuenta" → descartado)
+uso       # uso del suelo, uso de la fuerza (5 % "hacer uso" → descartado)
+bien      # bienes y servicios, bienes incautados (el adverbio no es NOUN)
+hecho     # esclarecer los hechos, hechos violentos (33 % "de hecho", "el hecho de que" → descartado)
+embargo   # embargo de bienes, embargo a Cuba (96 % "sin embargo" → descartado)
+
+# conservar_propn
+# NO son stopword SOLO cuando el token es nombre propio (PROPN): primera palabra
+# de nombres compuestos. Como sustantivo o adjetivo siguen siendo stopword.
+# Evidencia: diagnóstico 3.1 del 07 (muestra FAST, 6.000 docs), con la palabra
+# siguiente más frecuente entre paréntesis. ("medio" pasó a `conservar` en 3.0.3.)
+estados   # Estados Unidos (1.110 de 1.179)
+nueva     # Nueva York (270), Nueva Zelanda
+buenos    # Buenos Aires (83)
+mayor     # Alcaldía Mayor, Estado Mayor
+once      # Once Caldas (35)
+primera   # Primera Dama (15), Primera Brigada (10)
+segunda   # Segunda Guerra Mundial (22)
+primer    # Primer Ministro
+grandes   # Grandes Ligas (15)
+bajo      # Bajo Cauca, Bajo Calima
+domingo   # Santo Domingo, Domingo Cavallo

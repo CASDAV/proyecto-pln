@@ -1,0 +1,374 @@
+{
+  "config": {
+    "fast": false,
+    "seed": 42,
+    "año_min": 1980,
+    "año_max": 2011,
+    "principal": "www.eltiempo.com",
+    "principal_desde": 1990,
+    "cap_ajuste": 1200,
+    "n_heldout": 300,
+    "frac_heldout_max": 0.2,
+    "min_docs_mes": 10,
+    "frac_mediana_mes": 0.3,
+    "min_meses_validos": 6,
+    "min_n_año": 40,
+    "min_df": 10,
+    "max_df": 0.3,
+    "min_df_plural": 5,
+    "ratio_plural_min": 0.1,
+    "renombres_propn": {
+      "unidos": "estados_unidos"
+    },
+    "no_pluralizar": [
+      "unidos"
+    ],
+    "npmi_B": 0.35,
+    "n_C": 50,
+    "npmi_D": 0.2,
+    "k_ref": 14,
+    "ks": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "semillas": [
+      0,
+      1,
+      2
+    ],
+    "init": "random",
+    "max_iter": 1000,
+    "tol": 0.0001,
+    "n_jobs": 6,
+    "topn_coh": 10,
+    "ventana_npmi": 10,
+    "ventana_cv": 110,
+    "topn_div": 25,
+    "estab_min": 0.8,
+    "npmi_residual": 0.02,
+    "df_generico": 0.15,
+    "frac_topicos_generico": 0.3,
+    "n_genericos_max": 3,
+    "ratio_breve": 3.0,
+    "rho_longitud": 0.3,
+    "estab_topico_min": 0.5,
+    "b_perm": 1000,
+    "b_boot": 1000,
+    "b_binseg": 200,
+    "min_seg": 2,
+    "q_binseg": 0.95,
+    "cap_peso": 3000,
+    "ventana_coincidencia": 1,
+    "soporte_min": 0.5,
+    "lag_max": 15
+  },
+  "tiempos_s": {
+    "comparacion_bigramas_s": 107,
+    "rejilla_K_s": 47,
+    "rejilla_K_metricas_s": 50,
+    "proyeccion_s": 0,
+    "bootstrap_s": 12,
+    "transiciones_s": 13,
+    "variantes_s": 41
+  },
+  "n_docs": 91585,
+  "n_ajuste": 26106,
+  "n_heldout": 6526,
+  "umbral_docs_mes": {
+    "dinero": 10,
+    "eltiempo": 98,
+    "semana": 10
+  },
+  "n_plurales": 1577,
+  "lista_blanca": [
+    "acuerdo_paz",
+    "américa_latina",
+    "banco_central",
+    "banco_interamericano",
+    "banco_mundial",
+    "banco_república",
+    "bolsa_valores",
+    "casa_nariño",
+    "congreso_república",
+    "consejo_estado",
+    "contraloría_general",
+    "corte_constitucional",
+    "corte_suprema",
+    "cruz_roja",
+    "cámara_comercio",
+    "cámara_representantes",
+    "defensoría_pueblo",
+    "estados_unidos",
+    "fiscalía_general",
+    "fuerza_aérea",
+    "fuerza_pública",
+    "fuerzas_armadas",
+    "fuerzas_militares",
+    "interno_bruto",
+    "medio_ambiente",
+    "medio_comunicación",
+    "ministerio_defensa",
+    "ministerio_hacienda",
+    "naciones_unidas",
+    "planeación_nacional",
+    "policía_nacional",
+    "procuraduría_general",
+    "relaciones_exteriores",
+    "tratado_libre",
+    "tribunal_superior",
+    "unión_europea",
+    "unión_soviética"
+  ],
+  "estrategia_bigramas": "A+LB",
+  "motivo_bigramas": "mejor NPMI 0.1390 (A+LB); empate ≤1 EE resuelto por residuales y estabilidad",
+  "K": 18,
+  "motivo_K": "K más chico con NPMI ≥ 0.1453 (mejor K=20 − 1 EE) y estabilidad ≥ 0.8",
+  "semilla_medoide": 1,
+  "metricas_K_elegido": {
+    "npmi_media": 0.14566500526335505,
+    "se": 0.0014359082392286142,
+    "npmi_min": 0.06457469860712688,
+    "npmi_mediana": 0.14353943864504495,
+    "cv_media": 0.747602257463667,
+    "diversidad": 0.851111111111111,
+    "estab_cos": 0.8754960894584656,
+    "estab_jaccard": 0.6299302167465223,
+    "err_rel_ajuste": 0.9632203617185935,
+    "err_rel_heldout": 0.9637760891298729,
+    "pct_residuales": 0.0,
+    "n_iter": 340.3333333333333,
+    "convergio": 1.0
+  },
+  "residuales": {
+    "T10 Paz y política: ensayo y opinión": "formato: rho longitud = 0.40"
+  },
+  "docs_sin_topico": 16,
+  "estabilidad_agenda": {
+    "eltiempo | estrato fuente×breve": {
+      "transiciones": 21,
+      "js_medio": 0.0022945931125517827,
+      "ruido_medio": 0.0005677867879501323,
+      "exceso_medio": 0.0017268063246016505,
+      "exceso_max": 0.00853501579864267,
+      "año_exceso_max": 2006,
+      "frac_dist_fuentes_media": 0.05424923415184229,
+      "anexo_pct_BH5": 85.71428571428571
+    },
+    "eltiempo | estrato fuente×breve×mes": {
+      "transiciones": 21,
+      "js_medio": 0.0022945931125517827,
+      "ruido_medio": 0.0006426482307683968,
+      "exceso_medio": 0.001651944881783386,
+      "exceso_max": 0.00764292774495206,
+      "año_exceso_max": 2006,
+      "frac_dist_fuentes_media": 0.05189739197792066,
+      "anexo_pct_BH5": 90.47619047619048
+    },
+    "eltiempo sin breves | estrato fuente×mes": {
+      "transiciones": 21,
+      "js_medio": 0.0029247510595506393,
+      "ruido_medio": 0.0008715324682999166,
+      "exceso_medio": 0.0020532185912507223,
+      "exceso_max": 0.007417573537619123,
+      "año_exceso_max": 2006,
+      "frac_dist_fuentes_media": 0.06450378049627033,
+      "anexo_pct_BH5": 76.19047619047619
+    },
+    "semana | estrato fuente×breve": {
+      "transiciones": 29,
+      "js_medio": 0.014108097275786397,
+      "ruido_medio": 0.009958568626048733,
+      "exceso_medio": 0.004149528649737661,
+      "exceso_max": 0.014955804119332238,
+      "año_exceso_max": 1987,
+      "frac_dist_fuentes_media": 0.13036131969885256,
+      "anexo_pct_BH5": 13.793103448275861
+    },
+    "dinero | estrato fuente×breve": {
+      "transiciones": 11,
+      "js_medio": 0.012802227220510382,
+      "ruido_medio": 0.010141731054602377,
+      "exceso_medio": 0.0026604961659080074,
+      "exceso_max": 0.01823613031821165,
+      "año_exceso_max": 2008,
+      "frac_dist_fuentes_media": 0.0835819729220166,
+      "anexo_pct_BH5": 18.181818181818183
+    },
+    "todas | estrato fuente×breve": {
+      "transiciones": 29,
+      "js_medio": 0.00840566165590405,
+      "ruido_medio": 0.0068158437629704935,
+      "exceso_medio": 0.0015898178929335555,
+      "exceso_max": 0.014955804119332238,
+      "año_exceso_max": 1987,
+      "frac_dist_fuentes_media": 0.04994561457402397,
+      "anexo_pct_BH5": 62.06896551724138
+    }
+  },
+  "js_entre_fuentes": {
+    "js": 0.03748981061234869,
+    "ruido": 0.005658829924799043,
+    "exceso": 0.031830980687549644
+  },
+  "cambios_series": {
+    "todos_doc": [
+      1995,
+      1998,
+      2001,
+      2006
+    ],
+    "sin_breves_doc": [
+      1995,
+      1998,
+      2004,
+      2006
+    ],
+    "todos_mes": [
+      1995,
+      2000,
+      2002,
+      2006
+    ],
+    "sin_breves_mes": [
+      1995,
+      1998,
+      2006
+    ]
+  },
+  "cambios_formato": {
+    "formato ET: pct_breve": [
+      2000,
+      2006
+    ],
+    "formato ET: log_mediana_palabras": [
+      2000,
+      2006
+    ],
+    "formato ET: log_docs": [
+      1992
+    ],
+    "formato ET: pct_titulo_cap": [
+      1993,
+      2006
+    ],
+    "formato ET: pct_lead_dup": [],
+    "formato ET: pct_breve+log_mediana_palabras+log_docs+pct_titulo_cap+pct_lead_dup": [
+      2001,
+      2006
+    ]
+  },
+  "cambios_contraste": {
+    "semana_todos_doc": [
+      1986,
+      1993,
+      1998,
+      2003,
+      2006,
+      2008
+    ],
+    "semana_sin_breves_mes": [
+      1998,
+      2007
+    ],
+    "dinero_todos_doc": []
+  },
+  "cambios_votantes": {
+    "semilla 0": [
+      1995,
+      1998,
+      2006
+    ],
+    "semilla 2": [
+      1995,
+      1998,
+      2001,
+      2006
+    ],
+    "K=16": [
+      1995,
+      1998,
+      2001,
+      2004,
+      2006
+    ],
+    "K=20": [
+      1995,
+      1998,
+      2006
+    ],
+    "bigramas: C+LB": [
+      1995,
+      1998,
+      2001,
+      2006
+    ],
+    "lista blanca: A": [
+      1995,
+      1998,
+      2004,
+      2006
+    ]
+  },
+  "robustez": [
+    {
+      "año": 1995,
+      "veredicto": "robusto",
+      "soporte": 1.0,
+      "series_formato": ""
+    },
+    {
+      "año": 1998,
+      "veredicto": "no robusto",
+      "soporte": 1.0,
+      "series_formato": ""
+    },
+    {
+      "año": 2000,
+      "veredicto": "artefacto probable de formato",
+      "soporte": 0.5,
+      "series_formato": "formato ET: pct_breve, formato ET: log_mediana_palabras, formato ET: pct_breve+log_mediana_palabras+log_docs+pct_titulo_cap+pct_lead_dup"
+    },
+    {
+      "año": 2002,
+      "veredicto": "artefacto probable de formato",
+      "soporte": 0.5,
+      "series_formato": "formato ET: pct_breve+log_mediana_palabras+log_docs+pct_titulo_cap+pct_lead_dup"
+    },
+    {
+      "año": 2004,
+      "veredicto": "no robusto",
+      "soporte": 0.3333333333333333,
+      "series_formato": ""
+    },
+    {
+      "año": 2006,
+      "veredicto": "robusto (coincide con formato)",
+      "soporte": 1.0,
+      "series_formato": "formato ET: pct_breve, formato ET: log_mediana_palabras, formato ET: pct_titulo_cap, formato ET: pct_breve+log_mediana_palabras+log_docs+pct_titulo_cap+pct_lead_dup"
+    }
+  ],
+  "consenso": [
+    1995,
+    2006
+  ],
+  "eventos": {
+    "cambios": [
+      1995,
+      2006
+    ],
+    "aciertos": 2,
+    "esperado_azar": 1.667,
+    "p_azar_ge_obs": 0.6832
+  }
+}

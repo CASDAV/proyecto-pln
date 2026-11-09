@@ -1,0 +1,3 @@
+año,todos_doc,sin_breves_doc,todos_mes,sin_breves_mes,soporte,v:semilla 0,v:semilla 1,v:K=6,v:K=10,v:bigramas: D+LB,v:lista blanca: A,coincide_formato,series_formato,c:semana_todos_doc,c:semana_sin_breves_mes,c:dinero_todos_doc,i:con_residuales,i:K=14,veredicto
+1997,True,True,True,True,1.0,True,True,True,True,True,True,False,,False,False,False,True,True,robusto
+2006,True,True,True,True,1.0,True,True,True,True,True,True,True,"formato ET: pct_breve, formato ET: pct_titulo_cap, formato ET: pct_breve+log_mediana_palabras+log_docs+pct_titulo_cap+pct_lead_dup",False,False,False,True,True,robusto (coincide con formato)

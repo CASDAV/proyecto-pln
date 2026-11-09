@@ -1,0 +1,9 @@
+topico,nombre,residual,residual_sugerido,motivo,top10
+T00,programa proyecto desarrollo,False,False,,programa proyecto desarrollo servicio entidad educación recurso sistema social salud
+T01,presidente político candidato,True,True,npmi_bajo (-0.049),presidente político candidato gobierno elección política país ministro campaña liberal
+T02,vida artista mundo,True,True,npmi_bajo (-0.014),vida artista mundo música historia niño mujer película hijo obra
+T03,vía calle ciudad,False,False,,vía calle ciudad vehículo zona peso obra agua municipio kilómetro
+T04,militar autoridad guerrillero,True,True,npmi_bajo (0.014),militar autoridad guerrillero persona guerrilla hombre comandante hecho muerte arma
+T05,tasa peso financiero,False,False,,tasa peso financiero crédito interés economía banco inflación económico inversión
+T06,equipo partido torneo,False,False,,equipo partido torneo jugador gol final juego minuto punto fútbol
+T07,mercado empresa producto,True,True,inestable (0.49),mercado empresa producto compañía dólar venta país estados_unidos precio negocio

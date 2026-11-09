@@ -1,0 +1,7 @@
+año,todos_doc,sin_breves_doc,todos_mes,sin_breves_mes,soporte,v:semilla 0,v:semilla 2,v:K=16,v:K=20,v:bigramas: C+LB,v:lista blanca: A,coincide_formato,series_formato,c:semana_todos_doc,c:semana_sin_breves_mes,c:dinero_todos_doc,i:con_residuales,i:K=10,i:K=12,i:K=14,veredicto
+1995,True,True,True,True,1.0,True,True,True,True,True,True,False,,False,False,False,True,True,True,True,robusto
+1998,True,True,False,True,1.0,True,True,True,True,True,True,False,,True,True,False,True,True,True,True,no robusto
+2000,True,False,True,False,0.5,False,True,True,False,True,False,True,"formato ET: pct_breve, formato ET: log_mediana_palabras, formato ET: pct_breve+log_mediana_palabras+log_docs+pct_titulo_cap+pct_lead_dup",False,False,False,False,False,False,False,artefacto probable de formato
+2002,True,False,True,False,0.5,False,True,True,False,True,False,True,formato ET: pct_breve+log_mediana_palabras+log_docs+pct_titulo_cap+pct_lead_dup,True,False,False,False,False,False,False,artefacto probable de formato
+2004,False,True,False,False,0.3333333333333333,False,False,True,False,False,True,False,,True,False,False,False,False,False,False,no robusto
+2006,True,True,True,True,1.0,True,True,True,True,True,True,True,"formato ET: pct_breve, formato ET: log_mediana_palabras, formato ET: pct_titulo_cap, formato ET: pct_breve+log_mediana_palabras+log_docs+pct_titulo_cap+pct_lead_dup",True,True,False,True,True,True,True,robusto (coincide con formato)

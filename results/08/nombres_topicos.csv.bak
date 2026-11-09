@@ -1,0 +1,21 @@
+topico,nombre,residual,residual_sugerido,motivo,top10
+T00,paz conflicto guerra,False,False,,paz conflicto guerra guerrilla proceso político diálogo violencia civil derecho
+T01,presidente estados_unidos gobierno,False,False,,presidente estados_unidos gobierno ministro estadounidense reunión acuerdo venezolano colombiano mandatario
+T02,empresa compañía negocio,False,False,,empresa compañía negocio mercado venta firma inversión operación acción dólar
+T03,torneo campeón título,False,False,,torneo campeón título final carrera categoría cuarto victoria colombiano ronda
+T04,vehículo calle vía,False,False,,vehículo calle vía ciudad carrera carro conductor bus transporte tránsito
+T05,peso entidad crédito,False,False,,peso entidad crédito financiero pago recurso deuda banco dinero billón
+T06,usuario servicio sistema,False,False,,usuario servicio sistema red tecnología información computador electrónico cliente software
+T07,niño hijo padre,False,False,,niño hijo padre familia mujer médico madre casa vida persona
+T08,música artista musical,False,False,,música artista musical canción concierto evento disco cantante grupo presentación
+T09,producto producción precio,False,False,,producto producción precio productor exportación mercado tonelada café importación dólar
+T10,estudiante educación programa,False,False,,estudiante educación programa educativo universidad institución colegio desarrollo académico profesor
+T11,partido equipo gol,False,False,,partido equipo gol jugador fútbol técnico juego minuto estadio torneo
+T12,investigación caso juez,False,False,,investigación caso juez proceso delito abogado justicia judicial cargo funcionario
+T13,militar guerrillero comandante,False,False,,militar guerrillero comandante autoridad herido hombre muerto grupo zona policía
+T14,proyecto reforma ley,False,False,,proyecto reforma ley debate iniciativa propuesta artículo ministro norma tema
+T15,agua construcción metro,False,False,,agua construcción metro zona obra río vivienda proyecto kilómetro barrio
+T16,tasa economía crecimiento,False,False,,tasa economía crecimiento económico inflación interés mercado aumento precio dólar
+T17,candidato elección voto,False,False,,candidato elección voto político partido electoral liberal campaña presidencial conservador
+T18,historia libro película,False,False,,historia libro película mundo vida personaje cine obra novela hombre
+T19,municipio alcalde departamento,False,False,,municipio alcalde departamento gobernador municipal administración departamental población concejal mandatario

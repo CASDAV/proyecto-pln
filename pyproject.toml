@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "es-core-news-md",
+    "gensim>=4.4",
     "ipykernel>=7.3.0",
     "matplotlib>=3.11.1",
     "nltk>=3.10.3",
@@ -15,6 +16,7 @@ dependencies = [
     "scipy>=1.18.1",
     "spacy>=3.8.16",
     "wordcloud>=1.9.6",
+    "wordfreq>=3.1.1",
 ]
 
 [dependency-groups]

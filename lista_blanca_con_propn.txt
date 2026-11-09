@@ -1,0 +1,39 @@
+# data/lista_blanca_con_propn.txt — bigramas con_propn que entran como features en el 08
+# Criterio: instituciones u organismos que son tema. Sin personas, lugares ni fragmentos.
+# justicia y control
+corte_suprema
+corte_constitucional
+fiscalía_general
+procuraduría_general
+contraloría_general
+defensoría_pueblo
+tribunal_superior
+# economía
+banco_república
+banco_central
+banco_mundial
+banco_interamericano
+ministerio_hacienda
+bolsa_valores
+cámara_comercio
+planeación_nacional
+interno_bruto
+tratado_libre
+# seguridad
+fuerzas_armadas
+fuerzas_militares
+fuerza_pública
+fuerza_aérea
+policía_nacional
+ministerio_defensa
+# política
+cámara_representantes
+congreso_república
+casa_nariño
+# internacional
+naciones_unidas
+unión_europea
+unión_soviética
+américa_latina
+relaciones_exteriores
+cruz_roja

@@ -30,7 +30,10 @@ import pyarrow.parquet as pq
 import utils
 
 # Súbelo a mano cuando cambie la lógica del pipeline (invalida el caché).
-PIPELINE_VERSION = "3.0.1"  # 3.0.1: lemas de verbos con clítico sin espacio
+# 3.0.2: `conservar` también rescata PROPN + sección conservar_propn (Estados Unidos…)
+# 3.0.3: sustantivos de contenido que solo spaCy marca como stopword (acuerdo, uso…),
+#        rescatados como NOUN salvo dentro de locuciones ("de acuerdo con")
+PIPELINE_VERSION = "3.0.3"
 
 POS_CONTENIDO = {"NOUN": "N", "ADJ": "A", "VERB": "V", "PROPN": "P"}
 TIPOS_ENT = ("PER", "ORG", "LOC")
@@ -257,8 +260,67 @@ def _cortar_entidad(ent) -> str:
     return " ".join(toks)
 
 
+# Locuciones gramaticales por lema, sobre la ventana en minúsculas
+# "w-2 w-1 FORMA w+1 w+2" (sin espacios ni saltos). Un NOUN rescatado por
+# `conservar` que cae en una de estas locuciones se descarta igual.
+LOCUCIONES = {
+    "acuerdo": r"\bde acuerdo\b",
+    "cuenta": r"\b(?:en|por|según) cuenta\b|\b(?:por|a) (?:su|mi|tu|nuestra) cuenta\b"
+    r"|\b(?:da|di|dé|den|dar)\w* cuenta\b",
+    "medio": r"\b(?:por|en) medio\b",
+    "fin": r"\b(?:a|al|en|por|sin|tal) fin\b|\bcon (?:el |este |ese )?fin\b"
+    r"|\bcon fines\b|\bfin de (?:semana|año|mes)\b",
+    "embargo": r"\bsin embargo\b",
+    "hecho": r"\bde hecho\b|\bel hecho de\b|\bhecho de que\b",
+    "bien": r"\b(?:si|más|muy|está) bien\b",
+    "parte": r"\b(?:por|de|en) parte\b|\bmayor parte\b|\bparte del?\b",
+    "lado": r"\b(?:al|por|del|un|otro|ambos|este|ese) lado\b",
+    "tarde": r"\b(?:la|esta|esa|una|en la|por la|de la) tarde\b",
+    "total": r"\b(?:un|en|del) total\b",
+    "uso": r"\b(?:hacer|hace|hacen|hizo|haga|hicieron) uso\b",
+}
+_RE_LOCUCIONES = {k: re.compile(v) for k, v in LOCUCIONES.items()}
+
+
+def _ventana(t, k: int = 2) -> str:
+    """Forma del token con k vecinos no-espacio a cada lado, en minúsculas."""
+    doc, izq, der = t.doc, [], []
+    i = t.i - 1
+    while i >= 0 and len(izq) < k:
+        if not doc[i].is_space:
+            izq.append(doc[i].lower_)
+        i -= 1
+    i = t.i + 1
+    while i < len(doc) and len(der) < k:
+        if not doc[i].is_space:
+            der.append(doc[i].lower_)
+        i += 1
+    return " ".join([*izq[::-1], t.lower_, *der])
+
+
+def _en_locucion(t, lema: str) -> bool:
+    rx = _RE_LOCUCIONES.get(lema)
+    return bool(rx and rx.search(_ventana(t)))
+
+
+def _rescatado(t, lema: str, low: str, conservar, conservar_propn) -> bool:
+    """Stopwords que se conservan: `conservar` cuando el token es NOUN o PROPN
+    ("el Estado", "Poder Judicial", "el acuerdo de paz") y no está dentro de
+    una locución gramatical ("de acuerdo con", "a fin de"); `conservar_propn`
+    solo cuando es PROPN (primera palabra de nombres compuestos: "Estados
+    Unidos", "Nueva York")."""
+    if t.pos_ in ("NOUN", "PROPN") and lema in conservar:
+        return not (t.pos_ == "NOUN" and _en_locucion(t, lema))
+    return t.pos_ == "PROPN" and (lema in conservar_propn or low in conservar_propn)
+
+
 def extraer_doc(
-    doc, offset: int, sw: set[str], conservar: set[str], cfg: PrepConfig
+    doc,
+    offset: int,
+    sw: set[str],
+    conservar: set[str],
+    cfg: PrepConfig,
+    conservar_propn: frozenset[str] | set[str] = frozenset(),
 ) -> dict:
     """De un Doc de spaCy a las columnas del parquet (una sola tokenización)."""
     forma: list[str] = []
@@ -286,8 +348,8 @@ def extraer_doc(
         # spaCy lematiza los clíticos con espacio ("apretarse" → "apretar él"):
         # se deja solo el verbo para que cada lema sea un único token.
         lema = (t.lemma_.lower().split() or [low])[0]
-        es_sw = (lema in sw or low in sw) and not (
-            t.pos_ == "NOUN" and lema in conservar
+        es_sw = (lema in sw or low in sw) and not _rescatado(
+            t, lema, low, conservar, conservar_propn
         )
         if code and t.is_alpha and len(lema) >= cfg.min_len_lema and not es_sw:
             if lemas and (corte or hueco > cfg.max_hueco):
@@ -414,7 +476,11 @@ def construir_corpus_procesado(
 
     nlp = cargar_nlp(cfg)
     sw = utils.cargar_stopwords()
-    conservar = set(utils.leer_stopwords_dominio().get("conservar", []))
+    secciones = utils.leer_stopwords_dominio()
+    conservar = set(secciones.get("conservar", []))
+    conservar_propn = set(secciones.get("conservar_propn", []))
+
+    diag = DiagNounSpacy(conservar)
 
     meta = {
         "hash_nlp": h["nlp"],
@@ -433,7 +499,8 @@ def construir_corpus_procesado(
         )
         buf, ini, t1 = [], 0, time.time()
         for doc, off in stream:
-            buf.append(extraer_doc(doc, off, sw, conservar, cfg))
+            buf.append(extraer_doc(doc, off, sw, conservar, cfg, conservar_propn))
+            diag.observar(doc, ini + len(buf) - 1)
             if len(buf) == cfg.chunk_docs:
                 yield _chunk(ini, buf)
                 ini += len(buf)
@@ -453,6 +520,7 @@ def construir_corpus_procesado(
         return _a_tabla(marcar_generos(sub, cfg))
 
     _escribir(path, tablas(), meta)
+    diag.tabla().to_csv(ruta_diag_noun(cfg), index=False)
     meta |= {
         "segundos_total": round(time.time() - t0, 1),
         "segundos_limpieza": round(t_texto, 1),
@@ -644,3 +712,186 @@ def comparar_variantes_npmi(
         }
     )
     return resumen, lado
+
+
+# ---------------------------------------------------------------------------
+# Diagnóstico: nombres propios que el filtro de stopwords descarta
+# ---------------------------------------------------------------------------
+
+
+def _origenes_stopwords() -> dict[str, set[str]]:
+    from nltk.corpus import stopwords
+    from spacy.lang.es.stop_words import STOP_WORDS
+
+    org = {"nltk": set(stopwords.words("spanish")), "spacy": set(STOP_WORDS)}
+    for sec, palabras in utils.leer_stopwords_dominio().items():
+        if not sec.startswith("conservar"):
+            org[f"dominio:{sec}"] = set(palabras)
+    return org
+
+
+def diagnostico_propn_perdidos(
+    base: pd.DataFrame,
+    cfg: PrepConfig,
+    nlp=None,
+    top: int = 40,
+    ventana: int = 6,
+) -> pd.DataFrame:
+    """PROPN cuyo lema o forma está en las stopwords (los que la regla de la
+    3.0.1 descartaba: `conservar` solo rescataba NOUN).
+
+    Recorre `base` (salida de preparar_textos, típicamente la muestra FAST) con
+    spaCy y agrupa por (lema, forma). Para cada grupo: frecuencia, documentos,
+    de qué lista viene, la palabra siguiente más común (para ver la entidad que
+    se rompe: "Estados" → "Unidos"), un ejemplo de contexto y si la regla
+    actual (3.0.2) lo rescata.
+    """
+    nlp = nlp or cargar_nlp(cfg)
+    sw = utils.cargar_stopwords()
+    secciones = utils.leer_stopwords_dominio()
+    conservar = set(secciones.get("conservar", []))
+    conservar_propn = set(secciones.get("conservar_propn", []))
+    origenes = _origenes_stopwords()
+
+    n, docs, sig, ejemplo = Counter(), {}, {}, {}
+    for i, doc in enumerate(
+        nlp.pipe(base["texto_nlp"], n_process=cfg.n_process, batch_size=cfg.batch_size)
+    ):
+        toks = [t for t in doc if not t.is_space]
+        for j, t in enumerate(toks):
+            if t.pos_ != "PROPN" or not t.is_alpha:
+                continue
+            low = t.lower_
+            lema = (t.lemma_.lower().split() or [low])[0]
+            if len(lema) < cfg.min_len_lema or not (lema in sw or low in sw):
+                continue
+            k = (lema, low)
+            n[k] += 1
+            docs.setdefault(k, set()).add(i)
+            nxt = toks[j + 1].text if j + 1 < len(toks) else ""
+            sig.setdefault(k, Counter())[nxt] += 1
+            if k not in ejemplo:
+                ini, fin = max(0, j - ventana), j + ventana + 1
+                ejemplo[k] = " ".join(x.text for x in toks[ini:fin]).replace("\n", " ")
+
+    filas = []
+    for (lema, low), c in n.most_common(top):
+        de = [o for o, s in origenes.items() if lema in s or low in s]
+        filas.append(
+            {
+                "lema": lema,
+                "forma": low,
+                "n": c,
+                "docs": len(docs[(lema, low)]),
+                "origen": ",".join(de),
+                "siguiente_top": ", ".join(
+                    f"{w}({k})" for w, k in sig[(lema, low)].most_common(3)
+                ),
+                "rescatado": lema in conservar
+                or lema in conservar_propn
+                or low in conservar_propn,
+                "ejemplo": ejemplo[(lema, low)],
+            }
+        )
+    return pd.DataFrame(filas)
+
+
+# ---------------------------------------------------------------------------
+# Diagnóstico: sustantivos que descarta SOLO la lista de stopwords de spaCy
+# (se acumula durante la construcción del parquet: no requiere otra pasada)
+# ---------------------------------------------------------------------------
+
+
+def ruta_diag_noun(cfg: PrepConfig) -> Path:
+    sufijo = "_fast" if cfg.fast else ""
+    return utils.data_dir() / f"diag_noun_spacy{sufijo}.csv"
+
+
+class DiagNounSpacy:
+    """Acumula, documento a documento, los tokens cuyo lema o forma está en
+    STOP_WORDS de spaCy y NO en NLTK ni en la lista de dominio (palabras que
+    solo spaCy considera vacías). Para cada lema guarda: apariciones como NOUN,
+    documentos, POS de todas sus apariciones, cuántas apariciones NOUN caen en
+    una locución gramatical (LOCUCIONES), dos contextos fuera de locución, uno
+    dentro, y si está en `conservar`. Las apariciones NOUN fuera de locución
+    de un lema en `conservar` son las que entran a los lemas (n_fuera_locucion).
+    Se escribe en data/diag_noun_spacy[_fast].csv al construir el parquet."""
+
+    def __init__(self, conservar: set[str], ventana: int = 6):
+        from nltk.corpus import stopwords
+        from spacy.lang.es.stop_words import STOP_WORDS
+
+        nltk_sw = set(stopwords.words("spanish"))
+        dominio = set()
+        for sec, palabras in utils.leer_stopwords_dominio().items():
+            if not sec.startswith("conservar"):
+                dominio |= set(palabras)
+        self.nltk = nltk_sw | dominio
+        self.solo_spacy = set(STOP_WORDS) - self.nltk
+        self.conservar = conservar
+        self.ventana = ventana
+        self.loc = _RE_LOCUCIONES
+        self.ej_loc = {}
+        self.pos = {}  # lema -> Counter(POS)
+        self.n_noun = Counter()
+        self.n_loc = Counter()
+        self.docs = {}
+        self.formas = {}
+        self.ejemplos = {}
+
+    def observar(self, doc, i_doc: int) -> None:
+        toks = [t for t in doc if not t.is_space]
+        for j, t in enumerate(toks):
+            if not t.is_alpha:
+                continue
+            low = t.lower_
+            lema = (t.lemma_.lower().split() or [low])[0]
+            if not (lema in self.solo_spacy or low in self.solo_spacy):
+                continue
+            if lema in self.nltk or low in self.nltk:
+                continue
+            self.pos.setdefault(lema, Counter())[t.pos_] += 1
+            if t.pos_ != "NOUN":
+                continue
+            self.n_noun[lema] += 1
+            self.docs.setdefault(lema, set()).add(i_doc)
+            self.formas.setdefault(lema, Counter())[low] += 1
+            ini = max(0, j - self.ventana)
+            texto = " ".join(x.text for x in toks[ini : j + self.ventana + 1])
+            if _en_locucion(t, lema):
+                self.n_loc[lema] += 1
+                self.ej_loc.setdefault(lema, texto.replace("\n", " "))
+                continue
+            ej = self.ejemplos.setdefault(lema, [])
+            if len(ej) < 2:
+                ej.append(texto.replace("\n", " "))
+
+    def tabla(self) -> pd.DataFrame:
+        filas = []
+        for lema, n in self.n_noun.most_common():
+            pos = self.pos[lema]
+            total = sum(pos.values())
+            ej = self.ejemplos.get(lema, []) + ["", ""]
+            filas.append(
+                {
+                    "lema": lema,
+                    "n_noun": n,
+                    "df": len(self.docs[lema]),
+                    "frac_noun": round(n / total, 3),
+                    "pos_otros": ", ".join(
+                        f"{p}({c})" for p, c in pos.most_common() if p != "NOUN"
+                    )[:60],
+                    "formas": ", ".join(
+                        f"{f}({c})" for f, c in self.formas[lema].most_common(3)
+                    ),
+                    "frac_locucion": round(self.n_loc[lema] / n, 3)
+                    if lema in self.loc
+                    else None,
+                    "n_fuera_locucion": n - self.n_loc[lema],
+                    "rescatado": lema in self.conservar,
+                    "ejemplo_1": ej[0],
+                    "ejemplo_2": ej[1],
+                    "ejemplo_locucion": self.ej_loc.get(lema, ""),
+                }
+            )
+        return pd.DataFrame(filas)

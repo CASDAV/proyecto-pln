@@ -1,0 +1,19 @@
+topico,nombre,residual,residual_sugerido,motivo,top10
+T00,Educación,False,False,,estudiante educación programa educativo colegio universidad institución profesor académico alumno
+T01,Empresas y comercio exterior,False,False,,mercado empresa producto venta compañía negocio dólar producción precio exportación
+T02,Conflicto armado: combates,False,False,,militar guerrillero grupo comandante guerrilla zona autoridad herido muerto armado
+T03,Tecnología y telecomunicaciones,False,False,,servicio usuario red sistema información tecnología empresa computador cliente electrónico
+T04,Gobierno municipal y departamental,False,False,,municipio alcalde departamento gobernador municipal administración departamental concejal recurso población
+T05,Deporte: torneos individuales,False,False,,torneo campeón título final carrera categoría cuarto victoria colombiano mundial
+T06,Macroeconomía,False,False,,tasa economía crecimiento precio inflación económico dólar aumento mercado interés
+T07,Familia salud y vida cotidiana,False,False,,hijo niño padre mujer familia vida casa madre médico hombre
+T08,Relaciones internacionales,False,False,,presidente estados_unidos gobierno ministro reunión acuerdo estadounidense negociación venezolano colombiano
+T09,Justicia y procesos judiciales,False,False,,investigación juez caso delito proceso abogado justicia judicial cárcel cargo
+T10,Paz y política: ensayo y opinión,True,True,formato: rho longitud = 0.40,paz político política social sociedad humano derecho conflicto problema vida
+T11,Cultura y espectáculos,False,False,,artista música obra película arte historia cine canción teatro musical
+T12,Movilidad urbana,False,False,,calle vehículo ciudad vía carrera carro bus conductor transporte avenida
+T13,Elecciones y partidos,False,False,,candidato elección voto político partido liberal electoral campaña presidencial conservador
+T14,Sistema financiero,False,False,,peso entidad financiero crédito pago banco deuda recurso dinero billón
+T15,Fútbol,False,False,,partido equipo gol jugador fútbol técnico juego minuto estadio torneo
+T16,Legislación y reformas,False,False,,proyecto ley reforma propuesta iniciativa debate impuesto artículo norma tributario
+T17,Agua tierra e infraestructura,False,False,,agua zona río metro construcción vivienda hectárea kilómetro obra ambiental
