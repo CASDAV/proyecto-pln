@@ -183,7 +183,7 @@ FIGURAS = {
             "08/comparacion_bigramas.csv; 08/resumen_08.json", "Apéndice"),
     "F03": ("f03_topicos", "18 tópicos: 17 interpretables y uno residual (T10, registro de opinión dependiente de la longitud).",
             "08/topicos.csv; 08/nombres_topicos.csv; figuras/macrocategorias.csv", "Método"),
-    "F04": ("f04_macrocategorias", "Los 17 tópicos de agenda se agrupan en macrotemas; la co-ocurrencia en θ respalda la agrupación a mano.",
+    "F04": ("f04_macrocategorias", "Los 17 tópicos de agenda se agrupan a mano en 7 macrotemas; la co-ocurrencia en θ solo la respalda en parte (ver ARI).",
             "08/theta_documentos.parquet; figuras/macrocategorias.csv", "Apéndice"),
     "F05": ("f05_prevalencia_topicos", "Los cambios de agenda de El Tiempo se concentran en pocos tópicos y en 1995 y 2006.",
             "08/prevalencias_ic.csv; 08/robustez_cambios.csv; 08/resumen_08.json", "Agenda"),
